@@ -1,0 +1,6 @@
+,acousticness,artists,danceability,duration_ms,energy,explicit,id,instrumentalness,key,liveness,loudness,mode,name,popularity,release_date,speechiness,tempo,valence,year,genres
+7654,0.31,"['nothing,nowhere.']",0.615,204964,0.521,0,51CUtoKY6oPN5PIXJsCQIq,1.6e-06,2,0.0978,-8.849,1,"I'm Sorry, I'm Trying",60,2016-04-01,0.0484,139.503,0.182,2016,"{'emo rap', 'pop rap'}"
+7754,0.0447,['YoungBoy Never Broke Again'],0.78,180706,0.784,1,4MofYf0f4ijlVV6elUW5S3,0.0,1,0.122,-5.039,1,Untouchable,60,2017-05-31,0.18600000000000005,85.023,0.43,2017,"{'baton rouge rap', 'trap'}"
+7854,0.13699999999999998,"['David Guetta', 'Bebe Rexha', 'J Balvin']",0.703,198947,0.66,0,3MoV1UsAJmz64LHqyiRMp0,0.0,10,0.192,-5.119,0,Say My Name,66,2018-09-14,0.12300000000000001,95.031,0.79,2018,"{'reggaeton', 'post-teen pop', 'dance pop', 'pop', 'edm', 'latin', 'reggaeton colombiano', 'electropop'}"
+7954,0.8340000000000001,['Lewis Capaldi'],0.708,179908,0.33899999999999997,0,5C1TucCRf4Vjjree1OItyv,0.0,9,0.128,-7.085,1,One,72,2019-05-17,0.0409,117.995,0.512,2019,"{'pop', 'uk pop'}"
+8054,0.478,['Kelsea Ballerini'],0.462,167796,0.512,0,1ytCra0qH6gcHnCVQwREvu,0.0,9,0.0993,-5.443,1,homecoming queen?,65,2020-03-20,0.0334,114.014,0.29,2020,"{'pop', 'contemporary country'}"

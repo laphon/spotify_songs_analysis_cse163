@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "layer": [{"mark": "line", "encoding": {"color": {"type": "nominal", "field": "kpop_type"}, "x": {"type": "quantitative", "field": "year", "scale": {"zero": false}}, "y": {"type": "quantitative", "aggregate": "mean", "field": "danceability", "scale": {"padding": 1, "zero": false}}}, "title": "danceability by year"}, {"mark": {"type": "circle", "opacity": 0.15}, "encoding": {"color": {"type": "nominal", "field": "kpop_type"}, "tooltip": [{"type": "nominal", "field": "name"}, {"type": "nominal", "field": "artists"}, {"type": "nominal", "field": "kpop_type"}, {"type": "quantitative", "field": "danceability"}], "x": {"type": "quantitative", "field": "year", "scale": {"zero": false}}, "y": {"type": "quantitative", "field": "danceability", "scale": {"padding": 1, "zero": false}}}}, {"mark": "rule", "encoding": {"color": {"type": "nominal", "field": "kpop_type"}, "y": {"type": "quantitative", "aggregate": "mean", "field": "danceability"}}}], "data": {"name": "data-946aba025e97aff80209405d02ff12a4"}, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-946aba025e97aff80209405d02ff12a4": [{"Unnamed: 0": 489, "name": "PLAYING WITH FIRE", "id": "7e7VjLxO5xJINHvnRytrqi", "artists": "['BLACKPINK']", "genres": "{'k-pop girl group', 'k-pop'}", "explicit": false, "release_date": "2016-11-01", "popularity": 76, "danceability": 0.7070000000000001, "energy": 0.758, "key": 4, "loudness": -4.511, "mode": 0, "speechiness": 0.0917, "acousticness": 0.0399, "instrumentalness": 0.0, "liveness": 0.141, "valence": 0.674, "tempo": 97.037, "duration_ms": 197355, "year": 2016, "kpop_type": "girl group"}, {"Unnamed: 0": 461, "name": "Not Today", "id": "4hrpoqJMVE7FxBu1YWx0eQ", "artists": "['BTS']", "genres": "{'k-pop boy group', 'k-pop'}", "explicit": false, "release_date": "2017-02-13", "popularity": 72, "danceability": 0.594, "energy": 0.946, "key": 8, "loudness": -3.408, "mode": 1, "speechiness": 0.126, "acousticness": 0.00181, "instrumentalness": 1.04e-06, "liveness": 0.923, "valence": 0.665, "tempo": 110.024, "duration_ms": 231860, "year": 2017, "kpop_type": "boy group"}, {"Unnamed: 0": 716, "name": "Hi High", "id": "0RqzUS7AkBhQDrBxcGFeDv", "artists": "['LOONA']", "genres": "{'k-pop girl group', 'k-pop'}", "explicit": false, "release_date": "2018-08-20", "popularity": 61, "danceability": 0.67, "energy": 0.916, "key": 9, "loudness": -2.261, "mode": 0, "speechiness": 0.0731, "acousticness": 0.0363, "instrumentalness": 5.35e-06, "liveness": 0.221, "valence": 0.532, "tempo": 97.004, "duration_ms": 196864, "year": 2018, "kpop_type": "girl group"}, {"Unnamed: 0": 516, "name": "MIROH", "id": "4WuKHgxdCJsaOBIh7yndty", "artists": "['Stray Kids']", "genres": "{'k-pop boy group', 'k-pop'}", "explicit": false, "release_date": "2019-03-25", "popularity": 71, "danceability": 0.563, "energy": 0.979, "key": 9, "loudness": -3.104, "mode": 1, "speechiness": 0.104, "acousticness": 0.00911, "instrumentalness": 0.0, "liveness": 0.249, "valence": 0.503, "tempo": 126.063, "duration_ms": 207617, "year": 2019, "kpop_type": "boy group"}, {"Unnamed: 0": 11, "name": "How You Like That", "id": "3vAn0qZzdyuHamcrpkfiX3", "artists": "['BLACKPINK']", "genres": "{'k-pop girl group', 'k-pop'}", "explicit": false, "release_date": "2020-06-26", "popularity": 89, "danceability": 0.828, "energy": 0.782, "key": 11, "loudness": -4.0139999999999985, "mode": 1, "speechiness": 0.0918, "acousticness": 0.0694, "instrumentalness": 3.41e-05, "liveness": 0.0544, "valence": 0.35100000000000003, "tempo": 130.013, "duration_ms": 181264, "year": 2020, "kpop_type": "girl group"}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

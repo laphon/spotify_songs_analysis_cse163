@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-affb4c16ed7371c4858dffb3ebc72843"}, "mark": "line", "encoding": {"x": {"type": "nominal", "field": "year"}, "y": {"type": "quantitative", "axis": {"title": "Mean of dnce"}, "field": "dnce"}}, "title": "Mean of dnce over Years", "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-affb4c16ed7371c4858dffb3ebc72843": [{"year": 2011, "dnce": 56.25600000000003}, {"year": 2012, "dnce": 55.188999999999986}, {"year": 2013, "dnce": 59.66229999999999}, {"year": 2014, "dnce": 57.75499999999999}, {"year": 2015, "dnce": 59.437}, {"year": 2016, "dnce": 60.165}, {"year": 2017, "dnce": 56.51079999999998}, {"year": 2018, "dnce": 66.27699999999999}, {"year": 2019, "dnce": 61.36600000000001}, {"year": 2020, "dnce": 65.68800000000002}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

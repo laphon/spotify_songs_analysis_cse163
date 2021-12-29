@@ -1,0 +1,6 @@
+,name,id,artists,genres,explicit,release_date,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,year
+489,PLAYING WITH FIRE,7e7VjLxO5xJINHvnRytrqi,['BLACKPINK'],"{'k-pop girl group', 'k-pop'}",False,2016-11-01,76,0.7070000000000001,0.758,4,-4.511,0,0.0917,0.0399,0.0,0.141,0.674,97.037,197355,2016
+461,Not Today,4hrpoqJMVE7FxBu1YWx0eQ,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2017-02-13,72,0.594,0.946,8,-3.408,1,0.126,0.0018100000000000002,1.04e-06,0.9229999999999999,0.665,110.024,231860,2017
+716,Hi High,0RqzUS7AkBhQDrBxcGFeDv,['LOONA'],"{'k-pop girl group', 'k-pop'}",False,2018-08-20,61,0.67,0.9159999999999999,9,-2.261,0,0.0731,0.0363,5.35e-06,0.221,0.532,97.00399999999999,196864,2018
+516,MIROH,4WuKHgxdCJsaOBIh7yndty,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2019-03-25,71,0.563,0.9790000000000001,9,-3.1039999999999996,1,0.10400000000000001,0.00911,0.0,0.249,0.503,126.06299999999999,207617,2019
+11,How You Like That,3vAn0qZzdyuHamcrpkfiX3,['BLACKPINK'],"{'k-pop girl group', 'k-pop'}",False,2020-06-26,89,0.828,0.782,11,-4.013999999999999,1,0.0918,0.0694,3.41e-05,0.0544,0.35100000000000003,130.013,181264,2020

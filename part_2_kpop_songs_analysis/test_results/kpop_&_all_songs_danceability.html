@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-3ebef68d6b93e8907c20e4b4e2c70c6c"}, "mark": "line", "encoding": {"color": {"type": "nominal", "field": "dataset"}, "x": {"type": "quantitative", "field": "year", "scale": {"zero": false}}, "y": {"type": "quantitative", "aggregate": "mean", "field": "danceability", "scale": {"padding": 1, "zero": false}}}, "title": "danceability of k-pop songs", "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-3ebef68d6b93e8907c20e4b4e2c70c6c": [{"Unnamed: 0": 7654, "acousticness": 0.31, "artists": "['nothing,nowhere.']", "danceability": 0.615, "duration_ms": 204964, "energy": 0.521, "explicit": 0, "id": "51CUtoKY6oPN5PIXJsCQIq", "instrumentalness": 1.6e-06, "key": 2, "liveness": 0.0978, "loudness": -8.849, "mode": 1, "name": "I'm Sorry, I'm Trying", "popularity": 60, "release_date": "2016-04-01", "speechiness": 0.0484, "tempo": 139.503, "valence": 0.182, "year": 2016, "genres": "{'emo rap', 'pop rap'}", "dataset": "all_songs", "kpop_type": null}, {"Unnamed: 0": 7754, "acousticness": 0.0447, "artists": "['YoungBoy Never Broke Again']", "danceability": 0.78, "duration_ms": 180706, "energy": 0.784, "explicit": 1, "id": "4MofYf0f4ijlVV6elUW5S3", "instrumentalness": 0.0, "key": 1, "liveness": 0.122, "loudness": -5.039, "mode": 1, "name": "Untouchable", "popularity": 60, "release_date": "2017-05-31", "speechiness": 0.18600000000000005, "tempo": 85.023, "valence": 0.43, "year": 2017, "genres": "{'baton rouge rap', 'trap'}", "dataset": "all_songs", "kpop_type": null}, {"Unnamed: 0": 7854, "acousticness": 0.13699999999999998, "artists": "['David Guetta', 'Bebe Rexha', 'J Balvin']", "danceability": 0.703, "duration_ms": 198947, "energy": 0.66, "explicit": 0, "id": "3MoV1UsAJmz64LHqyiRMp0", "instrumentalness": 0.0, "key": 10, "liveness": 0.192, "loudness": -5.119, "mode": 0, "name": "Say My Name", "popularity": 66, "release_date": "2018-09-14", "speechiness": 0.123, "tempo": 95.031, "valence": 0.79, "year": 2018, "genres": "{'reggaeton', 'post-teen pop', 'dance pop', 'pop', 'edm', 'latin', 'reggaeton colombiano', 'electropop'}", "dataset": "all_songs", "kpop_type": null}, {"Unnamed: 0": 7954, "acousticness": 0.8340000000000001, "artists": "['Lewis Capaldi']", "danceability": 0.708, "duration_ms": 179908, "energy": 0.339, "explicit": 0, "id": "5C1TucCRf4Vjjree1OItyv", "instrumentalness": 0.0, "key": 9, "liveness": 0.128, "loudness": -7.085, "mode": 1, "name": "One", "popularity": 72, "release_date": "2019-05-17", "speechiness": 0.0409, "tempo": 117.995, "valence": 0.512, "year": 2019, "genres": "{'pop', 'uk pop'}", "dataset": "all_songs", "kpop_type": null}, {"Unnamed: 0": 8054, "acousticness": 0.478, "artists": "['Kelsea Ballerini']", "danceability": 0.462, "duration_ms": 167796, "energy": 0.512, "explicit": 0, "id": "1ytCra0qH6gcHnCVQwREvu", "instrumentalness": 0.0, "key": 9, "liveness": 0.0993, "loudness": -5.443, "mode": 1, "name": "homecoming queen?", "popularity": 65, "release_date": "2020-03-20", "speechiness": 0.0334, "tempo": 114.014, "valence": 0.29, "year": 2020, "genres": "{'pop', 'contemporary country'}", "dataset": "all_songs", "kpop_type": null}, {"Unnamed: 0": 489, "acousticness": 0.0399, "artists": "['BLACKPINK']", "danceability": 0.7070000000000001, "duration_ms": 197355, "energy": 0.758, "explicit": 0, "id": "7e7VjLxO5xJINHvnRytrqi", "instrumentalness": 0.0, "key": 4, "liveness": 0.141, "loudness": -4.511, "mode": 0, "name": "PLAYING WITH FIRE", "popularity": 76, "release_date": "2016-11-01", "speechiness": 0.0917, "tempo": 97.037, "valence": 0.674, "year": 2016, "genres": "{'k-pop girl group', 'k-pop'}", "dataset": "kpop_songs", "kpop_type": "girl group"}, {"Unnamed: 0": 461, "acousticness": 0.00181, "artists": "['BTS']", "danceability": 0.594, "duration_ms": 231860, "energy": 0.946, "explicit": 0, "id": "4hrpoqJMVE7FxBu1YWx0eQ", "instrumentalness": 1.04e-06, "key": 8, "liveness": 0.923, "loudness": -3.408, "mode": 1, "name": "Not Today", "popularity": 72, "release_date": "2017-02-13", "speechiness": 0.126, "tempo": 110.024, "valence": 0.665, "year": 2017, "genres": "{'k-pop boy group', 'k-pop'}", "dataset": "kpop_songs", "kpop_type": "boy group"}, {"Unnamed: 0": 716, "acousticness": 0.0363, "artists": "['LOONA']", "danceability": 0.67, "duration_ms": 196864, "energy": 0.916, "explicit": 0, "id": "0RqzUS7AkBhQDrBxcGFeDv", "instrumentalness": 5.35e-06, "key": 9, "liveness": 0.221, "loudness": -2.261, "mode": 0, "name": "Hi High", "popularity": 61, "release_date": "2018-08-20", "speechiness": 0.0731, "tempo": 97.004, "valence": 0.532, "year": 2018, "genres": "{'k-pop girl group', 'k-pop'}", "dataset": "kpop_songs", "kpop_type": "girl group"}, {"Unnamed: 0": 516, "acousticness": 0.00911, "artists": "['Stray Kids']", "danceability": 0.563, "duration_ms": 207617, "energy": 0.979, "explicit": 0, "id": "4WuKHgxdCJsaOBIh7yndty", "instrumentalness": 0.0, "key": 9, "liveness": 0.249, "loudness": -3.104, "mode": 1, "name": "MIROH", "popularity": 71, "release_date": "2019-03-25", "speechiness": 0.104, "tempo": 126.063, "valence": 0.503, "year": 2019, "genres": "{'k-pop boy group', 'k-pop'}", "dataset": "kpop_songs", "kpop_type": "boy group"}, {"Unnamed: 0": 11, "acousticness": 0.0694, "artists": "['BLACKPINK']", "danceability": 0.828, "duration_ms": 181264, "energy": 0.782, "explicit": 0, "id": "3vAn0qZzdyuHamcrpkfiX3", "instrumentalness": 3.41e-05, "key": 11, "liveness": 0.0544, "loudness": -4.0139999999999985, "mode": 1, "name": "How You Like That", "popularity": 89, "release_date": "2020-06-26", "speechiness": 0.0918, "tempo": 130.013, "valence": 0.35100000000000003, "year": 2020, "genres": "{'k-pop girl group', 'k-pop'}", "dataset": "kpop_songs", "kpop_type": "girl group"}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-5d89e1d003746bbe7b2e44b807d6d517"}, "mark": "line", "encoding": {"x": {"type": "nominal", "field": "year"}, "y": {"type": "quantitative", "axis": {"title": "Mean of acous"}, "field": "acous"}}, "title": "Mean of acous over Years", "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-5d89e1d003746bbe7b2e44b807d6d517": [{"year": 1921, "acous": 89.58234374999998}, {"year": 1922, "acous": 93.92361111111111}, {"year": 1923, "acous": 97.63289408284024}, {"year": 1924, "acous": 93.55745443037974}, {"year": 1925, "acous": 96.54220532319381}, {"year": 1926, "acous": 74.09195938215103}, {"year": 1927, "acous": 93.46063229194634}, {"year": 1928, "acous": 94.6188005917159}, {"year": 1929, "acous": 59.111050865800884}, {"year": 1930, "acous": 94.3474167309814}, {"year": 1931, "acous": 87.58935229067927}, {"year": 1932, "acous": 94.00876826722336}, {"year": 1933, "acous": 90.50108604501614}, {"year": 1934, "acous": 89.28537501805057}, {"year": 1935, "acous": 78.1330268886044}, {"year": 1936, "acous": 79.59034990512345}, {"year": 1937, "acous": 89.9630872483221}, {"year": 1938, "acous": 91.61265270833339}, {"year": 1939, "acous": 88.28339079079065}, {"year": 1940, "acous": 84.71105499999987}, {"year": 1941, "acous": 89.9570548654246}, {"year": 1942, "acous": 85.10355433596115}, {"year": 1943, "acous": 91.57940063091486}, {"year": 1944, "acous": 89.37054685305588}, {"year": 1945, "acous": 70.13868079999989}, {"year": 1946, "acous": 92.42169261477036}, {"year": 1947, "acous": 91.53985351488278}, {"year": 1948, "acous": 93.42651498929325}, {"year": 1949, "acous": 90.78946949999991}, {"year": 1950, "acous": 86.67234606000002}, {"year": 1951, "acous": 90.49332956499987}, {"year": 1952, "acous": 86.18859180000003}, {"year": 1953, "acous": 89.11394584615377}, {"year": 1954, "acous": 86.79190723000005}, {"year": 1955, "acous": 84.50710369549998}, {"year": 1956, "acous": 82.00998399999999}, {"year": 1957, "acous": 79.00814499999981}, {"year": 1958, "acous": 77.78312150000014}, {"year": 1959, "acous": 77.70880199999993}, {"year": 1960, "acous": 75.70649729999995}, {"year": 1961, "acous": 75.17357250000003}, {"year": 1962, "acous": 71.30967664999991}, {"year": 1963, "acous": 71.25981550000009}, {"year": 1964, "acous": 68.63645619999994}, {"year": 1965, "acous": 60.782575600000044}, {"year": 1966, "acous": 53.38556564699992}, {"year": 1967, "acous": 51.65645676899995}, {"year": 1968, "acous": 48.88282133500003}, {"year": 1969, "acous": 44.372195204999976}, {"year": 1970, "acous": 45.29948439500005}, {"year": 1971, "acous": 45.290769965000024}, {"year": 1972, "acous": 45.733281819999966}, {"year": 1973, "acous": 41.25365250000003}, {"year": 1974, "acous": 43.77837534000001}, {"year": 1975, "acous": 41.570351669500006}, {"year": 1976, "acous": 36.225284875999954}, {"year": 1977, "acous": 33.209420715}, {"year": 1978, "acous": 31.619863110999958}, {"year": 1979, "acous": 28.22550053250009}, {"year": 1980, "acous": 28.289861529000007}, {"year": 1981, "acous": 29.243035646999974}, {"year": 1982, "acous": 28.324909801000043}, {"year": 1983, "acous": 27.70946562750001}, {"year": 1984, "acous": 27.12465820349997}, {"year": 1985, "acous": 27.896429773000012}, {"year": 1986, "acous": 27.167288819500065}, {"year": 1987, "acous": 30.107641817999955}, {"year": 1988, "acous": 30.23136650300003}, {"year": 1989, "acous": 30.009578115500048}, {"year": 1990, "acous": 30.40925320549998}, {"year": 1991, "acous": 31.596834349999988}, {"year": 1992, "acous": 30.660295131499986}, {"year": 1993, "acous": 29.101732172000006}, {"year": 1994, "acous": 28.83338279049998}, {"year": 1995, "acous": 28.49552796000005}, {"year": 1996, "acous": 28.592286419999954}, {"year": 1997, "acous": 30.314284596999947}, {"year": 1998, "acous": 27.797763492499985}, {"year": 1999, "acous": 26.335670799000003}, {"year": 2000, "acous": 28.665430251500016}, {"year": 2001, "acous": 27.039216722999974}, {"year": 2002, "acous": 27.540860545000054}, {"year": 2003, "acous": 24.737943204499977}, {"year": 2004, "acous": 26.421029083999986}, {"year": 2005, "acous": 24.681674257000008}, {"year": 2006, "acous": 26.62839790299997}, {"year": 2007, "acous": 24.180436129999983}, {"year": 2008, "acous": 24.111812005999987}, {"year": 2009, "acous": 24.52693459199999}, {"year": 2010, "acous": 22.871228306500022}, {"year": 2011, "acous": 23.93817572299999}, {"year": 2012, "acous": 23.619658645500028}, {"year": 2013, "acous": 24.19685896800004}, {"year": 2014, "acous": 23.761401954500062}, {"year": 2015, "acous": 24.680092125323647}, {"year": 2016, "acous": 28.028970382427616}, {"year": 2017, "acous": 28.991629085999975}, {"year": 2018, "acous": 27.19409026000002}, {"year": 2019, "acous": 28.929754549999966}, {"year": 2020, "acous": 24.737403742596797}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

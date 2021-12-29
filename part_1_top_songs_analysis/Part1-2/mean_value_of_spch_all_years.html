@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-b7fbda7b0964915d220645018c22d8ef"}, "mark": "line", "encoding": {"x": {"type": "nominal", "field": "year"}, "y": {"type": "quantitative", "axis": {"title": "Mean of spch"}, "field": "spch"}}, "title": "Mean of spch over Years", "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-b7fbda7b0964915d220645018c22d8ef": [{"year": 1921, "spch": 7.725781249999995}, {"year": 1922, "spch": 11.541944444444447}, {"year": 1923, "spch": 9.861893491124256}, {"year": 1924, "spch": 9.020970464135022}, {"year": 1925, "spch": 11.545741444866927}, {"year": 1926, "spch": 30.667242562929008}, {"year": 1927, "spch": 11.619748322147638}, {"year": 1928, "spch": 13.531327134404064}, {"year": 1929, "spch": 48.52783549783548}, {"year": 1930, "spch": 7.970237045203962}, {"year": 1931, "spch": 23.31815165876776}, {"year": 1932, "spch": 14.177640918580385}, {"year": 1933, "spch": 9.617057877813496}, {"year": 1934, "spch": 10.44093862815884}, {"year": 1935, "spch": 35.48051216389247}, {"year": 1936, "spch": 21.486518026565463}, {"year": 1937, "spch": 8.646677852349}, {"year": 1938, "spch": 9.839027777777787}, {"year": 1939, "spch": 12.73245245245246}, {"year": 1940, "spch": 24.409250000000075}, {"year": 1941, "spch": 9.385559006211167}, {"year": 1942, "spch": 8.263493026076436}, {"year": 1943, "spch": 11.305520504731849}, {"year": 1944, "spch": 17.181950585175535}, {"year": 1945, "spch": 31.29584500000003}, {"year": 1946, "spch": 8.80250166333998}, {"year": 1947, "spch": 10.0910386320456}, {"year": 1948, "spch": 8.662526766595287}, {"year": 1949, "spch": 10.330840000000011}, {"year": 1950, "spch": 11.81831999999999}, {"year": 1951, "spch": 10.783399999999997}, {"year": 1952, "spch": 16.419670000000007}, {"year": 1953, "spch": 9.6054205128205}, {"year": 1954, "spch": 11.599510000000018}, {"year": 1955, "spch": 10.661964999999979}, {"year": 1956, "spch": 6.405415000000015}, {"year": 1957, "spch": 6.572104999999989}, {"year": 1958, "spch": 5.785020000000006}, {"year": 1959, "spch": 7.184789999999989}, {"year": 1960, "spch": 6.681045000000005}, {"year": 1961, "spch": 6.220339999999987}, {"year": 1962, "spch": 5.817435000000008}, {"year": 1963, "spch": 5.463310000000004}, {"year": 1964, "spch": 6.515294999999998}, {"year": 1965, "spch": 5.8229600000000055}, {"year": 1966, "spch": 5.564504999999992}, {"year": 1967, "spch": 5.105005000000003}, {"year": 1968, "spch": 6.009780000000003}, {"year": 1969, "spch": 5.618680000000001}, {"year": 1970, "spch": 5.300300000000002}, {"year": 1971, "spch": 6.171999999999993}, {"year": 1972, "spch": 5.487389999999999}, {"year": 1973, "spch": 5.758130000000001}, {"year": 1974, "spch": 5.9336949999999975}, {"year": 1975, "spch": 6.173540000000008}, {"year": 1976, "spch": 6.50382000000002}, {"year": 1977, "spch": 6.062369999999998}, {"year": 1978, "spch": 6.396509999999991}, {"year": 1979, "spch": 6.876919999999996}, {"year": 1980, "spch": 6.019579999999991}, {"year": 1981, "spch": 5.825154999999987}, {"year": 1982, "spch": 6.617205000000002}, {"year": 1983, "spch": 6.871329999999989}, {"year": 1984, "spch": 6.117029999999994}, {"year": 1985, "spch": 5.78907}, {"year": 1986, "spch": 6.586145000000003}, {"year": 1987, "spch": 5.8382300000000065}, {"year": 1988, "spch": 6.772325}, {"year": 1989, "spch": 6.488795000000009}, {"year": 1990, "spch": 6.783639999999995}, {"year": 1991, "spch": 7.370745000000001}, {"year": 1992, "spch": 7.553340000000014}, {"year": 1993, "spch": 7.817559999999993}, {"year": 1994, "spch": 7.814085000000004}, {"year": 1995, "spch": 8.232495}, {"year": 1996, "spch": 8.756309999999996}, {"year": 1997, "spch": 9.002819999999998}, {"year": 1998, "spch": 9.472489999999997}, {"year": 1999, "spch": 9.936195000000025}, {"year": 2000, "spch": 8.985415000000005}, {"year": 2001, "spch": 9.125739999999992}, {"year": 2002, "spch": 8.380909999999984}, {"year": 2003, "spch": 9.23158500000002}, {"year": 2004, "spch": 9.381965000000012}, {"year": 2005, "spch": 9.406585000000003}, {"year": 2006, "spch": 8.384885000000013}, {"year": 2007, "spch": 8.387600000000003}, {"year": 2008, "spch": 7.707564999999998}, {"year": 2009, "spch": 8.704804999999999}, {"year": 2010, "spch": 8.600675000000008}, {"year": 2011, "spch": 8.990240000000014}, {"year": 2012, "spch": 8.37013500000001}, {"year": 2013, "spch": 9.76217000000001}, {"year": 2014, "spch": 8.467125000000012}, {"year": 2015, "spch": 9.574339720352151}, {"year": 2016, "spch": 10.729822244794327}, {"year": 2017, "spch": 11.175245000000006}, {"year": 2018, "spch": 12.814010000000009}, {"year": 2019, "spch": 12.479870000000004}, {"year": 2020, "spch": 14.350484054669717}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

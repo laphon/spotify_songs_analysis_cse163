@@ -1,0 +1,795 @@
+name,id,artists,genres,explicit,release_date,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+Apple,3jg1u32Pn1c2M5r6SAQBCC,['GFRIEND'],"{'k-pop girl group', 'k-pop'}",False,2020-07-13,72,0.641,0.932,9,-4.877,1,0.156,0.0156,0.0,0.117,0.253,119.965,207252
+I'm good at goodbyes,71dXEYXl5IwX9EkHrrKj07,['BIBI'],"{'korean r&b', 'k-pop'}",False,2020-07-10,52,0.663,0.517,3,-6.904,0,0.0987,0.399,2.32e-05,0.109,0.344,90.07,204187
+i'M THE TREND,5Fkkhd5Sy1dCBkKdXLQl4U,['(G)I-DLE'],"{'k-pop girl group', 'k-pop'}",False,2020-07-07,68,0.772,0.794,11,-2.908,0,0.073,0.138,5.91e-06,0.058,0.759,145.102,205013
+PLAY,1SdLedoEjrMRu5AnvK2EYk,"['CHUNG HA', 'CHANGMO']","{'korean pop', 'k-rap', 'korean r&b', 'k-pop'}",False,2020-07-06,75,0.641,0.945,6,-0.535,1,0.0882,0.18,2.94e-05,0.172,0.883,103.931,199524
+Summer Hate (Feat. Rain),0t3Jr6FABrKYLxGgdbco3f,"['ZICO', 'Rain']","{'korean pop', 'korean r&b', 'k-pop'}",False,2020-07-01,70,0.792,0.743,1,-3.817,1,0.0801,0.026,0.0,0.0631,0.835,136.993,184627
+THE ANSWER,1L1N5X35wFk8d5VlyNy2Oa,['AB6IX'],"{'k-pop boy group', 'k-pop'}",False,2020-06-29,66,0.78,0.75,7,-4.428,0,0.0712,0.121,0.0,0.0736,0.902,143.072,190832
+pporappippam 보라빛 밤,7oQh96s9YemWG3A4zkIbrU,['SUNMI'],{'k-pop'},False,2020-06-29,76,0.714,0.828,1,-4.68,0,0.0428,0.0513,0.0652,0.0347,0.318,120.014,206617
+Maria,0ZeGfEAL5Rl4pd5LZBGuEK,['Hwa Sa'],{'k-pop'},False,2020-06-29,84,0.658,0.749,9,-2.967,0,0.0634,0.238,2.03e-06,0.272,0.442,128.909,199027
+Blueprint,560TR1d15nGMXufjbt5tys,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2020-06-17,64,0.744,0.77,7,-4.54,1,0.0599,0.0591,0.0,0.287,0.606,109.977,251300
+FLOWER FANTASY,6RPT3e0Lxz36yPFQPTFMUJ,['N.Flying'],"{'k-pop boy group', 'k-rock', 'k-pop'}",False,2020-06-10,47,0.4,0.725,8,-2.829,0,0.0491,0.228,0.0,0.37,0.579,143.896,220440
+Eternally,7HjcrlnxZ7mSZ8zfJC5fPc,['TOMORROW X TOGETHER'],{'k-pop'},False,2020-05-18,65,0.382,0.85,6,-4.736,1,0.423,0.0255,0.0,0.0912,0.414,185.924,217374
+How You Like That,3vAn0qZzdyuHamcrpkfiX3,['BLACKPINK'],"{'k-pop girl group', 'k-pop'}",False,2020-06-26,89,0.828,0.782,11,-4.014,1,0.0918,0.0694,3.41e-05,0.0544,0.351,130.013,181264
+Stay Gold,0UwQTbq7ZtBJ7v530mpaxP,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2020-06-19,80,0.724,0.631,1,-5.403,1,0.0517,0.0873,0.0,0.0752,0.548,129.019,243733
+ONE(Lucid Dream),1ZhhiI06eIjXZjXK6OXO8u,['Golden Child'],"{'k-pop boy group', 'k-pop'}",False,2020-06-23,58,0.683,0.687,5,-5.108,0,0.0603,0.113,0.0,0.19,0.729,109.879,235653
+Left & Right,66orj0qtDgnU6DlmllAxbq,['SEVENTEEN'],"{'k-pop boy group', 'k-pop'}",False,2020-06-22,77,0.725,0.823,6,-3.868,0,0.115,0.132,0.0,0.104,0.958,149.994,201773
+OOPSY,7wujrLH728xxtvLRejTdV8,['Weki Meki'],"{'k-pop girl group', 'k-pop'}",False,2020-06-18,62,0.742,0.916,6,-1.339,0,0.222,0.158,0.0,0.191,0.96,75.01,194920
+God’s Menu,0RzT9tBLcQhofW2TNiHP9B,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2020-06-17,81,0.689,0.771,5,-3.618,1,0.0548,0.00776,0.0,0.521,0.482,157.052,167922
+Secret Story of the Swan,3FARQP8fA49bSsTWjNyWmY,['IZ*ONE'],"{'k-pop girl group', 'k-pop'}",False,2020-06-15,74,0.703,0.941,7,-0.995,0,0.0808,0.131,0.0,0.319,0.758,102.969,192333
+Greedyy (Feat. Moon Byul of MAMAMOO),6JImJ6bsdcELo7TLFoCcfi,"['Jea', 'Moon Byul']","{'j-core', 'k-pop'}",False,2020-06-12,39,0.789,0.83,11,-3.216,0,0.102,0.263,0.0,0.12,0.884,93.067,262667
+Starry Night,5MaDeMdqsPsZTxNWdEZPVH,['MAMAMOO'],"{'k-pop girl group', 'k-pop'}",False,2018-03-07,67,0.58,0.773,9,-3.302,0,0.05,0.656,0.0,0.112,0.506,124.148,211237
+Hug U,1PA1OE1UsauaEA5LVH6ZDh,['DIA'],"{'k-pop girl group', 'k-pop'}",False,2020-06-10,44,0.47,0.849,7,-1.784,0,0.0512,0.246,0.0,0.0863,0.553,201.818,203133
+When We Were Us,2f4o2u8yAANvg3hQ8BNm4Q,['SUPER JUNIOR-K.R.Y.'],"{'k-pop boy group', 'k-pop'}",False,2020-06-08,56,0.404,0.589,11,-4.043,1,0.029,0.714,0.0,0.115,0.143,135.87,247520
+Oh really.,2YzaJuoqGltZJziw7qAnFC,['N.Flying'],"{'k-pop boy group', 'k-rock', 'k-pop'}",False,2020-06-10,56,0.634,0.895,6,-2.421,1,0.0505,0.302,0.0,0.211,0.797,145.021,195560
+PUMA,4XdzvdvfaAozcWM2svBri5,['TOMORROW X TOGETHER'],{'k-pop'},False,2020-05-18,67,0.684,0.793,6,-3.156,0,0.102,0.0505,0.0,0.137,0.437,104.951,205520
+MORE & MORE,3omvXShuRPM3zbDpWYqf5g,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2020-06-01,81,0.739,0.841,5,-4.162,1,0.06,0.0312,0.0,0.173,0.562,106.99,199653
+Absence,1wj8oNg5fN2zltrUIJGjoN,['Moon Byul'],{'k-pop'},False,2020-05-29,55,0.626,0.737,9,-3.376,0,0.0536,0.242,0.0,0.121,0.178,139.728,219400
+Tiki-Taka(99%),2gLAfzOB7angHctZ0IQAtu,['Weki Meki'],"{'k-pop girl group', 'k-pop'}",False,2019-08-08,52,0.735,0.928,1,-3.482,1,0.0907,0.403,0.0,0.0844,0.755,120.049,179764
+End of Spring,6iYlLt7gqJh8g8MDZR0Vmz,['ONEWE'],"{'k-pop boy group', 'k-pop'}",False,2020-05-26,53,0.613,0.926,7,-1.674,0,0.0537,0.0261,0.0,0.246,0.657,123.959,209053
+yaya (ME TIME),5UnQaR9kyBaIYwgEgp4mID,['Yubin'],"{'k-pop', 'korean city pop'}",False,2020-05-21,46,0.921,0.824,0,-2.976,1,0.0718,0.122,5.33e-05,0.029,0.837,96.036,183236
+Punch,0O22hXRIdbyrnMQk7VldC9,['NCT 127'],"{'k-pop boy group', 'k-pop'}",False,2020-05-19,67,0.636,0.915,1,-3.473,1,0.183,0.0353,0.0,0.0978,0.511,90.946,204000
+Can't You See Me?,2qI0Uchpdc2RkzuhbRnnZ8,['TOMORROW X TOGETHER'],{'k-pop'},False,2020-05-18,74,0.59,0.818,9,-2.988,0,0.0771,0.0584,0.0,0.205,0.664,139.925,201445
+woo ah,5iOAtCkFtfPZoMeMbhMIY0,['Crush'],"{'korean r&b', 'k-pop'}",False,2016-05-06,52,0.663,0.597,6,-8.101,0,0.0564,0.399,0.0,0.139,0.614,140.007,221835
+Dolphin,3NfgdU9mbIVhcJF3XvC0c9,['OH MY GIRL'],"{'k-pop girl group', 'k-pop'}",False,2020-04-27,64,0.858,0.68,4,-4.531,1,0.0795,0.171,0.0,0.173,0.621,113.993,176773
+didn't say anything,0GPtizf5j73g2KuHa4ZdRb,"['Baek Ji Young', 'ONG SEONG WU']","{'korean pop', 'k-pop'}",False,2020-05-12,44,0.429,0.591,7,-3.631,0,0.038,0.485,0.0,0.175,0.243,137.389,223466
+I'm in Trouble,30iB3Vk6T4gAUfZ0OvmwxY,"[""NU'EST""]","{'korean pop', 'k-pop boy group', 'k-pop'}",False,2020-05-11,60,0.829,0.627,8,-4.533,0,0.0814,0.153,0.0,0.0702,0.733,100.047,184200
+Leo (feat. BAEKHYUN),4F9qxQqmkFnBjIvrpiQ7jV,"['BOL4', 'BAEKHYUN']","{'korean pop', 'k-pop'}",False,2020-05-07,63,0.614,0.56,3,-4.709,1,0.0289,0.651,0.0,0.196,0.634,89.994,187987
+KAZINO,245onUPHGD1DYuiacxTuW0,['BIBI'],"{'korean r&b', 'k-pop'}",False,2020-04-29,62,0.625,0.686,6,-3.715,0,0.0414,0.139,0.0,0.11,0.263,133.041,185947
+Life Sucks,6wvtvChKoIGAJpE99av3AI,['HA:TFELT'],"{'korean pop', 'k-indie', 'korean r&b', 'k-pop'}",False,2020-04-23,50,0.511,0.452,4,-5.645,0,0.0613,0.0644,0.0,0.0699,0.428,155.503,193387
+No Good Girl,0WVMHUv6KBMF7gopCXBql9,['MINSEO'],"{'korean pop', 'k-indie', 'k-pop'}",False,2020-04-28,38,0.724,0.608,1,-6.075,0,0.102,0.634,0.0,0.335,0.503,131.991,211373
+BAZOOKA!,5UDDTTQ5cUrH3FYubQ34Y9,['GWSN'],{'k-pop'},False,2020-04-28,55,0.739,0.746,4,-6.146,0,0.0476,0.0288,0.0,0.21,0.657,129.944,195302
+Stay Tonight,3As0OA5B06BxLfADvYyG8L,['CHUNG HA'],{'k-pop'},False,2020-04-27,72,0.636,0.841,2,-1.927,0,0.0548,0.199,0.000395,0.0836,0.506,121.022,217239
+LALALILALA,5zMSAi7u8ltE97q4jZ1jqW,['APRIL'],"{'k-pop girl group', 'k-pop'}",False,2020-04-22,59,0.544,0.94,7,0.076,0,0.0517,0.0423,0.0,0.599,0.419,127.978,194933
+NOT BY THE MOON,1pmfd0ohjfh1qXPWvjaC1o,['GOT7'],"{'k-pop boy group', 'k-pop'}",False,2020-04-20,72,0.549,0.813,5,-4.828,0,0.148,0.0556,4.44e-06,0.207,0.544,151.813,204702
+YOU CAN'T HOLD MY HEART,6nxOW44RKSH3OBw6ZP8yuZ,['Monsta X'],"{'k-pop boy group', 'k-pop'}",False,2020-02-13,61,0.81,0.574,0,-5.038,1,0.0326,0.102,5.41e-06,0.08,0.422,134.001,181112
+Break all the Rules,3zhb2FclGaz3NKovP79Kwk,['CRAVITY'],{'k-pop'},False,2020-04-14,59,0.618,0.86,2,-3.545,0,0.0643,0.0394,0.0,0.132,0.528,78.028,208575
+Dumhdurum,55kuHkT2CWhWKF6CoRDnJq,['Apink'],"{'k-pop girl group', 'k-pop'}",False,2020-04-13,67,0.653,0.923,8,-2.163,0,0.0621,0.145,0.0,0.137,0.692,114.902,208053
+Wish on the same sky,1bGyEXjNXcsFMXjYw8oi3z,['Monsta X'],"{'k-pop boy group', 'k-pop'}",False,2020-03-31,48,0.531,0.859,0,-4.364,0,0.0494,0.0535,0.0,0.0606,0.503,159.949,226160
+A Song Written Easily,5KqOPtE8nhYtgcXzrIt6N0,['ONEUS'],"{'k-pop boy group', 'k-pop'}",False,2020-03-24,64,0.696,0.843,1,-2.397,0,0.0588,0.147,0.0,0.103,0.678,98.01,213293
+舞い落ちる花びら(Fallin' Flower),6MC0anRfGPzSWrvybgsY7O,['SEVENTEEN'],"{'k-pop boy group', 'k-pop'}",False,2020-03-31,64,0.641,0.85,9,-4.76,0,0.229,0.348,0.0,0.227,0.674,141.877,212333
+COLOR EYE,2VsjGK8eJPCthu3IANWwOH,"['PARK WOO JIN', 'AB6IX']","{'k-pop boy group', 'k-pop'}",False,2020-02-13,44,0.742,0.852,7,-4.344,1,0.0345,0.0477,0.0,0.128,0.479,132.014,192515
+風 (Levanter) -Japanese ver.- - Japanese version,4fgHND4GajFKnCFrcKdwdy,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2020-03-13,34,0.557,0.696,9,-4.864,1,0.0558,0.00396,0.0,0.52,0.375,149.98,197440
+Black Swan,24NuEDgyRIljwSyY0lsr7b,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2020-01-17,76,0.719,0.758,2,-5.167,0,0.0851,0.137,0.0,0.129,0.49,147.023,198261
+Kick It,1ayaOin9hxCtyhg4UsBTpg,['NCT 127'],"{'k-pop boy group', 'k-pop'}",False,2020-03-06,70,0.681,0.847,7,-2.462,1,0.0869,0.0306,0.0,0.0808,0.507,167.031,233013
+Sunrise Yellow,33btFaiaOuvdga41RP6AJw,['FTISLAND'],"{'korean pop', 'k-pop boy group', 'k-rock', 'k-pop'}",False,2020-03-02,29,0.54,0.865,7,-3.669,1,0.031,0.00271,0.0,0.0788,0.564,130.013,188571
+Everybody Has,7AKAZxuCnOqkNFVsDxVzYn,['CHUNG HA'],{'k-pop'},False,2020-02-29,52,0.483,0.796,2,-4.953,1,0.0871,0.627,6.98e-06,0.33,0.609,73.956,222454
+Good Guy - Japanese ver.,2xyYcrh0n5r8Rp8h6lhQwP,['SF9'],"{'k-pop boy group', 'k-pop'}",False,2020-02-28,31,0.724,0.78,8,-3.596,1,0.0888,0.0853,0.0,0.0437,0.6,123.952,194051
+ICE AGE,1q2bu7PaEUUiFJYFsAiHiz,['MCND'],{'k-pop'},False,2020-02-27,62,0.715,0.92,1,-2.82,1,0.0975,0.0265,0.0,0.211,0.736,142.897,190773
+A.I TROOPER,17xH4o0sD57vWuX58WYPSJ,['AleXa'],{'k-pop'},False,2020-04-01,41,0.729,0.768,7,-4.736,1,0.0505,0.00165,0.0777,0.203,0.326,124.985,122213
+DAZZLE DAZZLE,3cGOBTvkKS4aCsWRR2VPke,['Weki Meki'],"{'k-pop girl group', 'k-pop'}",False,2020-02-20,56,0.84,0.877,0,-1.842,1,0.191,0.19,0.0,0.748,0.581,118.029,189427
+MORE,5jQqFhmNdiRp57Y8UNkMsZ,"['KIM DONG HYUN', 'AB6IX']","{'k-pop boy group', 'k-pop'}",False,2020-02-13,41,0.559,0.668,7,-5.687,1,0.0865,0.107,0.0,0.248,0.541,119.698,208153
+FIESTA,71vPAjlG1x606483GTJNhY,['IZ*ONE'],"{'k-pop girl group', 'k-pop'}",False,2020-02-17,70,0.758,0.927,7,-2.105,1,0.0537,0.062,0.0,0.343,0.738,122.999,217760
+MOONDANCE,3hGQn8GEEjsJD558f6qAtd,"['JEON WOONG', 'AB6IX']","{'k-pop boy group', 'k-pop'}",False,2020-02-13,49,0.603,0.757,7,-3.962,1,0.052,0.151,0.0,0.313,0.32,126.988,224166
+RED MOON,7huWBxXBSizb0tftJRbJed,['KARD'],{'k-pop'},False,2020-02-12,66,0.724,0.925,9,-1.393,1,0.0615,0.0202,0.0,0.202,0.33,100.028,172147
+Dr. BeBe,2z0LVG9G2SpFaT5bHyWwjK,['PENTAGON'],"{'k-pop boy group', 'k-pop'}",False,2020-02-12,59,0.574,0.881,7,-1.632,0,0.069,0.0106,0.0,0.36,0.576,142.079,191933
+REVEAL,14tNUeer5gUbUYvhYYTclS,['THE BOYZ'],"{'k-pop boy group', 'k-pop'}",False,2020-02-10,63,0.624,0.952,9,-1.38,0,0.108,0.0822,0.0,0.132,0.569,95.043,202453
+Gotta Go,0xq4ZTcmwBfkPGo4RRKmMe,['CHUNG HA'],{'k-pop'},False,2019-01-02,69,0.53,0.829,3,-2.526,0,0.0445,0.0741,0.0,0.0993,0.423,101.85,221813
+HIP -Japanese ver.-,130EFnPhVklMpsIljz32Ts,['MAMAMOO'],"{'k-pop girl group', 'k-pop'}",False,2020-02-05,47,0.766,0.743,3,-4.686,0,0.191,0.0778,1.85e-06,0.0982,0.846,138.018,195307
+Nun Nu Nan Na,7ladzyHoK60op9Zq7wy9UN,['cignature'],{'k-pop'},False,2020-02-04,51,0.665,0.922,6,-1.327,0,0.165,0.256,0.0,0.0684,0.882,164.106,208040
+DUN DUN,3CyCjgTHFzqucmECajq8QA,['EVERGLOW'],"{'k-pop girl group', 'k-pop'}",False,2020-02-03,75,0.692,0.881,11,-2.563,0,0.0461,0.0457,4.26e-06,0.146,0.433,103.055,192280
+Red Sun,5lwWpQ71GKN3sWmk8zZr9g,['DREAMCATCHER'],"{'k-pop girl group', 'k-pop'}",False,2020-02-18,57,0.701,0.92,0,-2.742,0,0.157,0.351,0.0,0.149,0.567,79.454,185093
+Answer - Japanese Ver.,5ougFytIDmWvOxVweXc4ah,['ATEEZ'],"{'k-pop boy group', 'k-pop'}",False,2020-02-12,41,0.532,0.901,7,-2.48,1,0.0514,0.0907,0.0,0.341,0.516,97.924,219760
+2YA2YAO!,7iQTGSIl9m4jofHBGby9kZ,['SUPER JUNIOR'],"{'k-pop boy group', 'k-pop'}",False,2020-01-28,59,0.789,0.884,7,-2.659,1,0.148,0.0941,0.0,0.0569,0.607,100.09,200826
+I'm so Pretty - Japanese Ver.,7gcHGs5KvevRtl4ol93sA4,['NATURE'],"{'k-pop girl group', 'k-pop'}",False,2020-01-24,15,0.653,0.95,7,-3.03,1,0.0995,0.0206,0.000737,0.31,0.923,159.996,211600
+I Think I - Japanese Version,6zYxvIPea63uMeC88rb5YZ,['SUPER JUNIOR'],"{'k-pop boy group', 'k-pop'}",False,2020-01-29,27,0.735,0.738,6,-5.325,1,0.0467,0.336,0.0,0.14,0.902,145.091,202670
+I’m in Sinchon,7LbHSZCOUI74b25hzlfcrJ,['Gavy N.J'],{'k-pop'},False,2020-01-22,19,0.435,0.554,7,-3.802,1,0.0332,0.619,0.0,0.112,0.208,128.939,240787
+Loveship,6Hqk3UKf4uIrdbkJvwM7y3,"['Paul Kim', 'CHUNG HA']","{'korean pop', 'k-pop'}",False,2020-01-21,52,0.384,0.384,10,-7.001,1,0.0312,0.881,0.0,0.0947,0.0759,129.12,259867
+Black Swan,24NuEDgyRIljwSyY0lsr7b,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2020-01-17,76,0.719,0.758,2,-5.167,0,0.0851,0.137,0.0,0.129,0.49,147.023,198261
+9と4分の3番線で君を待つ (Run Away) - Japanese Ver.,4suDPyEfKYtqDR2OGblbTi,['TOMORROW X TOGETHER'],{'k-pop'},False,2020-01-14,52,0.63,0.787,1,-4.302,1,0.103,0.00489,0.0,0.134,0.466,128.997,211867
+Any song,1iIhGHzzrzqQfuNkFI2qAn,['ZICO'],"{'korean pop', 'korean r&b', 'k-pop'}",False,2020-01-13,75,0.874,0.787,10,-2.416,0,0.129,0.118,0.0,0.11,0.896,108.007,227227
+Lay Back,3eVaOnvfX0Ufu1rkwbC0WS,['VERIVERY'],"{'k-pop boy group', 'k-pop'}",False,2020-01-07,56,0.678,0.899,1,-3.436,0,0.277,0.125,0.0,0.073,0.764,110.07,196213
+Remember Forever,2m9K7KlDOQ0NXk9xBpkuoZ,['Red Velvet'],"{'k-pop girl group', 'k-pop'}",False,2019-12-23,55,0.576,0.619,3,-3.324,1,0.0419,0.57,0.0,0.0916,0.524,149.896,187720
+TOP GANG,7JDBOOf49nKbwNopK8Bbv0,['MCND'],{'k-pop'},False,2020-01-02,52,0.803,0.924,0,-2.925,1,0.257,0.087,0.0,0.182,0.748,139.963,181160
+Thumbs Up,2X1zCTkwxQRMkloiVlQ55e,['MOMOLAND'],"{'k-pop girl group', 'k-pop'}",False,2019-12-30,60,0.744,0.988,10,-1.388,0,0.0654,0.0889,7.94e-06,0.273,0.885,130.022,198200
+Take A Hike,0grQK3W2AsUih8AbMWArtO,['Ji Yeon'],{'k-pop'},False,2019-12-26,48,0.654,0.801,10,-3.528,0,0.0438,0.0151,1.94e-06,0.122,0.695,159.111,180413
+The Time I Need,3qDjicRR4yETx2ub0VwQqs,['KIM JAE HWAN'],{'k-pop'},False,2019-12-12,39,0.865,0.487,2,-6.216,1,0.0427,0.792,0.0,0.0833,0.525,104.974,208000
+Levanter,4mtPGvoOvfqskC9M3tNZrV,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2019-12-09,62,0.559,0.695,9,-4.722,1,0.0518,0.00747,0.0,0.545,0.349,149.964,195656
+Obsession,7fK0csBoqbcgUuWGV0cpoD,['EXO'],"{'k-pop boy group', 'k-pop'}",False,2019-11-27,71,0.704,0.729,7,-3.851,1,0.0624,0.0024,0.0,0.218,0.71,129.992,203520
+Blue Flame,6DTeLNeutILDk51f5IZN7d,['ASTRO'],"{'k-pop boy group', 'k-pop'}",False,2019-11-20,61,0.6,0.9,10,-3.048,0,0.136,0.165,0.0,0.101,0.799,173.058,194720
+As You Wish,42zMiF3EFBg5CsYbgKdhj1,['WJSN'],"{'k-pop girl group', 'k-pop'}",False,2019-11-19,56,0.652,0.959,6,-0.266,1,0.0617,0.123,0.0,0.311,0.779,112.04,195668
+Blueming,4Dr2hJ3EnVh2Aaot6fRwDO,['IU'],{'k-pop'},False,2019-11-18,72,0.819,0.674,0,-3.145,1,0.0587,0.0849,0.0,0.0667,0.682,106.032,217053
+ULlala: Poisoning,2KRW7vfIQXiuXchn8O1ISy,['IN2IT'],"{'k-pop boy group', 'k-pop'}",False,2019-11-14,41,0.659,0.857,2,-4.006,0,0.0955,0.0185,0.0,0.0654,0.685,144.819,192653
+OOPSIE (My Bad),5TEdFgup4L8CdEZlcqcAHK,['NATURE'],"{'k-pop girl group', 'k-pop'}",False,2019-11-12,45,0.811,0.971,6,-0.939,1,0.167,0.164,2.63e-05,0.0311,0.677,124.967,201893
+Utopia - Japanese Ver.,4ipCNXuuajObGmHo1FNfM7,['ATEEZ'],"{'k-pop boy group', 'k-pop'}",False,2019-12-04,39,0.636,0.728,1,-4.243,0,0.0334,0.00958,0.0,0.307,0.544,115.999,238760
+FLOWER SHOWER,3wljaQ1KBCAMnPxCPDEUsC,['HyunA'],{'k-pop'},False,2019-11-05,62,0.901,0.548,0,-5.573,1,0.0976,0.0889,4.88e-05,0.0697,0.569,99.996,188373
+You Calling My Name,6f4wghlwYWGLqGEIKc6HDQ,['GOT7'],"{'k-pop boy group', 'k-pop'}",False,2019-11-04,69,0.813,0.667,0,-4.061,0,0.0616,0.0917,0.0,0.0802,0.514,111.02,194708
+nostalgic night,7MC2mQvMmir9PM3nAe2SuW,['VICTON'],"{'k-pop boy group', 'k-pop'}",False,2019-11-04,57,0.576,0.869,6,-2.695,0,0.0898,0.192,0.0,0.594,0.628,140.033,195733
+Drip (Feat. Jay Park),1FnN6ATqxWrAQkLDIhlsOm,"['Jessi', 'Jay Park']","{'k-rap', 'korean r&b', 'k-pop'}",False,2019-11-01,55,0.816,0.586,2,-4.836,1,0.314,0.139,0.0,0.15,0.564,131.944,212840
+SOSO,5r8b02M37428Axrmya9Nrv,['WINNER'],"{'k-pop boy group', 'k-pop'}",False,2019-10-23,53,0.711,0.848,5,-4.333,0,0.0359,0.421,0.0,0.235,0.728,115.988,198277
+Sweet Chaos,499qjESUqiZjlNI7XQhyLp,['DAY6'],"{'k-pop boy group', 'k-pop'}",False,2019-10-22,64,0.335,0.937,11,-1.895,0,0.0737,0.00502,0.0,0.51,0.529,199.692,227240
+My New World,2W2oYLPmfIxp8rD8WH9dkp,['CIX'],{'k-pop'},False,2019-10-23,44,0.635,0.832,11,-2.621,1,0.0338,0.00171,0.0,0.279,0.377,149.893,214600
+Make It Right (feat. Lauv),314ZkcV7oLWG8yWE7LABvH,"['BTS', 'Lauv']","{'k-pop boy group', 'pop', 'k-pop'}",False,2019-10-18,77,0.584,0.685,7,-7.811,1,0.425,0.0304,0.0,0.189,0.345,97.551,226321
+SUPER Clap,52ubrjNeYr0bJNuYGmxfpV,['SUPER JUNIOR'],"{'k-pop boy group', 'k-pop'}",False,2019-10-14,56,0.768,0.951,0,-4.404,1,0.183,0.0452,0.0,0.275,0.878,140.026,209152
+Fake & True,2sKWWJ5ee3EnKBztzxPpMH,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2019-10-18,58,0.678,0.808,5,-3.973,0,0.0599,0.0569,0.0,0.288,0.765,125.938,219625
+SOMEONE'S SOMEONE,5eU51YmH3XzhzNRzkJns27,['Monsta X'],"{'k-pop boy group', 'k-pop'}",False,2020-02-13,62,0.824,0.449,5,-7.392,1,0.32,0.178,2.21e-06,0.1,0.459,95.058,141291
+GOOD BAM,2iODlZgbroRzdfuxmFfPiH,['N.Flying'],"{'k-pop boy group', 'k-rock', 'k-pop'}",False,2019-10-15,50,0.741,0.898,7,-1.659,1,0.0672,0.279,0.0,0.156,0.8,108.021,210400
+Double Knot,7vZseKiQOIuFxxfi84302k,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2019-10-09,61,0.716,0.814,5,-2.889,0,0.35,0.0486,0.0,0.607,0.575,146.925,189771
+WONDERLAND,6k67RdkVjTZj79c1cRz7IQ,['ATEEZ'],"{'k-pop boy group', 'k-pop'}",False,2019-10-08,70,0.572,0.964,4,-1.949,0,0.123,0.0503,0.0,0.372,0.519,129.979,199013
+BLIND FOR LOVE,4bUkJxCgAY9e9Tb0r4vOoy,['AB6IX'],"{'k-pop boy group', 'k-pop'}",False,2019-10-07,53,0.752,0.829,10,-4.471,0,0.0576,0.0175,0.0,0.0472,0.528,122.062,216992
+Jopping,5WrEilrRI5cIW0DxMvQYPZ,['SuperM'],{'k-pop'},False,2019-10-04,70,0.74,0.835,10,-3.425,0,0.0839,0.0139,0.0,0.857,0.535,123.024,251293
+Give Me Dat,42i396f8Oen7VVyA7ujBMi,['Monsta X'],"{'k-pop boy group', 'k-pop'}",False,2019-02-18,41,0.701,0.88,0,-3.376,1,0.0942,0.0367,0.0,0.32,0.401,103.989,205430
+Shall we?,1afMrs1HEsNDm11GRrLeoW,['CHEN'],"{'korean pop', 'k-pop'}",False,2019-10-01,55,0.572,0.401,4,-6.067,1,0.0255,0.543,0.000134,0.117,0.206,139.769,221015
+"Daredevil (Feat. Jvcki Wai, YUMDDA)",4hqlf0C2fcxPbzZSZNVgVw,"['ZICO', 'Jvcki Wai', 'YUMDDA']","{'korean pop', 'k-rap', 'korean r&b', 'k-pop'}",False,2019-09-30,45,0.868,0.789,0,-3.534,1,0.0801,0.149,0.0,0.108,0.699,117.043,252360
+Chicken Noodle Soup (feat. Becky G),6wyr4ReB05D9sJB1Rsmcqo,"['j-hope', 'Becky G']","{'latin', 'k-rap', 'latin pop', 'reggaeton', 'post-teen pop', 'latin viral pop', 'dance pop', 'rap latina', 'k-pop'}",False,2019-09-27,73,0.826,0.817,2,-4.081,1,0.0921,0.00502,1.09e-05,0.294,0.168,97.053,235497
+WE ARE LEGENDARY,6Td37Nc2Dk4Ntmxmv6NVTx,['SONAMOO'],"{'k-pop girl group', 'k-pop'}",False,2019-09-26,36,0.62,0.94,4,-2.176,0,0.0644,0.0158,0.0,0.31,0.697,128.008,209680
+Feel Special,2HtcPHFdo7eu4Ilbvb0BVI,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2019-09-23,77,0.709,0.959,1,-1.339,1,0.0603,0.0296,0.00188,0.107,0.644,128.983,206867
+Dumb Litty,00emjlCv9azBN0fzuuyLqy,['KARD'],{'k-pop'},False,2019-09-22,62,0.76,0.887,9,-1.993,1,0.0409,0.037,0.0,0.138,0.24,130.018,193160
+OOMM (Out of My Mind),65gzcr0GjgVInjECujSpPm,['3YE'],"{'k-pop girl group', 'k-pop'}",False,2019-09-17,48,0.717,0.88,2,-3.211,1,0.0914,0.0533,1.15e-05,0.104,0.399,150.063,200947
+Total Eclipse (Black Out),56ze1yziKclD5iaYlhYysx,['GWSN'],{'k-pop'},False,2019-07-23,38,0.734,0.869,1,-3.236,0,0.198,0.135,0.0,0.191,0.824,123.831,188367
+Workaholic,2WVpI9Og8Z7p8CGQK9CNX3,['BOL4'],"{'korean pop', 'k-pop'}",False,2019-09-10,56,0.727,0.761,11,-3.008,0,0.0549,0.352,0.0,0.644,0.665,108.027,191080
+Breaking Out,1xIAcP1NLPMpZaDfXTiWMs,['DREAMCATCHER'],"{'k-pop girl group', 'k-pop'}",False,2019-09-10,48,0.741,0.747,10,-4.835,0,0.0418,0.0241,3.09e-06,0.111,0.421,110.024,199120
+Pinky Love,6PCrvqMpMlyIMhtmofJRSB,['MOMOLAND'],"{'k-pop girl group', 'k-pop'}",False,2020-06-11,38,0.685,0.831,6,-4.459,1,0.0674,0.0537,7.32e-05,0.146,0.681,170.002,188840
+"1분 1초 One Minute One Second, A Little Memory (feat. 타루 Taru)",0OVzTNggAu9chKnBlyDm44,"['Epik High', '타루 Taru']","{'korean pop', 'k-rap', 'k-indie', 'k-pop'}",False,2009-07-22,23,0.682,0.498,7,-8.913,1,0.0352,0.258,0.0,0.0861,0.658,155.089,226667
+STILL NIRVANA,4Lf7m1yV76aMcKk5wnoOCO,"['RAVI', 'HAON', 'Xydo']","{'k-rap', 'korean r&b', 'k-pop'}",False,2019-08-29,30,0.814,0.957,8,-2.151,1,0.0814,0.283,0.0,0.203,0.946,137.984,213960
+Regulus,299CpDyNkUS3aFAZCr0c9A,['ONEWE'],"{'k-pop boy group', 'k-pop'}",False,2019-08-29,47,0.615,0.674,11,-4.589,1,0.0335,0.546,0.0,0.182,0.477,140.011,222707
+NAPPA 나빠,6uinpqa2nfwWmlj0lOgAf0,['Crush'],"{'korean r&b', 'k-pop'}",False,2019-08-28,55,0.562,0.54,8,-7.94,1,0.281,0.391,0.0,0.173,0.554,161.873,194040
+T.O.P. (Twinkling of paradise),3b0Bt0CBAEesLLO0CifT5r,['SHINHWA'],"{'k-pop boy group', 'k-pop'}",False,1999-10-01,37,0.638,0.781,7,-6.364,1,0.0519,0.0334,0.000351,0.085,0.813,87.994,281760
+LALALAY 날라리,6sWd8ZAH5bWWyjwb7ZV2Zb,['SUNMI'],{'k-pop'},False,2019-08-27,66,0.7,0.806,11,-4.818,0,0.0491,0.00132,0.0,0.0579,0.616,110.016,174880
+Stay Beautiful,1uvhaF0YquxqSNbcFVElOj,['Jamie'],{'k-pop'},False,2019-08-26,60,0.489,0.579,9,-4.054,0,0.0466,0.628,0.0,0.263,0.476,94.19,166053
+Give me more (Un Poco Mas) (feat. De La Ghetto & Play-N-Skillz),15xygfce56PeXzL34nI0YW,"['VAV', 'De La Ghetto', 'Play-N-Skillz']","{'latin', 'tropical', 'reggaeton', 'pop rap', 'latin hip hop', 'chicano rap', 'k-pop boy group', 'trap latino', 'reggaeton flow', 'k-pop'}",False,2019-07-23,46,0.72,0.82,2,-3.325,0,0.0403,0.0489,0.0,0.0743,0.559,100.031,234640
+Your Gravity,1LOoxeIqzQqLZZq2YAHeIh,['UP10TION'],"{'k-pop boy group', 'k-pop'}",False,2019-08-22,38,0.64,0.94,7,-3.25,1,0.0543,0.00365,0.0,0.444,0.419,127.988,192760
+D.D.D,4knqZHNHlEBBEmfETcpTyr,['THE BOYZ'],"{'k-pop boy group', 'k-pop'}",False,2019-08-19,55,0.695,0.921,3,-2.699,1,0.0848,0.0733,0.0,0.0789,0.642,119.971,212363
+Umpah Umpah,5qSoW3ewNlhRN3FNZPmVns,['Red Velvet'],"{'k-pop girl group', 'k-pop'}",False,2019-08-20,58,0.693,0.935,7,-3.306,1,0.0771,0.0258,0.0,0.437,0.844,119.973,220131
+WONDERLAND,6k67RdkVjTZj79c1cRz7IQ,['ATEEZ'],"{'k-pop boy group', 'k-pop'}",False,2019-10-08,70,0.572,0.964,4,-1.949,0,0.123,0.0503,0.0,0.372,0.519,129.979,199013
+Tiki-Taka(99%),2gLAfzOB7angHctZ0IQAtu,['Weki Meki'],"{'k-pop girl group', 'k-pop'}",False,2019-08-08,52,0.735,0.928,1,-3.482,1,0.0907,0.403,0.0,0.0844,0.755,120.049,179764
+BIM BAM BUM,7JfqtEztxAA11Q7O9N6ryT,['Rocket Punch'],"{'k-pop girl group', 'k-pop'}",False,2019-08-07,52,0.706,0.885,6,-3.051,0,0.0438,0.0634,7.18e-06,0.27,0.787,102.019,196307
+BUNGEE (Fall in Love),0QQe9wGk7aZFa5gOAwAJ0w,['OH MY GIRL'],"{'k-pop girl group', 'k-pop'}",False,2019-08-05,50,0.68,0.934,5,-1.441,1,0.117,0.272,0.0,0.0737,0.74,127.974,177400
+Magnetic Moon,3TeIx1jDxtJJGxDkJ6FuSi,['Tiffany Young'],"{'korean r&b', 'k-pop'}",False,2019-08-02,50,0.628,0.536,8,-6.718,0,0.0301,0.0527,0.000148,0.0961,0.428,127.97,194237
+Tag Tag Tag,6HMR9w1ORta3CXI9r4ptpE,['VERIVERY'],"{'k-pop boy group', 'k-pop'}",False,2019-07-31,44,0.74,0.923,2,-1.842,1,0.176,0.114,0.0,0.65,0.563,109.014,185040
+SHA LA LA - Japanese ver.,57Bgy1jxLI9ktAJX8k03w5,['PENTAGON'],"{'k-pop boy group', 'k-pop'}",False,2019-08-21,30,0.678,0.905,9,-3.098,0,0.0771,0.00317,0.0,0.358,0.516,126.042,194920
+What are you up to,0y2tNViyMIGWO0vhNVQaj7,['KANG DANIEL'],{'k-pop'},False,2019-07-25,52,0.726,0.668,0,-3.436,1,0.389,0.336,0.0,0.0872,0.873,159.952,182773
+Gleam,4dOrfL6qgxnjCMSmkekFhB,['MAMAMOO'],"{'k-pop girl group', 'k-pop'}",False,2019-07-24,59,0.772,0.782,1,-3.84,1,0.14,0.106,0.0,0.0769,0.651,117.957,184360
+RED-SUN (021),5aa3xveqpPw5HWdnwZ92G2,['GWSN'],{'k-pop'},False,2019-07-23,47,0.754,0.873,4,-3.92,0,0.159,0.034,0.0,0.502,0.708,128.072,189276
+Movie Star,65pVi11JqwSZqUuYAqLP36,['CIX'],{'k-pop'},False,2019-07-23,61,0.718,0.89,3,-3.798,0,0.0553,0.107,0.0,0.462,0.741,111.967,210507
+Highway to Heaven - English Version,3WNuXdBxk8tQ2VI020dqvE,['NCT 127'],"{'k-pop boy group', 'k-pop'}",False,2019-07-18,63,0.676,0.74,6,-5.044,1,0.0494,0.00257,1.59e-05,0.0782,0.497,112.839,200573
+ICE IN THE CUP,0DYV7ydWKgyyUHlnE8bPqu,['1TEAM'],"{'k-pop boy group', 'k-pop'}",False,2019-07-11,34,0.792,0.752,7,-4.937,1,0.108,0.0819,3.9e-06,0.0659,0.671,74.981,172252
+What a life,3TfLZodlQ1TzNpdrc4KXR5,['EXO-SC'],"{'k-pop boy group', 'k-pop'}",False,2019-07-22,61,0.862,0.782,5,-3.811,0,0.125,0.301,0.0,0.143,0.847,135.029,203867
+Badster,7sjzOysoro4EunDYC9M6Vx,['HYO'],{'k-pop'},False,2019-07-20,40,0.6,0.864,11,-6.732,0,0.0537,0.000924,0.0444,0.412,0.61,138.026,193438
+Long Flight,4hHRHdPzKTpobGyyW9ipNg,['TAEYONG'],{'k-pop'},False,2019-07-18,62,0.688,0.861,5,-2.789,0,0.0455,0.203,1.47e-06,0.127,0.875,148.065,198293
+Humph!,0m3W71Oliiv3gQWXi2YAmJ,['PENTAGON'],"{'k-pop boy group', 'k-pop'}",False,2019-07-17,59,0.791,0.674,2,-4.025,1,0.0516,0.168,0.0,0.0801,0.963,132.985,192613
+X-Phenomenon,5ooX8h3Wv0va2pF7IAhJUs,['Monsta X'],"{'k-pop boy group', 'k-pop'}",False,2019-08-21,45,0.418,0.875,5,-3.405,0,0.195,0.111,0.0,0.065,0.642,127.986,177080
+LATATA - Japanese ver.,2SZcEMawmu7BGQHllLKpkv,['(G)I-DLE'],"{'k-pop girl group', 'k-pop'}",False,2019-06-28,36,0.805,0.802,9,-4.223,0,0.17,0.00371,2.21e-06,0.24,0.54,98.073,202800
+ROLLING ROLLING,3bicWU3Fr159CAtt6xGIPO,['1TEAM'],"{'k-pop boy group', 'k-pop'}",False,2019-07-11,37,0.679,0.709,9,-4.124,0,0.0381,0.0453,0.0,0.151,0.728,140.011,183984
+UN Village,0WSTInLqMrT9po0LAHpZCJ,['BAEKHYUN'],{'k-pop'},False,2019-07-10,67,0.674,0.589,6,-3.806,0,0.112,0.267,0.0,0.312,0.577,83.985,235509
+I'm So Pretty,0zxRDnBBMaqB5CaLzNj6zZ,['NATURE'],"{'k-pop girl group', 'k-pop'}",False,2019-07-10,42,0.661,0.962,7,-2.289,1,0.0951,0.0349,1.7e-05,0.223,0.94,160.039,210107
+Room Shaker,4lt4QTuoYOEEOhrNDZJ1o8,['Ailee'],"{'korean pop', 'k-pop'}",False,2019-07-02,54,0.697,0.897,11,-3.628,0,0.136,0.0323,0.0,0.138,0.736,140.03,195027
+TMT,2tZnDhLZoBE0ufusCEmhAL,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2019-06-19,52,0.798,0.852,2,-3.225,1,0.0593,0.055,0.0,0.0821,0.6,131.98,207383
+Uh-Oh,1OBb2wZMXKNmtdyyejLIyL,['(G)I-DLE'],"{'k-pop girl group', 'k-pop'}",False,2019-06-26,67,0.781,0.814,11,-3.315,0,0.0648,0.0586,0.0,0.118,0.782,92.037,207600
+Love Loop,63XFgN7jJH5RZW0zHy3i7h,['GOT7'],"{'k-pop boy group', 'k-pop'}",False,2019-07-31,51,0.577,0.695,8,-4.008,1,0.034,0.141,0.0,0.264,0.229,128.024,222453
+Snapping,7JCi89HGiURxFpr6NITY7q,['CHUNG HA'],{'k-pop'},False,2019-06-24,69,0.751,0.726,8,-3.499,0,0.038,0.0706,3.42e-06,0.278,0.581,104.914,213164
+WHO DO U LOVE? (feat. French Montana),4koDrJbYxIlcDY4gu2a4I8,"['Monsta X', 'French Montana']","{'hip hop', 'pop rap', 'trap', 'rap', 'k-pop boy group', 'k-pop', 'southern hip hop'}",False,2020-02-13,59,0.79,0.648,10,-5.622,0,0.247,0.288,0.0,0.117,0.397,101.989,189035
+Zimzalabim,0GUbhhI5fRx7BlqlqlhjuB,['Red Velvet'],"{'k-pop girl group', 'k-pop'}",False,2019-06-19,64,0.68,0.878,5,-4.791,0,0.179,0.0028,2.22e-05,0.336,0.531,127.991,190860
+Pink Magic,21uYcyeyfPIB0VNsbCKMgO,['YESUNG'],"{'korean pop', 'k-pop'}",False,2019-06-18,43,0.766,0.68,6,-4.059,1,0.0344,0.277,1.2e-06,0.128,0.736,118.024,194465
+RPM,7b8ZfUQRsc5ebULhUgCyck,['SF9'],"{'k-pop boy group', 'k-pop'}",False,2019-06-17,53,0.534,0.786,3,-4.545,0,0.126,0.017,0.0,0.0664,0.379,169.962,201528
+NABI,51bAYkcnw2WvMo4tps2txV,['BIBI'],"{'korean r&b', 'k-pop'}",False,2019-06-12,49,0.535,0.787,8,-4.193,0,0.112,0.735,2.41e-06,0.074,0.777,184.003,193430
+SSFW - Japanese Version,3jwXD4Z5AUj3JEgsac9F1y,['CHANYEOL'],{'k-pop'},False,2019-04-25,35,0.582,0.666,8,-7.989,0,0.0374,0.35,0.0,0.172,0.769,79.992,219336
+Alligator - Japanese ver.,2zqm1c3bRybNJi8HcN4tZE,['Monsta X'],"{'k-pop boy group', 'k-pop'}",False,2019-08-21,30,0.607,0.957,1,-3.241,1,0.0874,0.134,0.0,0.0882,0.677,97.993,193213
+HAPPY HAPPY,1yPkYnRgZveWLCUSWX16ra,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2019-06-12,57,0.609,0.932,10,-1.562,1,0.145,0.173,0.000946,0.396,0.755,179.995,206974
+Heart Sign (Prod. Flow Blow),3QEcvt2XnzF2lPohTh0bOr,['ONG SEONG WU'],{'k-pop'},False,2019-06-11,41,0.71,0.827,0,-4.09,1,0.0548,0.0456,0.0,0.101,0.715,122.99,215680
+Nap of a star,6JxNli46YwzPdPiHnEQUeC,['TOMORROW X TOGETHER'],{'k-pop'},False,2019-03-04,61,0.626,0.451,7,-9.062,1,0.0259,0.407,1.12e-06,0.104,0.355,140.033,243013
+Boogie Up,6u5ipVfAHGjTXvWuiI5sKB,['WJSN'],"{'k-pop girl group', 'k-pop'}",False,2019-06-04,51,0.692,0.946,7,-1.039,1,0.0587,0.0635,5.45e-05,0.186,0.535,129.079,183787
+DMT (Do Ma Thing),1s1olni1LRN6fJ96GEO9qo,['3YE'],"{'k-pop girl group', 'k-pop'}",False,2020-06-29,42,0.712,0.919,1,-3.9,1,0.155,0.00115,0.0,0.505,0.557,108.03,175600
+0&4,1eYoGuXoEozD8swYmoVhli,['ONEWE'],"{'k-pop boy group', 'k-pop'}",False,2019-05-13,34,0.755,0.744,2,-4.807,1,0.163,0.148,0.0,0.0974,0.764,89.987,210720
+Dramatic,4fAUUc8y2ZQcwKLGHidZsa,['BVNDIT'],"{'k-pop girl group', 'k-pop'}",False,2019-05-15,49,0.719,0.884,5,-4.339,0,0.0473,0.0154,3.42e-06,0.413,0.728,99.98,205568
+Ring on my Ears,35VL1v9FQZkp4vfsHCE6Xm,['ONEWE'],"{'k-pop boy group', 'k-pop'}",False,2019-05-13,36,0.494,0.704,8,-4.713,0,0.0441,0.0713,0.0,0.0655,0.365,149.917,225267
+AH YEAH,2WDhYlm5gBepkMZHBk0LN7,['WINNER'],"{'k-pop boy group', 'k-pop'}",False,2019-05-15,56,0.797,0.722,7,-5.051,1,0.0388,0.356,0.0,0.177,0.878,128.01,176906
+Picky Picky,2RwHcRK2KfIAUGNq4Nlfv5,['Weki Meki'],"{'k-pop girl group', 'k-pop'}",False,2019-05-14,57,0.773,0.849,0,-2.283,1,0.114,0.13,0.0,0.279,0.928,149.999,196947
+Reminisce about All,0m2D3n9n1FxjkhkwojBM0I,['ONEWE'],"{'k-pop boy group', 'k-pop'}",False,2019-05-13,38,0.615,0.37,4,-7.728,1,0.026,0.754,2.26e-05,0.174,0.438,94.779,252813
+The fifth season (SSFWL),5zypKmEPNSSfH4JTn9s68n,['OH MY GIRL'],"{'k-pop girl group', 'k-pop'}",False,2019-05-08,55,0.56,0.895,11,-2.795,0,0.0505,0.451,0.0,0.64,0.518,125.952,240387
+Love Is Only You(MOMOLA),3EmZ8ZFtWaTsendAqKUKi9,"['MOMOLAND', 'ERIK']","{'v-pop', 'k-pop girl group', 'k-pop'}",False,2019-05-07,41,0.656,0.724,9,-4.283,1,0.0335,0.313,0.0,0.198,0.386,107.054,247387
+4:44 (feat. WheeIn),6g5PvgGDtdkQG7Lgbm01ZQ,"['Park Bom', 'Whee In']","{'korean ost', 'k-pop'}",False,2019-05-02,44,0.298,0.738,0,-3.094,0,0.12,0.0677,0.000878,0.1,0.485,167.717,223619
+If You Heard,7JOpfkXFyXz9LooCVNuXoE,['A.C.E'],"{'k-pop boy group', 'k-pop'}",False,2019-05-17,37,0.642,0.899,1,-3.936,0,0.0519,0.109,0.0,0.292,0.618,98.002,219497
+BET BET,7bbt0ctE5rmFVPjdQuj8af,"[""NU'EST""]","{'korean pop', 'k-pop boy group', 'k-pop'}",False,2019-04-29,54,0.719,0.863,11,-4.955,0,0.0592,0.163,0.0,0.063,0.851,136.996,200947
+Bloom Bloom,7tlGwysecWPnIwtt6Jq8cz,['THE BOYZ'],"{'k-pop boy group', 'k-pop'}",False,2019-04-29,55,0.694,0.771,5,-3.281,1,0.0415,0.127,0.0,0.132,0.727,124.023,224053
+Cat & Dog,5cadLqAgl7Y9zX3lRWdsPK,['TOMORROW X TOGETHER'],{'k-pop'},False,2019-03-04,67,0.843,0.794,8,-3.013,1,0.147,0.0668,0.000223,0.104,0.319,160.001,187573
+Spring Memories,6wiH22zuSkTsck7xjNuQsy,['N.Flying'],"{'k-pop boy group', 'k-rock', 'k-pop'}",False,2019-04-24,41,0.695,0.623,2,-4.249,1,0.0313,0.466,0.0,0.117,0.668,134.953,195277
+Everybody Ready?,0vXzM7dzZgOJotqt4DlEjw,['Apink'],"{'k-pop girl group', 'k-pop'}",False,2020-04-13,29,0.698,0.976,0,-1.866,1,0.133,0.37,2.65e-06,0.94,0.56,123.99,201507
+Chronosaurus,2bUNQdhILcUR9BxE42AIMk,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2019-03-25,54,0.501,0.875,2,-3.78,1,0.13,0.26,0.0,0.185,0.392,200.086,198672
+Boy With Luv (feat. Halsey),5KawlOMHjWeUjQtnuRs22c,"['BTS', 'Halsey']","{'electropop', 'post-teen pop', 'etherpop', 'k-pop boy group', 'dance pop', 'pop', 'k-pop', 'indie poptimism'}",False,2019-04-12,83,0.645,0.862,11,-4.757,0,0.0965,0.0923,0.0,0.192,0.798,119.991,229773
+Victory Song,6zvxOpyfvj2HH9iciFS0Px,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2019-03-25,59,0.757,0.734,7,-4.535,1,0.0783,0.00426,0.0,0.183,0.499,103.046,196384
+Blue Orangeade,7C31PdvTuSvEFqn2sKISsX,['TOMORROW X TOGETHER'],{'k-pop'},False,2019-03-04,61,0.758,0.848,0,-3.601,1,0.0572,0.00611,0.0,0.143,0.42,111.015,185520
+Kill This Love,18PergoIrGmRyeYxnaXJN2,['BLACKPINK'],"{'k-pop girl group', 'k-pop'}",False,2019-04-05,80,0.738,0.861,2,-4.141,1,0.237,0.32,0.00175,0.325,0.58,131.974,189052
+BANANA CHACHA,5rEkbyBhnuVXLfe6yp8f3b,['MOMOLAND'],"{'k-pop girl group', 'k-pop'}",False,2019-04-03,51,0.856,0.946,0,-2.238,1,0.0958,0.11,8.98e-05,0.124,0.896,139.986,134101
+Violeta,0ahbzg4GCq3wJzUM3cjS3N,['IZ*ONE'],"{'k-pop girl group', 'k-pop'}",False,2019-04-01,66,0.715,0.88,7,-2.94,1,0.0685,0.00373,0.0,0.104,0.669,115.012,200913
+Cheers (ZZAN),3eAI3CXukjPxjXdzGMmeih,['GFRIEND'],"{'k-pop girl group', 'k-pop'}",False,2019-03-20,38,0.808,0.91,7,-1.975,1,0.0683,0.17,0.0,0.345,0.94,116.566,179367
+Bomb Bomb,2U6RSyXFnDVNYoD9iUgi09,['KARD'],{'k-pop'},False,2019-03-27,64,0.76,0.842,6,-5.558,1,0.131,0.0677,0.000123,0.313,0.882,102.987,163509
+SHA LA LA,3eOrrreH5zbp4xpfiFqy2D,['PENTAGON'],"{'k-pop boy group', 'k-pop'}",False,2019-03-27,53,0.675,0.935,7,-2.335,1,0.0627,0.0019,1.31e-06,0.341,0.451,126.083,194904
+From Seoul,77J0atqdfc6NkcI1O2TJuV,['Block B - BASTARZ'],"{'k-pop boy group', 'k-pop'}",False,2019-03-28,32,0.743,0.853,2,-5.646,0,0.0795,0.0713,2.44e-06,0.36,0.505,101.967,226215
+MIROH,4WuKHgxdCJsaOBIh7yndty,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2019-03-25,71,0.563,0.979,9,-3.104,1,0.104,0.00911,0.0,0.249,0.503,126.063,207617
+Growing ~ for Groo,2fn4GHrjlqjICzxAu1RSDR,['GWSN'],{'k-pop'},False,2019-03-13,31,0.688,0.734,6,-3.854,0,0.0679,0.213,0.0,0.0298,0.488,105.137,187315
+WOOWA,4ZoiC0UbYxpqKr9Ceh5mZa,['DIA'],"{'k-pop girl group', 'k-pop'}",False,2019-03-19,49,0.67,0.92,11,-2.765,0,0.043,0.00752,0.000598,0.296,0.71,127.01,211760
+Wakey-Wakey,147lM5htxXyaYuwDM1j3zl,['NCT 127'],"{'k-pop boy group', 'k-pop'}",False,2019-04-17,53,0.71,0.743,10,-4.877,0,0.0493,0.0539,0.0,0.297,0.629,140.057,182386
+Bon Bon Chocolat,06Pvy98db25O7wlfFFFIRM,['EVERGLOW'],"{'k-pop girl group', 'k-pop'}",False,2019-03-18,69,0.719,0.828,6,-5.559,1,0.0613,0.0343,0.0,0.0747,0.634,139.927,228682
+Thrilla Killa,0Wau0A9ZxeP8d7NECL43Bk,['VAV'],"{'k-pop boy group', 'k-pop'}",False,2019-03-19,47,0.694,0.747,3,-9.197,0,0.0518,0.0039,0.0,0.0621,0.813,105.982,229953
+gogobebe,6E7jAJN2e3znSHyPCdQqx8,['MAMAMOO'],"{'k-pop girl group', 'k-pop'}",False,2019-03-14,71,0.704,0.787,0,-3.114,1,0.082,0.114,0.0,0.228,0.707,96.929,195856
+Pinky Star (RUN),6xCUp0rf0VBKjjgEYFip8v,['GWSN'],{'k-pop'},False,2019-03-13,46,0.758,0.913,6,-4.609,1,0.0957,0.129,3.51e-06,0.0574,0.617,129.964,202270
+Piri ~ Fue wo Fuke ~ - Japanese Ver.,1bBSQHoeTAaaKGYHutEr60,['DREAMCATCHER'],"{'k-pop girl group', 'k-pop'}",False,2019-09-10,31,0.571,0.861,2,-2.808,0,0.0457,0.174,0.0,0.601,0.513,85.016,208267
+Enough - Japanese ver.,5ld4mjHGLWNLMTMqbcVc1P,['SF9'],"{'k-pop boy group', 'k-pop'}",False,2019-03-20,26,0.62,0.697,3,-5.197,0,0.0535,0.0417,0.0,0.0854,0.62,152.01,180800
+White Love,0OQasRxkPfUzBhkyu7q1xz,['Monsta X'],"{'k-pop boy group', 'k-pop'}",False,2016-10-04,42,0.526,0.725,4,-3.962,1,0.0358,0.135,0.0,0.257,0.381,90.081,230711
+What You Waiting For,4CoxD8tetisleUQDA7vn1B,['SOMI'],{'k-pop'},False,2020-07-22,75,0.765,0.688,8,-5.072,1,0.0731,0.0164,0.0,0.112,0.794,121.901,175327
+And there was no one left,584e17zySNmvOd1iG57zxF,['DREAMCATCHER'],"{'k-pop girl group', 'k-pop'}",False,2019-02-13,54,0.934,0.555,4,-6.158,0,0.0448,0.11,4.43e-06,0.0934,0.664,107.016,172558
+Noir 누아르,4yJ6CHGtEjUnMsZ4IMqReH,['SUNMI'],{'k-pop'},False,2019-03-04,60,0.642,0.676,8,-4.771,0,0.0343,0.00389,0.0,0.0854,0.257,117.031,209679
+Shoot Out - Japanese ver.,488ojabsrVJyHPJxhjTdPx,['Monsta X'],"{'k-pop boy group', 'k-pop'}",False,2019-08-21,30,0.562,0.921,6,-2.967,0,0.164,0.109,0.0,0.23,0.596,165.027,208813
+CROWN,32h6yQGn4oAhZ0HRsTMX26,['TOMORROW X TOGETHER'],{'k-pop'},False,2019-03-04,70,0.622,0.8,5,-5.819,1,0.0425,0.0505,0.0,0.0619,0.58,110.977,230707
+What You Waiting For,4CoxD8tetisleUQDA7vn1B,['SOMI'],{'k-pop'},False,2020-07-22,75,0.765,0.688,8,-5.072,1,0.0731,0.0164,0.0,0.112,0.794,121.901,175327
+PIRI,6vHyPhg8fgclBiY8QN68wp,['DREAMCATCHER'],"{'k-pop girl group', 'k-pop'}",False,2019-02-13,60,0.507,0.869,2,-2.245,0,0.0594,0.18,0.0,0.474,0.507,170.043,206819
+What is Love? - Japanese ver.,1aHFbW8QF7LoJWcX0kPcrH,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2019-03-06,54,0.564,0.892,1,-1.84,1,0.0639,0.0501,0.0,0.234,0.637,169.939,208237
+We Must Love,6rTqwu2cA2OMp0qAsHs1NH,['ONF'],"{'k-pop boy group', 'k-pop'}",False,2019-02-07,53,0.681,0.778,8,-4.402,1,0.08,0.0472,0.0,0.387,0.588,105.018,191338
+Wind flower -Japanese ver.-,10I0ZeoK15YB41I6BLH1xe,['MAMAMOO'],"{'k-pop girl group', 'k-pop'}",False,2019-08-07,32,0.738,0.758,0,-3.861,1,0.0626,0.533,0.0,0.0648,0.749,113.921,235333
+Likey,4P66rfizAl2nIJCICSMymC,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2017-10-30,70,0.722,0.903,4,-1.261,0,0.0331,0.42,0.000371,0.118,0.445,132.006,207813
+Valkyrie,0oNFVyzwK6TFdFHSsD1dmC,['ONEUS'],"{'k-pop boy group', 'k-pop'}",False,2019-01-09,60,0.731,0.817,9,-3.906,0,0.121,0.0254,0.0,0.147,0.657,127.952,207586
+Ring Ring Ring,4J7BrgAOT3jk0SC13FWzp6,['VERIVERY'],"{'k-pop boy group', 'k-pop'}",False,2019-01-09,42,0.791,0.944,2,-2.854,1,0.135,0.147,0.0,0.15,0.713,107.995,186364
+July 7th,5NK2NHvmKLOn8V3eBYDaKm,['DREAMCATCHER'],"{'k-pop girl group', 'k-pop'}",False,2018-09-20,46,0.827,0.435,4,-5.514,0,0.0459,0.464,0.0,0.0671,0.671,144.036,194255
+%%(Eung Eung),4SpQDJz1JiRT2mHxvyqN9K,['Apink'],"{'k-pop girl group', 'k-pop'}",False,2019-01-07,57,0.647,0.855,5,-2.944,0,0.037,0.294,0.0,0.137,0.683,144.867,208105
+Gotta Go,0xq4ZTcmwBfkPGo4RRKmMe,['CHUNG HA'],{'k-pop'},False,2019-01-02,69,0.53,0.829,3,-2.526,0,0.0445,0.0741,0.0,0.0993,0.423,101.85,221813
+Candle Light,6nUpdTLUSel3Zp6lhHZRbX,['NCT DREAM'],"{'k-pop boy group', 'k-pop'}",False,2018-12-27,57,0.556,0.819,8,-4.869,1,0.0541,0.0287,0.0,0.125,0.286,92.934,236536
+Getting Closer,1w7Xbv3It3oI7dz4OrKazn,['SEVENTEEN'],"{'k-pop boy group', 'k-pop'}",False,2019-01-21,60,0.64,0.932,11,-4.138,0,0.123,0.0416,0.0,0.101,0.2,159.92,183580
+This Winter,4raOR19WXie8o9VLuEPEaS,['Kwon Jin Ah'],"{'korean pop', 'k-indie', 'k-pop'}",False,2018-12-17,41,0.452,0.533,9,-6.453,1,0.0524,0.444,0.0,0.104,0.171,97.203,247644
+First Sight,3kjyG3jI6a2EzYVa3ZlvFI,['HEIZE'],"{'korean pop', 'korean r&b', 'k-pop'}",False,2018-12-14,53,0.688,0.724,4,-5.421,0,0.0401,0.157,2.17e-05,0.0735,0.207,104.974,205524
+Love Shot,0yB4jrSwN0bFtFRDR5vyMj,['EXO'],"{'k-pop boy group', 'k-pop'}",False,2018-12-13,72,0.689,0.678,5,-4.287,0,0.119,0.0702,0.0,0.0889,0.335,145.883,200306
+The Best Thing I Ever Did,6kkdPUBJurHTLjaweUWeqz,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2018-12-12,55,0.72,0.655,5,-3.994,1,0.0248,0.383,0.0,0.156,0.468,104.977,210440
+ALL OF YOU SAY,7Fwujqd8K4SWRYO4nWzZo4,['MINZY'],{'k-pop'},False,2018-12-01,29,0.657,0.835,0,-6.149,1,0.0459,0.0078,0.000619,0.153,0.55,100.06,151581
+RBB (Really Bad Boy),4xjVP2Vogo0C72o6Nevq0W,['Red Velvet'],"{'k-pop girl group', 'k-pop'}",False,2018-11-30,61,0.719,0.85,2,-3.229,1,0.0317,0.012,0.000239,0.114,0.367,150.059,188786
+Thank U Soooo Much,6wVwEeHvV4B1V7UE5sByva,['Yubin'],"{'k-pop', 'korean city pop'}",False,2018-11-27,43,0.774,0.643,7,-7.669,0,0.121,0.0144,0.0,0.0452,0.761,123.97,224568
+FIANCÉ,1bZNFcnyCmlnbs337baR0b,['MINO'],"{'k-rap', 'k-pop'}",False,2018-11-26,60,0.661,0.759,5,-3.247,1,0.0326,0.0281,0.0,0.128,0.466,139.922,207925
+Spring Breeze,3IktbbAbZqczBDQxCoJOyP,['Wanna One'],"{'k-pop boy group', 'k-pop'}",False,2018-11-19,55,0.633,0.792,3,-3.202,1,0.0296,0.0884,0.0,0.37,0.369,107.96,235869
+Get Cool,3LAHbEBvDfj38gcUTA8bS7,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2018-10-22,62,0.804,0.854,2,-4.194,1,0.0915,0.0893,0.0,0.27,0.9,151.955,194758
+Punk Right Now,757UjBpT2EkYnrUK9gkDZH,"['HYO', '3LAU']","{'electro house', 'electronic trap', 'progressive house', 'tropical house', 'big room', 'mashup', 'edm', 'progressive electro house', 'pop edm', 'k-pop'}",False,2018-11-13,52,0.659,0.939,2,-4.043,1,0.0375,0.0076,0.0192,0.0583,0.671,104.983,178286
+SOLO,2wVDWtLKXunswWecARNILj,['JENNIE'],{'k-pop'},False,2018-11-12,74,0.751,0.642,3,-5.165,0,0.087,0.0861,0.0,0.0953,0.388,95.045,169567
+Not That Type,0y9sv3icY6HUiEa4FfC39u,['gugudan'],"{'k-pop girl group', 'k-pop'}",False,2018-11-06,48,0.73,0.922,7,-2.133,1,0.122,0.0888,8.37e-06,0.166,0.745,110.044,191994
+YES or YES,0Ll92eLIHWY5gey1ISNMPi,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2018-11-05,71,0.702,0.913,11,-2.977,1,0.0374,0.0514,3.71e-06,0.166,0.735,137.982,237680
+WONDERLAND,6k67RdkVjTZj79c1cRz7IQ,['ATEEZ'],"{'k-pop boy group', 'k-pop'}",False,2019-10-08,70,0.572,0.964,4,-1.949,0,0.123,0.0503,0.0,0.372,0.519,129.979,199013
+Swamp of Despair,65PtLKQA9ApvHOTnhRjQYw,['BLACK6IX'],{'k-pop'},False,2018-10-30,28,0.57,0.915,7,-1.667,0,0.212,0.168,0.000199,0.478,0.589,134.931,191770
+Galaxy 우주를 줄게,6T3Mlx5fr71sm0u1YDAb4R,['BOL4'],"{'korean pop', 'k-pop'}",False,2016-08-29,64,0.606,0.815,0,-2.407,1,0.132,0.681,0.0,0.0919,0.707,166.024,213853
+La Vie en Rose,1fRaznZsAB2i63TtmYv2Hc,['IZ*ONE'],"{'k-pop girl group', 'k-pop'}",False,2018-10-29,69,0.698,0.908,9,-1.211,0,0.0548,0.0899,0.0,0.115,0.606,115.975,218994
+Like a Flower,4q2YBqhl3ay1U5rLxQXJ8v,['N.Flying'],"{'k-pop boy group', 'k-rock', 'k-pop'}",False,2018-10-26,40,0.62,0.599,11,-5.459,0,0.0266,0.15,0.0,0.315,0.235,128.057,264061
+Shoot Out,55Md5fnLfCpXzUATASy6Rk,['Monsta X'],"{'k-pop boy group', 'k-pop'}",False,2018-10-22,62,0.613,0.868,6,-2.792,0,0.143,0.0599,0.0,0.352,0.394,165.133,207173
+Oh! my mistake,396Dkg9z5Q1hXxKryeP9T8,['APRIL'],"{'k-pop girl group', 'k-pop'}",False,2018-10-16,56,0.754,0.841,8,-2.296,1,0.106,0.213,1.61e-06,0.141,0.751,145.047,205332
+Regular - Korean Version,2lAxhE5s3x7OS9sfhsgT1F,['NCT 127'],"{'k-pop boy group', 'k-pop'}",False,2018-10-12,56,0.733,0.801,9,-5.339,0,0.0765,0.237,0.0,0.287,0.878,133.998,217707
+LOVE BOMB,6FoI3qwCRq0el1RYKeVGSx,['fromis_9'],"{'k-pop girl group', 'k-pop'}",False,2018-10-10,58,0.627,0.932,6,-1.891,0,0.162,0.126,0.0,0.351,0.85,154.045,199966
+Tropical Night,3U6N2WQEepLz2fTdYDf0WJ,['Monsta X'],"{'k-pop boy group', 'k-pop'}",False,2017-11-07,41,0.67,0.881,5,-2.579,0,0.0723,0.0416,0.0,0.456,0.806,140.068,223648
+One More Time (Otra Vez),1Zz7lQOhWPYh8dNQCwVkdG,"['SUPER JUNIOR', 'Reik']","{'latin', 'latin arena pop', 'latin pop', 'mexican pop', 'k-pop boy group', 'k-pop'}",False,2018-10-08,55,0.685,0.841,5,-3.975,1,0.0327,0.0408,5.28e-05,0.274,0.486,99.981,186468
+Regular - English Version,4KqPuyZdcjXuRqXSARnt6r,['NCT 127'],"{'k-pop boy group', 'k-pop'}",False,2018-10-12,66,0.741,0.747,9,-5.459,0,0.0956,0.263,5.15e-06,0.266,0.831,134.039,219107
+She's In The Rain,0TxSk5fpK01cBLV9ePqcE6,['The Rose'],"{'k-pop boy group', 'k-pop'}",False,2018-10-04,64,0.36,0.533,3,-4.394,1,0.0302,0.375,0.0,0.0768,0.421,92.854,237577
+I Don't Care (with Spoonz),5Z41Uv4fpE7rlX6slYiFQk,"[""NU'EST W"", 'Spoonz']","{'k-pop boy group', 'k-pop'}",False,2018-10-01,32,0.748,0.866,5,-3.119,1,0.0627,0.0565,0.0,0.17,0.636,105.989,211067
+"Save Me, Save You",20yOiJHRQGirFYehRSIb6i,['WJSN'],"{'k-pop girl group', 'k-pop'}",False,2018-09-19,54,0.729,0.928,7,-3.028,1,0.054,0.054,0.0,0.36,0.618,115.998,224931
+IGOHOLIC,1lIirCvdeX4opMgU7mC6W4,['PLT'],"{'k-pop boy group', 'korean r&b', 'k-pop'}",False,2018-09-17,45,0.73,0.765,11,-3.817,0,0.121,0.0129,0.0,0.337,0.279,115.999,200797
+Countless,6mI6dpwRDteVr3ZQsDeD6e,['SHINee'],"{'k-pop boy group', 'k-pop'}",False,2018-09-10,50,0.679,0.829,10,-5.166,0,0.072,0.0251,0.0,0.068,0.604,97.043,188678
+Naughty boy,1qLgJ1M37Mj50hlOnuw9cs,['PENTAGON'],"{'k-pop boy group', 'k-pop'}",False,2018-09-10,56,0.695,0.68,3,-3.051,1,0.0614,0.141,0.0,0.109,0.692,160.034,198665
+Beautiful Feeling,5Sl8fL5jXQiH0uwgyTIX0B,['DAY6'],"{'k-pop boy group', 'k-pop'}",False,2018-12-10,54,0.542,0.69,7,-5.052,1,0.0381,0.0221,0.0,0.0575,0.396,180.146,208737
+Puzzle Moon,7myypuYLPNXFpSjeVObiUb,['GWSN'],{'k-pop'},False,2018-09-05,46,0.818,0.806,6,-3.358,1,0.0793,0.329,1e-06,0.102,0.575,124.952,206765
+Lil’ Touch,4D5Ode2OfZMxIwQyvmhUe8,"[""Girls' Generation-Oh!GG""]","{'k-pop girl group', 'k-pop'}",False,2018-09-05,62,0.791,0.789,11,-4.694,0,0.104,0.0114,0.0,0.301,0.669,112.11,189846
+We Go Up,26vOBLHS116a4WNUVlvAUW,['NCT DREAM'],"{'k-pop boy group', 'k-pop'}",False,2018-09-03,65,0.893,0.77,8,-4.692,1,0.107,0.0138,0.0,0.225,0.349,122.067,183293
+ON AIR,0NEh24OJ2rGc74SeUB8eto,['3YE'],"{'k-pop girl group', 'k-pop'}",False,2020-06-29,38,0.775,0.77,7,-4.483,0,0.0372,0.00854,9.72e-06,0.157,0.324,105.998,173453
+Awkward Silence,0DKnykHG3eGnUM6YQe7Z5a,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2020-03-18,55,0.541,0.894,10,-2.989,0,0.248,0.0972,0.0,0.0974,0.732,199.821,195320
+IDOL,2AIWoHr9DF6y4KALCBKWQS,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2018-08-24,76,0.734,0.855,9,-3.211,1,0.118,0.00481,0.0,0.123,0.422,126.035,222732
+Hi High,0RqzUS7AkBhQDrBxcGFeDv,['LOONA'],"{'k-pop girl group', 'k-pop'}",False,2018-08-20,61,0.67,0.916,9,-2.261,0,0.0731,0.0363,5.35e-06,0.221,0.532,97.004,196864
+BDZ,6ceKChoZYLdw24Ph1CDFUJ,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2018-09-12,63,0.715,0.862,10,-2.718,0,0.0444,0.0113,0.0,0.108,0.668,137.93,197800
+Ya Ya Ya,2Dn0UlDRJ4iSMlSdZ103pg,['EXO'],"{'k-pop boy group', 'k-pop'}",False,2019-11-27,54,0.369,0.772,1,-4.049,1,0.3,0.0573,0.0,0.325,0.491,205.177,222040
+HANN (Alone),7gr57cYekMWriyJYbT7oZ4,['(G)I-DLE'],"{'k-pop girl group', 'k-pop'}",False,2018-08-14,66,0.709,0.718,6,-3.315,0,0.0312,0.059,0.0,0.167,0.24,104.971,205820
+Rollin' (New Version),7DkqdEiDja7Gn9zvrfy7Vw,['Brave Girls'],"{'k-pop girl group', 'k-pop'}",False,2018-08-11,39,0.64,0.91,1,-3.112,1,0.0465,0.0167,2.28e-06,0.384,0.662,125.024,201860
+WooWoo,5sU7t8oY3dDHmFrTftjFW8,['DIA'],"{'k-pop girl group', 'k-pop'}",False,2018-08-09,45,0.683,0.902,8,-2.726,1,0.036,0.0154,0.0,0.394,0.337,134.979,201471
+Knockin' on my heaven's door,3uuDH3BFu1qF8hMflQznYH,['KARD'],{'k-pop'},False,2018-07-25,40,0.676,0.818,7,-4.06,1,0.295,0.188,0.0,0.261,0.753,139.741,230153
+Power Up,381g0b6QZxC13SzA2HRMIc,['Red Velvet'],"{'k-pop girl group', 'k-pop'}",False,2018-08-06,65,0.732,0.934,8,-4.618,1,0.144,0.0774,0.00745,0.306,0.898,159.998,202040
+My Pace,339xlPKDLkEkFBFkMfAFfJ,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2018-08-06,64,0.682,0.831,11,-4.234,0,0.253,0.0569,0.0,0.0927,0.785,155.12,189325
+Allegro Cantabile,7eufeVpHKJY8KdElThuv2h,['NATURE'],"{'k-pop girl group', 'k-pop'}",False,2018-08-03,35,0.581,0.919,5,-3.945,1,0.0439,0.00625,6.25e-06,0.0487,0.683,163.939,255567
+Sorry For My English,0KVgGXhsddvkc8arY0phMK,['IN2IT'],"{'k-pop boy group', 'k-pop'}",False,2018-07-26,34,0.695,0.887,2,-3.877,1,0.0524,0.0265,0.0,0.676,0.56,122.959,181280
+Grand Bleu,2eAw5eMEdxaIFb6vsLiWJb,['100%'],"{'k-pop boy group', 'k-pop'}",False,2018-07-26,26,0.616,0.821,8,-3.196,1,0.0466,0.00681,0.0,0.381,0.745,105.016,208431
+Summer Night's Dream,3U3ymtVenfonhe5RDuLjOp,['FTISLAND'],"{'korean pop', 'k-pop boy group', 'k-rock', 'k-pop'}",False,2018-07-26,39,0.461,0.812,1,-3.64,1,0.0654,0.138,0.0,0.0476,0.694,143.484,176012
+Ride on the wind,7gQWTvDx7VJRzeRbnlyIm4,['KARD'],{'k-pop'},False,2018-07-25,48,0.727,0.808,11,-3.66,1,0.106,0.163,0.0,0.187,0.761,115.02,176632
+Sunny Summer,7IE8eERSpTC9Jaw3arl99B,['GFRIEND'],"{'k-pop girl group', 'k-pop'}",False,2018-07-19,51,0.728,0.925,7,-1.741,1,0.0862,0.0491,0.0,0.313,0.88,129.984,198536
+RETRO FUTURE,7Lq1Z8VIW7oE7m34kksHYp,['Triple H'],{'k-pop'},False,2018-07-18,53,0.773,0.823,10,-2.901,0,0.0679,0.00963,0.0,0.834,0.787,106.031,195550
+Egotistic,5Z4aqpT39KpY8gbHoJWdou,['MAMAMOO'],"{'k-pop girl group', 'k-pop'}",False,2018-07-16,69,0.616,0.833,3,-3.314,0,0.067,0.315,0.0,0.175,0.595,97.898,196018
+Don`t Say Good Bye,3d6PVdsUe898PZeiRoD07r,['CNBLUE'],"{'k-pop boy group', 'k-pop'}",False,2011-04-26,19,0.593,0.631,0,-5.292,1,0.0358,0.259,0.0,0.152,0.367,137.893,265822
+Dance The Night Away,3t723PlEADna6GjgquoMRW,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2018-07-09,70,0.711,0.861,0,-2.905,1,0.0924,0.106,4.4e-05,0.113,0.78,118.004,180800
+Wag-zak,45UsiRzyeeAm1LlQZi66k2,['Lovelyz'],"{'korean pop', 'k-pop girl group', 'k-pop'}",False,2018-07-01,36,0.8,0.899,10,-2.663,1,0.0374,0.155,0.00057,0.124,0.831,120.0,211156
+Restless,4AHNi316rl3KI3hKIsdxZe,['BIBI'],"{'korean r&b', 'k-pop'}",False,2020-02-02,54,0.575,0.607,5,-6.897,1,0.0274,0.382,0.000112,0.115,0.298,89.985,267080
+Shoot Me,3cl6BsTDeeGRbgug5TXrvg,['DAY6'],"{'k-pop boy group', 'k-pop'}",False,2018-06-26,66,0.583,0.916,1,-1.396,1,0.149,0.0683,0.0,0.0489,0.732,167.933,175837
+BAAM,4Is1b37KJY9XVCgzp81FBW,['MOMOLAND'],"{'k-pop girl group', 'k-pop'}",False,2018-06-26,65,0.725,0.94,5,-2.32,0,0.0435,0.115,0.00431,0.0864,0.905,127.051,208475
+Our Page,2QqH85XScNQ3dXabg3NZE5,['SHINee'],"{'k-pop boy group', 'k-pop'}",False,2018-09-10,47,0.674,0.752,5,-4.657,0,0.0326,0.295,0.0,0.164,0.348,107.021,239721
+Dejavu,1VAwnMFpVRc0CvdRRsHDrP,"[""NU'EST W""]","{'k-pop boy group', 'k-pop'}",False,2018-06-25,55,0.769,0.661,8,-5.08,0,0.133,0.24,0.0,0.118,0.552,107.967,199892
+Only one for me,4vxK5XbTTDNNKYbPDmZZC3,['BTOB'],"{'k-pop boy group', 'k-pop'}",False,2018-06-18,55,0.674,0.749,0,-4.174,1,0.0345,0.345,0.0,0.289,0.65,98.006,226561
+DDU-DU DDU-DU,2aI2k39nfa3KFsa4JclQzw,['BLACKPINK'],"{'k-pop girl group', 'k-pop'}",False,2018-06-15,77,0.671,0.859,4,-3.922,0,0.0833,0.0323,0.0,0.267,0.389,139.931,209355
+CLOVER (feat. Yoonmirae),2Ks6uDIn7g9JCVxNMN7yDq,"['JIN LONGGUO', 'Yoon Mirae']","{'korean pop', 'korean ost', 'korean r&b', 'k-pop'}",False,2018-06-13,23,0.72,0.73,1,-4.024,0,0.0907,0.41,0.0,0.414,0.722,92.299,218783
+Take Me Higher,2co7H0J0xQhbcHcXUk9dCn,['A.C.E'],"{'k-pop boy group', 'k-pop'}",False,2018-06-08,48,0.607,0.875,0,-3.71,1,0.0499,0.0355,0.0,0.262,0.608,119.969,219423
+PITAPAT (DKDK),30x5JeY6aI3nIJF6S97Jqp,['fromis_9'],"{'k-pop girl group', 'k-pop'}",False,2018-06-05,50,0.642,0.886,5,-3.471,1,0.154,0.155,0.0,0.0971,0.781,159.918,183377
+Hot Babe,6BEFuOnK2yN20KQdxi1qFE,['SUPER JUNIOR-D&E'],"{'k-pop boy group', 'k-pop'}",False,2018-08-08,27,0.705,0.922,9,-3.326,1,0.0693,0.00496,3.65e-06,0.272,0.609,100.016,236760
+Bingle Bangle,04LMZmQh5Le3F7OwLwHDEM,['AOA'],"{'k-pop girl group', 'k-pop'}",False,2018-05-28,53,0.802,0.864,7,-3.888,1,0.0639,0.0293,0.0,0.335,0.745,111.994,221779
+Dramatic,4fAUUc8y2ZQcwKLGHidZsa,['BVNDIT'],"{'k-pop girl group', 'k-pop'}",False,2019-05-15,49,0.719,0.884,5,-4.339,0,0.0473,0.0154,3.42e-06,0.413,0.728,99.98,205568
+I.L.Y.,5MkZkFLnUrsMrVKQwqv5zV,['The Rose'],"{'k-pop boy group', 'k-pop'}",False,2018-04-16,59,0.629,0.405,6,-7.335,1,0.0336,0.666,1.5e-06,0.112,0.187,137.742,213217
+How Why,1RHpIU25l0TTztLQ0aRKOT,['EXID'],"{'k-pop girl group', 'k-pop'}",False,2018-05-22,33,0.717,0.716,7,-5.397,1,0.05,0.107,0.0,0.733,0.39,100.001,231717
+HOW R U TODAY,6oWfpr02JKAtt1GDaoAx8T,['N.Flying'],"{'k-pop boy group', 'k-rock', 'k-pop'}",False,2018-05-16,44,0.664,0.771,5,-4.387,1,0.105,0.00508,0.0,0.737,0.404,92.99,188531
+CALL CALL CALL!,6TWCOczft8rK1LiHfVPuRN,['SEVENTEEN'],"{'k-pop boy group', 'k-pop'}",False,2018-05-30,57,0.619,0.887,5,-3.676,0,0.246,0.113,0.0,0.0741,0.642,129.931,199867
+Seoul Night 서울 밤 (feat. Beenzino),2ixSmjqBk2I2kPaECL9YWf,"['Urban Zakapa', 'Beenzino']","{'k-rap', 'k-indie', 'korean r&b', 'korean pop', 'k-pop'}",False,2019-06-13,37,0.688,0.644,8,-3.514,1,0.0571,0.367,0.0,0.0858,0.784,94.999,205267
+The New Era,6gJJ3geKv7UkSxOD2JmTQC,['GOT7'],"{'k-pop boy group', 'k-pop'}",False,2018-06-20,44,0.736,0.857,5,-1.812,1,0.094,0.031,0.0,0.231,0.466,102.553,219680
+LATATA,2ezKXygNO30pXyDQXkm6oD,['(G)I-DLE'],"{'k-pop girl group', 'k-pop'}",False,2018-05-02,68,0.774,0.792,9,-4.019,0,0.224,0.00427,1.15e-06,0.283,0.505,98.1,202773
+Time for the moon night,2jL9sjFc2LZsQBGbQnrjXR,['GFRIEND'],"{'k-pop girl group', 'k-pop'}",False,2018-04-30,58,0.455,0.827,6,-1.201,1,0.0573,0.325,0.0,0.0473,0.681,169.929,226699
+Just Be Stars,2CPQhWRqvMGBrfaB9UGp4I,['JBJ'],"{'k-pop boy group', 'k-pop'}",False,2018-04-17,32,0.431,0.544,0,-4.717,1,0.0383,0.458,0.0,0.1,0.341,139.526,246674
+그런 밤 Night Reminiscin’ (with Yang Da Il),2ytM3e2Ma9sc7h5jW9Sa0P,"['LUNA', 'Yang Dail']",{'k-pop'},False,2018-04-24,29,0.471,0.285,1,-7.512,1,0.0536,0.851,0.0,0.0981,0.275,170.656,228750
+Nada Sou Sou,6iReUwdvaYsfrNnZy7B4VE,['Solar'],{'k-pop'},False,2018-04-24,38,0.518,0.272,3,-7.695,1,0.0312,0.922,0.0,0.125,0.348,128.823,251265
+Horololo,6u2lCxHSfDki4rhl9pkI0C,['EXO-CBX'],"{'k-pop boy group', 'k-pop'}",False,2018-05-09,48,0.757,0.941,7,-2.123,1,0.0878,0.231,0.0,0.0582,0.641,95.012,192005
+Dally (feat. GRAY),2XTAYIjVXKI2GeGed5WNK7,"['Hyolyn', 'GRAY']","{'korean pop', 'k-rap', 'korean r&b', 'k-pop'}",False,2020-08-19,0,0.67,0.816,11,-2.887,0,0.22,0.291,0.0,0.247,0.883,143.767,203000
+Where the Wind Rises,5FFR2S3teGYxkVJruME589,['Solar'],{'k-pop'},False,2018-04-24,35,0.823,0.496,7,-6.186,1,0.054,0.72,5e-05,0.0952,0.785,109.959,195643
+Pluhmm,3z0dBwfh708Ogo1zWK4xSV,['HA:TFELT'],"{'korean pop', 'k-indie', 'korean r&b', 'k-pop'}",False,2020-04-23,39,0.829,0.641,7,-5.396,0,0.0545,0.229,0.0,0.0974,0.656,134.011,223937
+Scentist,18oDuUN4ixceCOX6hkfdRZ,['VIXX'],"{'k-pop boy group', 'k-pop'}",False,2018-04-17,46,0.617,0.829,10,-3.884,0,0.078,0.117,0.0,0.115,0.706,150.064,184794
+Dear Fantasy,0usMUG2d9woDtlqLID3sfC,['SF9'],"{'k-pop boy group', 'k-pop'}",False,2018-02-26,31,0.618,0.854,0,-4.033,1,0.0619,0.262,0.0,0.0759,0.613,146.066,223236
+Maybe spring,0LHPcNBIqDRAHerXnIEef6,['YOO SEONHO'],{'k-pop'},False,2018-04-11,29,0.647,0.55,7,-6.938,1,0.0289,0.427,9.22e-06,0.0854,0.378,79.008,244849
+花요일 Blooming Day,4kmp56RAtXEzHOANS0BaLX,['EXO-CBX'],"{'k-pop boy group', 'k-pop'}",False,2018-04-10,59,0.735,0.736,4,-3.266,0,0.277,0.00511,0.0,0.165,0.813,117.975,199846
+What is Love,1IX47gefluXmKX4PrTBCRM,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2018-07-09,73,0.574,0.909,8,-1.572,1,0.0655,0.0988,0.0,0.264,0.565,169.964,208240
+Just One Day,4ZSLc2F15wKVPjyLt169tt,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2014-02-12,69,0.504,0.712,9,-4.705,1,0.379,0.175,0.0,0.377,0.307,189.577,239470
+Love Line,203sd4cosoKgF62jSkqd6z,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2017-10-30,46,0.697,0.767,0,-4.719,1,0.0444,0.226,0.0,0.108,0.519,94.998,196800
+YESTODAY,6OyLuTMyY9dOswKPyIT8SO,"['NCT', 'NCT U']","{'k-pop boy group', 'k-pop'}",False,2018-03-14,51,0.683,0.92,9,-3.322,0,0.0924,0.0294,0.0,0.295,0.678,94.959,196571
+Like you,1QSkVgau9cQJ4OgrLoDpi1,['Gavy N.J'],{'k-pop'},False,2018-04-01,29,0.713,0.463,0,-8.029,1,0.032,0.595,0.0,0.116,0.523,90.003,226372
+Egoist (Olivia Hye) (Feat. JinSoul),5UUeEljsNQroCUNId8DIV6,['LOONA'],"{'k-pop girl group', 'k-pop'}",False,2018-03-30,55,0.532,0.859,3,-3.562,0,0.0479,0.0208,0.0,0.339,0.391,92.007,247382
+운명 The Chance of Love,3XzxHvEomjJIKZcZqYfFut,['TVXQ!'],"{'korean pop', 'k-pop boy group', 'k-pop'}",False,2018-03-28,49,0.784,0.721,6,-2.571,0,0.0453,0.154,0.0,0.238,0.915,112.013,207133
+District 9,3oJ7NaVHfhZBR0Yl9L3AhF,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2018-03-26,58,0.529,0.956,9,-1.889,1,0.265,0.0124,3.6e-06,0.119,0.559,179.989,211763
+Jealousy,3TM7sUA8tMzndo6G8E526g,['Monsta X'],"{'k-pop boy group', 'k-pop'}",False,2018-03-26,56,0.695,0.852,6,-4.528,0,0.127,0.00701,0.0,0.14,0.496,102.988,207030
+Just do it,57ITlzpnOMkSE6oHGbvTqi,['BSS'],{'k-pop'},False,2018-03-21,55,0.61,0.978,2,-2.432,1,0.121,0.17,0.0,0.392,0.815,150.047,201758
+The Blue Bird,6emq7eKDjBS9PbxAPXwdDi,['APRIL'],"{'k-pop girl group', 'k-pop'}",False,2018-03-12,42,0.674,0.905,6,-2.397,1,0.0387,0.0734,0.0,0.195,0.447,123.011,195257
+didn't know me,4Ompd9kJo9Os4yB0YFzsEC,['HEIZE'],"{'korean pop', 'korean r&b', 'k-pop'}",False,2018-03-08,47,0.611,0.635,0,-4.871,1,0.0337,0.37,0.0,0.138,0.364,136.026,238023
+Jenga (feat. Gaeko),1dA1tlzwcJ3YDYsSul1m06,"['HEIZE', 'Gaeko']","{'korean pop', 'k-rap', 'korean r&b', 'k-pop'}",False,2018-03-08,52,0.711,0.73,1,-4.979,0,0.0436,0.269,2.34e-06,0.109,0.604,93.015,210158
+Starry Night,5MaDeMdqsPsZTxNWdEZPVH,['MAMAMOO'],"{'k-pop girl group', 'k-pop'}",False,2018-03-07,67,0.58,0.773,9,-3.302,0,0.05,0.656,0.0,0.112,0.506,124.148,211237
+Star Wind Flower Sun,4J03wp9S7iCSchc4PGbAvg,['MAMAMOO'],"{'k-pop girl group', 'k-pop'}",False,2018-03-07,41,0.53,0.435,10,-5.585,1,0.0337,0.853,0.0,0.112,0.206,122.342,223127
+I PROMISE YOU (I.P.U.),4XGEp6uSVqsKz0dUX8n1tI,['Wanna One'],"{'k-pop boy group', 'k-pop'}",False,2018-03-19,52,0.652,0.831,8,-3.684,1,0.0436,0.102,0.0,0.229,0.744,130.033,220529
+Idle song,1P7zwuGNeGWehpKVavukRe,['SOYEON of (G)I-DLE'],{'k-pop'},False,2018-02-28,41,0.933,0.615,0,-4.287,1,0.129,0.489,0.0,0.116,0.513,120.026,188456
+Baby Don't Stop - Special Thai Version,3K8yw3FK4q0j05XabjP6mE,['NCT U'],"{'k-pop boy group', 'k-pop'}",False,2018-06-02,43,0.843,0.722,1,-6.403,1,0.0696,0.0218,5.31e-06,0.0424,0.344,95.981,183020
+BLACK DRESS,4g73tmQQc6pSfe4NMXKrZD,['CLC'],"{'k-pop girl group', 'k-pop', 'korean city pop'}",False,2018-02-22,59,0.728,0.821,0,-3.129,1,0.0419,0.0307,0.0,0.0386,0.816,108.001,193609
+"ONE SHOT, TWO SHOT",1OWxlgwPtWuEvGkH8uS1Tj,['BoA'],"{'j-idol', 'k-pop'}",False,2018-02-20,49,0.804,0.679,7,-5.82,0,0.067,0.24,0.0,0.12,0.483,119.948,210880
+Where I am gone,6uCmZdO7HFRo12LTH1qlNn,['Yang Yoseob'],"{'korean pop', 'k-pop'}",False,2018-02-19,30,0.501,0.76,2,-4.653,1,0.15,0.619,0.0,0.0863,0.408,193.995,213970
+Will Be Fine,6dyc8r8VQYthh7qH8tERXY,['Park Boram'],"{'korean pop', 'k-pop'}",False,2018-02-13,28,0.437,0.423,1,-4.96,0,0.0323,0.691,0.0,0.366,0.312,126.766,229060
+Only Then,7mFigNlS2dsKMhcmJyfpeg,['Roy Kim'],"{'korean pop', 'k-pop'}",False,2018-02-12,59,0.42,0.314,6,-7.368,1,0.0324,0.798,2.2e-05,0.113,0.192,128.412,248836
+BONGJESEON (feat. SURAN),0Wjj4wmUPn34PU9rOGCBj7,"['Dynamicduo', 'SURAN']","{'k-rap', 'k-indie', 'korean r&b', 'korean pop', 'k-pop'}",False,2018-02-07,37,0.532,0.622,0,-5.054,0,0.0587,0.747,0.0,0.0884,0.325,123.36,259475
+THANKS,7cbZIBLhfD9taMBgEsIhIp,['SEVENTEEN'],"{'k-pop boy group', 'k-pop'}",False,2018-02-05,63,0.513,0.867,8,-3.729,1,0.0632,0.0631,0.0,0.34,0.536,149.967,213072
+The Boots,4b94vQrKQCpbZjV3332K7p,['gugudan'],"{'k-pop girl group', 'k-pop'}",False,2018-02-01,46,0.693,0.84,7,-2.648,1,0.035,0.0104,0.0,0.359,0.513,105.006,201396
+NEGA DOLA,5OXGY1pFAAnxGSkqhZ4C6c,['BoA'],"{'j-idol', 'k-pop'}",False,2018-01-31,35,0.818,0.83,9,-3.178,0,0.122,0.21,0.0015,0.286,0.864,110.024,176053
+HOLIDAY (feat. DPR LIVE),0hOHuFA0BpaFMk8YZpTsaY,['Suzy'],"{'korean pop', 'k-pop'}",False,2018-01-29,41,0.619,0.75,7,-5.143,1,0.132,0.345,0.0,0.0739,0.437,93.861,190899
+One & Only (Go Won),1DzpZ8HBR0MgGkZDhAdd7f,['LOONA'],"{'k-pop girl group', 'k-pop'}",False,2018-01-30,50,0.758,0.908,7,-3.85,1,0.0574,0.0954,0.0,0.325,0.727,109.999,175828
+instagram,6z1kLsntE7FuzKZHZWrXYN,['DEAN'],"{'korean r&b', 'k-pop'}",False,2017-12-26,69,0.463,0.566,8,-6.195,1,0.145,0.196,0.0,0.284,0.219,93.921,255729
+LOVE SCENARIO,6qAzAmPBUpGrk7XADZHR5k,['iKON'],"{'k-pop boy group', 'k-pop'}",False,2018-01-25,74,0.806,0.707,7,-4.623,1,0.0307,0.331,0.0,0.294,0.746,118.011,209648
+To Heart,3PIzI4Bl2b7oZloFWTPAna,['fromis_9'],"{'k-pop girl group', 'k-pop'}",False,2018-01-25,45,0.751,0.768,7,-1.674,1,0.0393,0.115,0.0,0.0674,0.731,127.979,188527
+"BABY IT'S U (PROD. KIGGEN, earattack)",1aI8x7MY6EfMpdscLE0qxm,['JEONG SEWOON'],"{'korean pop', 'korean ost', 'k-pop'}",False,2018-01-24,33,0.747,0.847,5,-4.274,1,0.0524,0.253,0.0,0.0536,0.52,129.92,201854
+NIRVANA (Feat. PARK JIMIN),7jL9lzUeUPwjWarFj7DDST,"['RAVI', 'Park Jimin']","{'k-rap', 'k-pop'}",False,2018-01-22,31,0.75,0.962,4,-3.939,0,0.256,0.273,0.0,0.395,0.604,130.083,220281
+Heroine,5gA9Xn8oPts2aewPgxVkPD,['SUNMI'],{'k-pop'},False,2018-01-18,63,0.673,0.782,7,-3.911,1,0.0404,0.0582,1.4e-06,0.391,0.609,121.991,195000
+Candy Pop,39GvWlUAF4Y3qzboUyvBkg,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2018-01-12,58,0.599,0.943,0,-1.457,1,0.0894,0.177,2.6e-05,0.141,0.84,174.059,202010
+BBoom BBoom,3BPoSr2pO34Aan6alFfVto,['MOMOLAND'],"{'k-pop girl group', 'k-pop'}",False,2018-01-03,69,0.785,0.744,3,-4.249,0,0.0369,0.0149,0.00666,0.0661,0.833,126.018,208863
+WOLF BABY,5y51ta5LHTRLpPVxnn4zXZ,['TRCNG'],"{'k-pop boy group', 'k-pop'}",False,2018-01-02,34,0.676,0.855,7,-3.153,0,0.0567,0.079,0.0,0.0813,0.775,90.996,194862
+Heart Attack (츄),6SSC9KZQaxBdyipKRigrFC,['LOONA'],"{'k-pop girl group', 'k-pop'}",False,2017-12-28,61,0.66,0.856,7,-3.461,1,0.0576,0.0534,0.0,0.587,0.745,99.011,194941
+Heart Shaker,0O9OnWm3z2B2TjvE051AMV,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2017-12-11,66,0.565,0.943,8,-0.532,1,0.0645,0.105,0.0,0.154,0.855,164.059,186893
+instagram,6z1kLsntE7FuzKZHZWrXYN,['DEAN'],"{'korean r&b', 'k-pop'}",False,2017-12-26,69,0.463,0.566,8,-6.195,1,0.145,0.196,0.0,0.284,0.219,93.921,255729
+Electric Kiss,4W0wSLXqn0L3XneeBC344O,['EXO'],"{'k-pop boy group', 'k-pop'}",False,2018-01-31,53,0.681,0.964,10,-3.659,0,0.0892,0.00398,4.25e-05,0.721,0.687,101.538,207507
+Lip & Hip,5C2d3tz8WACjmw7T6TthQ2,['HyunA'],{'k-pop'},False,2017-12-04,62,0.742,0.847,11,-2.763,0,0.0485,0.00117,8.49e-06,0.142,0.516,112.95,209747
+Glass Shoes,59jOv3yKDWf6pBcr91ZfIf,['fromis_9'],"{'k-pop girl group', 'k-pop'}",False,2017-11-30,45,0.606,0.914,7,-3.87,0,0.0825,0.199,0.0,0.332,0.739,172.169,191379
+Jelly,6mu2cymBOKqnp4QP0966fW,['Red Velvet - IRENE & SEULGI'],{'k-pop'},False,2020-07-06,61,0.621,0.919,0,-2.594,1,0.0401,0.106,5.47e-06,0.0604,0.921,168.029,192933
+SAVE THE REST,1uOicakRrXzKRqd6eLQIAM,['MXM'],"{'k-pop boy group', 'k-pop'}",False,2017-09-06,20,0.815,0.839,1,-2.516,0,0.0805,0.15,0.0,0.258,0.964,105.981,223344
+MIC Drop (Steve Aoki Remix) [Full Length Edition],75scDPqGs75FotglJSoOI2,"['BTS', 'Steve Aoki']","{'electro house', 'tropical house', 'big room', 'edm', 'k-pop boy group', 'dance pop', 'k-pop'}",False,2018-08-24,76,0.606,0.848,11,-3.952,1,0.184,0.0114,1.06e-06,0.206,0.54,170.01,307676
+You In Me,4MSiPP89oZupNNq2CvjEeR,['KARD'],{'k-pop'},False,2017-11-21,53,0.759,0.921,8,-2.533,0,0.231,0.0796,0.000111,0.325,0.528,96.025,203982
+When we were two,10sjUVYJO1UHDDxQSODUE2,['Urban Zakapa'],"{'korean pop', 'k-indie', 'k-pop'}",False,2017-11-08,36,0.504,0.486,3,-3.507,1,0.0287,0.572,0.0,0.113,0.138,113.937,198053
+Chococo,3uLZfFPeRlspgsDqYL8T81,['gugudan'],"{'k-pop girl group', 'k-pop'}",False,2017-11-08,38,0.668,0.931,6,-2.997,0,0.101,0.0419,6.31e-06,0.088,0.736,164.013,220293
+Let's Hang Out,5PjPmFMJgiMeKNcDWxDVMy,['SF9'],"{'k-pop boy group', 'k-pop'}",False,2017-10-12,33,0.776,0.912,1,-2.649,1,0.065,0.183,0.0,0.459,0.918,123.931,205610
+Shall We Dance,7xMBlV5OBTiHlUraGaHGqs,['Block B'],"{'k-pop boy group', 'korean r&b', 'k-pop'}",False,2018-01-09,53,0.854,0.721,2,-3.769,1,0.0776,0.0157,0.0,0.153,0.828,112.012,180807
+DRAMARAMA,1BSncOsSJPQkpl29QM0ipj,['Monsta X'],"{'k-pop boy group', 'k-pop'}",False,2017-11-07,61,0.571,0.779,8,-2.864,1,0.111,0.135,0.0,0.202,0.261,186.154,186296
+DDD,3nXUfNbkv8ikaSdHwEp0oY,['EXID'],"{'k-pop girl group', 'k-pop'}",False,2017-11-07,59,0.718,0.794,11,-2.877,0,0.0703,0.0806,0.0,0.0679,0.751,114.285,205821
+Black Suit,0cCm1PbOd6nqAPDdA3PRfs,['SUPER JUNIOR'],"{'k-pop boy group', 'k-pop'}",False,2017-11-06,58,0.711,0.885,5,-3.299,0,0.0477,0.0044,0.0,0.207,0.866,121.978,201112
+I love too,0L6wtmePpAGbfDX2y0IEBB,['MAMAMOO'],"{'k-pop girl group', 'k-pop'}",False,2016-11-07,46,0.681,0.723,1,-5.585,1,0.0617,0.745,0.0,0.157,0.673,94.987,264609
+Jelly,6mu2cymBOKqnp4QP0966fW,['Red Velvet - IRENE & SEULGI'],{'k-pop'},False,2020-07-06,61,0.621,0.919,0,-2.594,1,0.0401,0.106,5.47e-06,0.0604,0.921,168.029,192933
+Crazy Sexy Cool,1EDYaBb4axYaE3wIKvcSfw,['ASTRO'],"{'k-pop boy group', 'k-pop'}",False,2017-11-01,57,0.7,0.803,7,-4.082,1,0.215,0.0464,0.0,0.0954,0.391,105.098,196740
+Sweet Crazy Love,5fgpCIjBJ098E9zqN9DS87,['LOOΠΔ / ODD EYE CIRCLE'],"{'k-pop girl group', 'k-pop'}",False,2017-10-31,52,0.542,0.862,6,-4.413,1,0.0983,0.041,0.0,0.084,0.543,111.941,209084
+Likey,4P66rfizAl2nIJCICSMymC,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2017-10-30,70,0.722,0.903,4,-1.261,0,0.0331,0.42,0.000371,0.118,0.445,132.006,207813
+You said you were happy,2Es7tPCnorYdMvjom8Erkd,['Gavy N.J'],{'k-pop'},False,2017-10-29,11,0.402,0.519,6,-5.236,1,0.0427,0.733,0.0,0.109,0.313,60.823,226138
+Break Up In The Morning,3ImaACMfZ1YdTrkVkPGVAR,['4MEN'],"{'korean pop', 'k-pop'}",False,2018-02-08,41,0.51,0.475,7,-6.703,1,0.0319,0.739,0.0,0.121,0.218,131.665,282422
+HOME IS FAR AWAY,7A2RLTIRAbncB7EwCV2JRq,"['Epik High', 'OHHYUK']","{'korean pop', 'k-rap', 'k-indie', 'k-pop'}",False,2017-10-23,50,0.78,0.858,7,-6.331,0,0.127,0.356,0.0,0.0937,0.5,93.987,291002
+Can Be Better,3Wo9A8TSvMBx29Id4Y9Nma,['Highlight'],"{'k-pop boy group', 'k-pop'}",False,2017-10-16,39,0.533,0.963,11,-2.077,1,0.067,0.169,0.0,0.367,0.845,144.915,179490
+Pinwheel,2NvrIHgujKttUQyx2uUMY9,['SEVENTEEN'],"{'k-pop boy group', 'k-pop'}",False,2017-11-06,57,0.455,0.681,11,-5.224,1,0.0532,0.11,0.0,0.116,0.366,173.889,219029
+O Sole Mio,1zZ9IuDffZGH5OoVoUXlHz,['SF9'],"{'k-pop boy group', 'k-pop'}",False,2017-10-12,53,0.734,0.823,1,-3.888,0,0.089,0.27,0.0,0.108,0.718,103.991,201643
+Lilili Yabbay,55M6WlPDc8WID9UcmWjbYM,['SEVENTEEN'],"{'k-pop boy group', 'k-pop'}",False,2017-11-06,54,0.604,0.898,6,-2.495,0,0.284,0.0463,5.94e-06,0.262,0.511,112.135,211191
+Hellevator,67LJNZyfDA1uaPCtlpyuKN,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2018-01-08,66,0.515,0.816,10,-2.33,1,0.165,0.00816,0.0,0.351,0.288,78.169,240000
+I Need U,7dlNGfd6Fq8xcFb4K6Glws,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2016-05-02,70,0.475,0.897,5,-2.383,0,0.0736,0.0184,0.0,0.296,0.642,78.918,210577
+CHANGE UP,6j6wUN8whCYTwxCg9R240U,['SEVENTEEN'],"{'k-pop boy group', 'k-pop'}",False,2017-11-06,57,0.589,0.79,6,-4.033,0,0.131,0.108,0.0,0.164,0.56,146.336,187749
+Girl Front,5OnchRw2yAuIAwp2RYLCBa,['LOOΠΔ / ODD EYE CIRCLE'],"{'k-pop girl group', 'k-pop'}",False,2017-10-31,56,0.72,0.794,4,-4.084,1,0.156,0.0491,2.14e-05,0.264,0.694,140.01,196734
+Breathe Heavy,586BkKwB2IAlnlfErJJJQf,['Rania'],"{'k-pop girl group', 'k-pop'}",False,2017-08-12,22,0.655,0.755,6,-4.217,0,0.0429,0.0533,0.0,0.542,0.167,105.012,222378
+Like a Flower,4q2YBqhl3ay1U5rLxQXJ8v,['N.Flying'],"{'k-pop boy group', 'k-rock', 'k-pop'}",False,2018-10-26,40,0.62,0.599,11,-5.459,0,0.0266,0.15,0.0,0.315,0.235,128.057,264061
+DamDaDi,3wXVhj5ZPt2Oeld44FFQZE,['Golden Child'],"{'k-pop boy group', 'k-pop'}",False,2017-08-29,45,0.61,0.949,0,-1.971,1,0.0638,0.0191,0.0,0.0183,0.837,157.093,202375
+A Memory Clock,6CTKycF9K56ufHGpn0Sr9L,['UNI.T'],"{'k-pop girl group', 'k-pop'}",False,2018-05-18,20,0.68,0.682,8,-4.155,1,0.0386,0.105,0.0,0.0893,0.458,83.009,241160
+Gashina,0jFHMDRXxKaREor3hBEEST,['SUNMI'],{'k-pop'},False,2017-08-22,71,0.722,0.833,6,-3.915,1,0.094,0.0556,0.0,0.195,0.53,93.941,180000
+We Young,2nChvM2Tyv1ib8AvfCJcOe,['NCT DREAM'],"{'k-pop boy group', 'k-pop'}",False,2017-08-17,58,0.712,0.857,0,-4.194,1,0.0414,0.0579,0.0,0.0684,0.338,123.041,224467
+I Don’T Like Your Girlfriend,6tgaYrOLuLt4QblZaSoZ3Q,['Weki Meki'],"{'k-pop girl group', 'k-pop'}",False,2017-08-08,49,0.767,0.941,2,-3.002,1,0.196,0.0217,0.000411,0.169,0.568,99.961,199757
+Energetic,3NkkcnnKrNHv4AiGaPdD76,['Wanna One'],"{'k-pop boy group', 'k-pop'}",False,2017-11-13,63,0.714,0.886,0,-3.076,1,0.0461,0.058,0.0,0.112,0.752,125.046,189356
+Sixteen (Feat. Changmo),1MJ5eBpdkzrGT3mlKQ3N3r,"['Samuel', 'CHANGMO']","{'korean pop', 'k-rap', 'korean r&b', 'k-pop'}",False,2017-08-02,42,0.735,0.91,4,-4.009,0,0.038,0.0826,0.0,0.121,0.586,121.983,235795
+LOVE WHISPER,1xwnvVY9gHdo69PuGQkG1U,['GFRIEND'],"{'k-pop girl group', 'k-pop'}",False,2017-08-01,55,0.711,0.928,8,-1.666,0,0.0484,0.126,0.0,0.335,0.577,114.012,211972
+"내일, 오늘 Tomorrow, Today",0pBjBL0a6gcLfwgtFsuw10,['JJ Project'],{'k-pop'},False,2017-07-31,57,0.599,0.676,1,-3.761,1,0.043,0.0162,0.0,0.123,0.577,110.05,235069
+Love Cherry Motion,1H3i6WXxrJB7LEoH5iStvb,['LOONA'],"{'k-pop girl group', 'k-pop'}",False,2017-07-28,54,0.696,0.863,5,-3.805,0,0.0307,0.0198,0.0,0.114,0.769,136.993,221848
+Flame of Love - Korean Version;[Bonus Track],4c2gCfdobu4UeGNhPqgTJg,['TAEMIN'],{'k-pop'},False,2017-10-16,44,0.566,0.633,5,-5.234,0,0.0327,0.205,0.0,0.0781,0.507,129.952,231762
+Hola Hola,3VC1IEz9M1txlMSx3h3tPM,['KARD'],{'k-pop'},False,2017-07-19,59,0.843,0.807,1,-3.794,0,0.0632,0.0135,6.44e-05,0.227,0.833,104.962,202963
+Ko Ko Bop,5EzitieoPnjyKHAq0gfRMa,['EXO'],"{'k-pop boy group', 'k-pop'}",False,2017-07-18,69,0.749,0.85,0,-4.346,1,0.0468,0.0319,4.81e-05,0.0678,0.672,145.983,190423
+Jelly,6mu2cymBOKqnp4QP0966fW,['Red Velvet - IRENE & SEULGI'],{'k-pop'},False,2020-07-06,61,0.621,0.919,0,-2.594,1,0.0401,0.106,5.47e-06,0.0604,0.921,168.029,192933
+Red Flavor,51Qx2JnvPZo7kIILkLIw6k,['Red Velvet'],"{'k-pop girl group', 'k-pop'}",False,2018-07-04,43,0.708,0.91,9,-3.282,1,0.172,0.0364,0.0,0.0873,0.588,125.029,191640
+Hi Hello,5nd63yWhfWq5VKX7r6aFMI,['DAY6'],"{'k-pop boy group', 'k-pop'}",False,2017-12-06,53,0.494,0.666,2,-4.391,1,0.0276,0.0719,0.0,0.349,0.179,77.989,232042
+Come Back Home,4nwka1iX4tB0vykphXa9ae,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2017-07-04,60,0.648,0.881,11,-4.42,0,0.081,0.00155,1.11e-06,0.113,0.457,100.011,244588
+ABC (Middle of the Night),2JqFJPZqiBTrWObJVIUKgE,['VAV'],"{'k-pop boy group', 'k-pop'}",False,2017-07-04,32,0.699,0.914,11,-4.184,0,0.134,0.266,0.0,0.228,0.665,103.973,205963
+Archangels of the Sephiroth,68o76CgHzUfgT19WXhh19d,['Stellar'],"{'k-pop girl group', 'k-pop'}",False,2017-06-27,30,0.602,0.818,0,-3.605,1,0.0453,0.517,0.0,0.106,0.338,129.922,186303
+Don't Know You,7Ixn1yXMvF8YBuKnJKjliu,['HEIZE'],"{'korean pop', 'korean r&b', 'k-pop'}",False,2017-06-26,55,0.699,0.562,4,-5.573,0,0.253,0.213,0.0,0.42,0.471,104.995,189410
+Singing in the Rain,1uNTfm5WZVGdig95SAXajH,['LOONA'],"{'k-pop girl group', 'k-pop'}",False,2017-06-26,54,0.566,0.762,7,-6.638,1,0.0813,0.00906,1.35e-05,0.102,0.528,137.996,211661
+Yes I am,6DhY27Goy0fUFbySD3ulGn,['MAMAMOO'],"{'k-pop girl group', 'k-pop'}",False,2017-06-22,57,0.739,0.893,0,-2.778,1,0.223,0.145,0.0,0.0518,0.66,120.102,211660
+AGE GAG,36oxUVZw5Cw6D6WoR9P0iz,"['MAMAMOO', 'Kim dae hee', 'Kim Jun Ho']","{'k-pop girl group', 'k-pop'}",False,2017-06-22,48,0.817,0.745,0,-3.932,1,0.136,0.3,0.0,0.165,0.93,133.084,211064
+As If It's Your Last,1Zyd6zQnC6XIIzmg3hP7Ot,['BLACKPINK'],"{'k-pop girl group', 'k-pop'}",False,2017-06-22,78,0.786,0.853,8,-2.687,1,0.0816,0.0688,0.0,0.0759,0.45,125.034,213264
+BAMDEELALILA (Feat.Ailee),0rKmjEfv8ZbwmoyK5K6tsT,"['Clon', 'Ailee']","{'korean pop', 'k-pop'}",False,2017-06-29,2,0.502,0.997,5,-1.34,0,0.0901,0.0123,0.000395,0.123,0.213,128.124,168164
+SHINE FOREVER,63SRW26EEF9RF6GgeUgJqx,['Monsta X'],"{'k-pop boy group', 'k-pop'}",False,2017-06-19,52,0.625,0.9,0,-3.351,1,0.055,0.129,0.0,0.337,0.606,80.007,208036
+Critical Beauty,27urPq4di74NefAzywyQy7,['PENTAGON'],"{'k-pop boy group', 'k-pop'}",False,2017-06-12,43,0.777,0.756,5,-3.359,0,0.0793,0.111,0.0,0.463,0.658,93.987,196923
+"무제(無題) (Untitled, 2014)",35dEFabeYvGLrOMc9c1tES,['G-DRAGON'],"{'k-rap', 'k-pop'}",False,2017-06-08,62,0.575,0.461,4,-5.153,1,0.0317,0.785,1.75e-05,0.13,0.266,79.971,222868
+Why Don’t You Know,7BiaLnXa10sBpBEcFfm4PP,"['CHUNG HA', 'Nucksal']","{'k-rap', 'k-pop'}",False,2017-06-07,51,0.702,0.922,9,-0.961,0,0.146,0.322,0.0,0.367,0.619,100.032,198420
+1+1=0 (Feat. DEAN),3IRR7SWdHVojpCWfnwM2Vs,['SURAN'],"{'k-indie', 'korean r&b', 'k-pop'}",False,2017-06-02,46,0.841,0.722,1,-4.845,0,0.0512,0.251,0.0,0.0372,0.713,119.932,192066
+"We, First",0y1LIecRU2h6RcMIQ4P5vt,['ELRIS'],"{'k-pop girl group', 'k-pop'}",False,2017-06-01,32,0.68,0.942,6,-2.688,0,0.0464,0.111,0.0,0.231,0.854,105.038,202330
+Sweet Lies,4KMkvQ4pukipifwyjc8fAH,['EXO'],"{'k-pop boy group', 'k-pop'}",False,2017-09-05,51,0.59,0.592,1,-7.146,1,0.0758,0.0456,0.0,0.104,0.211,102.857,216200
+Anck Su Namum,1jHmGj123EpOxXd9S1PpFF,['YEZI'],{'k-pop'},False,2017-05-24,37,0.72,0.918,1,-2.602,0,0.0991,0.0497,1.68e-06,0.144,0.551,139.998,195423
+Eclipse,26K21MUaPDTnzHqtiiffFv,['LOONA'],"{'k-pop girl group', 'k-pop'}",False,2017-05-23,57,0.538,0.782,6,-4.299,0,0.101,0.394,0.0,0.122,0.447,97.513,231237
+Don't Wanna Cry,6Upu6yjkdi0DVI8E3IBZEU,['SEVENTEEN'],"{'k-pop boy group', 'k-pop'}",False,2017-05-22,70,0.781,0.683,0,-4.258,1,0.0325,0.164,1.53e-06,0.16,0.722,100.005,203427
+B-DAY,5TM0nFDtJTZn5gOfOXWpa9,['iKON'],"{'k-pop boy group', 'k-pop'}",False,2019-01-07,48,0.716,0.83,6,-4.091,0,0.0564,0.027,0.0,0.469,0.695,129.97,214585
+My Swagger,31Q8Gbx4f6Pfv2fDaTLAFk,['GOT7'],"{'k-pop boy group', 'k-pop'}",False,2017-05-24,43,0.751,0.577,11,-4.126,1,0.0584,8.61e-05,0.0,0.0976,0.367,110.073,187053
+Signal,1uwLMwgqPprCs5Q0OPRKI7,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2017-05-15,65,0.621,0.761,0,-2.736,1,0.334,0.22,0.0,0.143,0.626,207.818,196680
+New Face,7JD3gqq0DA5l9xUmVCpJWu,['PSY'],"{'k-rap', 'k-pop'}",False,2017-05-10,59,0.836,0.728,0,-3.449,0,0.0563,0.0079,2.94e-05,0.0564,0.444,131.969,190234
+Flower (You),0wQsHj1AxXExIo435LqgsG,['VAV'],"{'k-pop boy group', 'k-pop'}",False,2017-05-03,39,0.815,0.709,1,-3.926,1,0.0512,0.521,0.0,0.0686,0.668,91.035,189319
+365 FRESH,5G8YqJQ6oyPkxBSjpkCVRy,['Triple H'],{'k-pop'},False,2017-05-01,55,0.823,0.837,1,-4.533,1,0.0582,0.19,0.0,0.28,0.842,107.989,219809
+Ka-CHING!,5w4Zj0DHPKTJ8K8VL9yUjv,['EXO-CBX'],"{'k-pop boy group', 'k-pop'}",False,2017-05-24,50,0.741,0.848,10,-3.26,1,0.137,0.026,0.0,0.521,0.898,146.025,206853
+BE WELL,0B6Ts6gTea9SKGslwpbIG7,['SECHSKIES'],"{'k-pop boy group', 'k-pop'}",False,2017-04-28,38,0.671,0.826,10,-4.358,1,0.0586,0.0809,0.0,0.359,0.438,72.993,251541
+Back:Hug,7awmbaGFYIjaQdeGDLDhyc,['SNUPER'],"{'k-pop boy group', 'k-pop'}",False,2017-07-20,21,0.687,0.91,10,-4.266,0,0.0709,0.0667,0.0,0.0708,0.856,107.996,208000
+Palette (Feat. G-DRAGON),3y7ByLZ05tluscOTRgEJ9Y,['IU'],{'k-pop'},False,2017-04-21,68,0.804,0.68,0,-3.81,1,0.2,0.458,0.0,0.102,0.62,102.013,217413
+Will you go out with me,7njsdIYNZT2wTiBER9XDiS,['DIA'],"{'k-pop girl group', 'k-pop'}",False,2017-04-19,44,0.717,0.932,4,-2.426,0,0.0659,0.0991,0.0,0.29,0.737,139.982,193813
+봄날의 소나기 Paper Umbrella,6ABrnWry02LeyonZTnB31t,['YESUNG'],"{'korean pop', 'k-pop'}",False,2017-04-18,43,0.471,0.532,10,-6.073,1,0.03,0.549,0.0,0.152,0.294,133.811,249793
+BibbidiBobbidiBoo,1A5r5HR3BTyL8ZpeXZXDkQ,['BerryGood'],"{'k-pop girl group', 'k-pop'}",False,2017-04-16,23,0.705,0.878,0,-2.69,1,0.13,0.0852,0.0,0.109,0.738,130.021,205333
+Hwi hwi,3pPbm1d9G0jAHIoLa4ls9H,['LABOUM'],"{'k-pop girl group', 'k-pop'}",False,2017-04-17,38,0.754,0.917,10,-2.974,1,0.0546,0.0143,0.0,0.117,0.751,123.962,196867
+Everyday I Love You,5HGeTj4lVdLGed5c358q1f,"['LOONA', 'HaSeul']","{'k-pop girl group', 'k-pop'}",False,2017-04-17,49,0.706,0.754,11,-4.829,0,0.0435,0.0395,0.0,0.217,0.679,119.961,208160
+She’s a Baby,2sXEt6xhBXrefqPqNTyQNr,['ZICO'],"{'korean pop', 'korean r&b', 'k-pop'}",False,2017-04-13,52,0.747,0.441,11,-10.032,1,0.454,0.556,0.0,0.117,0.368,76.933,164980
+Night Rather Than Day,3ekdsWPG0ZtVrvEUPe2Djv,['EXID'],"{'k-pop girl group', 'k-pop'}",False,2017-04-10,45,0.756,0.845,1,-3.095,1,0.139,0.111,0.0,0.311,0.711,110.027,198414
+KKPP,1vmFIYqmcVCfE6QB9TlYl1,['Miso'],{'k-pop'},False,2017-04-10,33,0.664,0.944,11,-3.782,1,0.0742,0.000587,0.0465,0.332,0.748,104.951,205384
+Can't Love You Anymore (With OHHYUK),5MvxeZPiiLAuB5gI8k3ynk,['IU'],{'k-pop'},False,2017-04-21,56,0.611,0.63,9,-4.419,0,0.363,0.566,0.0,0.237,0.66,65.619,195230
+Tension Up,2hLGRd98aVnYcf4zxUy0fg,['IMFACT'],"{'k-pop boy group', 'k-pop'}",False,2017-04-05,22,0.726,0.919,0,-3.07,0,0.0728,0.0346,0.0,0.225,0.863,127.991,181572
+Smile Flower,054sQZ2qmw0Ya7N0XSxl3j,['SEVENTEEN'],"{'k-pop boy group', 'k-pop'}",False,2016-12-05,57,0.567,0.368,1,-7.392,1,0.0342,0.831,0.0,0.142,0.364,143.93,232395
+Would U,1rL3u6JsjQT9Cxg1oHTJEK,['Red Velvet'],"{'k-pop girl group', 'k-pop'}",False,2017-03-31,50,0.758,0.627,5,-6.466,0,0.0528,0.497,0.0,0.204,0.544,93.957,203831
+Still My Lady,5IEKQRsrMRliFRdy4OtGJ7,['SF9'],"{'k-pop boy group', 'k-pop'}",False,2017-02-06,35,0.6,0.778,4,-4.214,0,0.0765,0.202,0.0,0.105,0.694,172.012,215919
+I'll be yours,4dOOKtG5p4HXhWOBNAAMwS,"[""Girl's Day""]","{'korean pop', 'k-pop girl group', 'k-pop'}",False,2017-03-27,47,0.733,0.922,7,-1.656,1,0.0556,0.0639,0.0,0.155,0.595,99.009,190030
+Through the Night,3P3UA61WRQqwCXaoFOTENd,['IU'],{'k-pop'},False,2017-04-21,67,0.428,0.313,8,-7.327,1,0.0391,0.757,0.0,0.309,0.284,78.723,253293
+WEE WOO,23XXMK9SQBFwndnbgbcMPa,['PRISTIN'],"{'k-pop girl group', 'k-pop'}",False,2017-03-21,53,0.834,0.917,10,-2.838,1,0.0982,0.0895,0.000167,0.0532,0.699,129.981,192830
+Plz Don't Be Sad,7pNNnrmd3pBIsQTenWExLy,['Highlight'],"{'k-pop boy group', 'k-pop'}",False,2017-03-20,40,0.587,0.874,9,-2.461,0,0.0613,0.16,0.0,0.15,0.752,150.037,196509
+It's Still Beautiful,2VRkGT6doWXRHhx3RXCrVy,['Highlight'],"{'k-pop boy group', 'k-pop'}",False,2017-05-29,34,0.535,0.382,3,-4.428,1,0.0352,0.878,0.0,0.115,0.417,139.586,224062
+어떻게 말해 How Can I Say,3lUTXq1JLSDQX4qBRHMBdU,['DAY6'],"{'k-pop boy group', 'k-pop'}",False,2017-06-07,54,0.393,0.945,11,-0.995,0,0.0866,0.00573,0.0,0.0987,0.506,185.971,201848
+Jasmine,2IgbYlOlFpiSFYnsqB39lM,['DPR LIVE'],"{'k-rap', 'korean r&b', 'k-pop'}",False,2017-10-08,64,0.597,0.486,8,-5.893,1,0.0986,0.331,0.0,0.14,0.397,137.68,201511
+EYEZ EYEZ,3wMpuYuXteiRHBvlLtPOPW,['VICTON'],"{'k-pop boy group', 'k-pop'}",False,2017-03-02,36,0.794,0.783,9,-3.203,0,0.342,0.0397,0.0,0.0731,0.71,99.905,187651
+Don't Recall - Hidden Ver.,6h3hh8ehSZpvbHquF1L47s,['KARD'],{'k-pop'},False,2017-02-16,46,0.693,0.712,1,-2.716,1,0.0721,0.0246,5.8e-06,0.128,0.585,92.979,209033
+A Girl Like Me,7LwTGsLkLWH6BUQKuvPq1w,['gugudan'],"{'k-pop girl group', 'k-pop'}",False,2017-02-27,39,0.769,0.951,3,-1.673,0,0.0626,0.0677,0.00194,0.158,0.657,126.969,175169
+Love Line,203sd4cosoKgF62jSkqd6z,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2017-10-30,46,0.697,0.767,0,-4.719,1,0.0444,0.226,0.0,0.108,0.519,94.998,196800
+Please Be My First Love,2FbZc5pDugneEHnUQUD5DM,['IMFACT'],"{'k-pop boy group', 'k-pop'}",False,2017-02-27,19,0.662,0.668,5,-4.834,1,0.0592,0.0552,0.0,0.315,0.444,81.993,231647
+An Obvious Melo,2tPLdohL5c3xwxz8dZrARu,['Gavy N.J'],{'k-pop'},False,2017-02-23,8,0.653,0.866,4,-3.831,0,0.044,0.278,0.0,0.429,0.394,124.054,202896
+Not Today,4hrpoqJMVE7FxBu1YWx0eQ,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2017-02-13,72,0.594,0.946,8,-3.408,1,0.126,0.00181,1.04e-06,0.923,0.665,110.024,231860
+Dance With Me,5ABqgy5Z0BcYs6u23JpySX,['VAV'],"{'k-pop boy group', 'k-pop'}",False,2017-02-18,32,0.637,0.908,1,-1.981,0,0.172,0.0893,0.0,0.056,0.873,109.013,200682
+Don't Recall,4b1sQpvL7QVgamRZ74F1oA,['KARD'],{'k-pop'},False,2017-02-16,58,0.694,0.748,10,-2.93,0,0.167,0.0222,0.0,0.155,0.521,92.918,208667
+Spring Day,0WNGsQ1oAuHzNTk8jivBKW,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2017-02-13,75,0.539,0.846,8,-3.192,1,0.0354,0.0063,1.68e-06,0.13,0.46,106.992,274097
+My First and Last,1MZuGklUjhhJRCNYT7igTc,['NCT DREAM'],"{'k-pop boy group', 'k-pop'}",False,2020-06-09,41,0.699,0.94,0,-3.225,1,0.0948,0.0193,0.0,0.381,0.386,108.063,203067
+예뻤어 You Were Beautiful,71WZ7yFuwxmQz5jJUpvkGv,['DAY6'],"{'k-pop boy group', 'k-pop'}",False,2017-06-07,68,0.458,0.617,5,-3.464,0,0.0331,0.0649,0.0,0.109,0.418,167.925,283160
+Get The Treasure,0eevVca6StlqtNDzUI5egO,['SHINee'],"{'k-pop boy group', 'k-pop'}",False,2018-04-18,26,0.674,0.899,11,-2.963,0,0.0639,0.0668,0.0,0.156,0.962,114.991,224227
+Pretty Pretty,4toxxD0D1tAAZPqbA8zsCX,['PENTAGON'],"{'k-pop boy group', 'k-pop'}",False,2016-12-07,37,0.715,0.92,7,-4.998,1,0.146,0.123,0.0,0.121,0.707,105.034,189042
+DOWNPOUR,51CWs8Gipl0UqDGNA5xekm,['I.O.I'],"{'k-pop girl group', 'k-pop'}",False,2017-01-18,61,0.467,0.433,9,-4.073,1,0.0332,0.66,0.0,0.13,0.333,145.302,234259
+When I'm with you (feat. Brother Su),43zmTG58HoGNUWYFaeiId5,"['Park Kyung', 'BrotherSu']","{'korean pop', 'k-pop'}",False,2017-01-18,33,0.626,0.517,9,-6.653,0,0.0921,0.272,0.0,0.2,0.439,82.932,239985
+Hobgoblin,2pSOUHBQXkN3fS2TAJHhfR,['CLC'],"{'k-pop girl group', 'k-pop', 'korean city pop'}",False,2017-01-17,60,0.621,0.873,11,-2.888,0,0.103,0.0194,0.0,0.488,0.401,169.91,210478
+I'm Fine,0EQMrxdeiBhry9JCxskko3,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2018-08-24,71,0.51,0.842,11,-2.782,0,0.103,0.00852,0.0,0.346,0.302,87.605,240339
+April Story,744wv6QfQEtOJA6LjzCr74,['APRIL'],"{'k-pop girl group', 'k-pop'}",False,2017-01-04,44,0.618,0.878,9,-2.949,1,0.0461,0.198,0.0,0.15,0.553,107.978,203374
+Bing Bing,0tHkBl71ZHXaFdc0sNGQHz,['Red Velvet'],"{'k-pop girl group', 'k-pop'}",False,2019-12-23,47,0.774,0.888,10,-3.689,1,0.0641,0.106,3.84e-05,0.432,0.45,114.035,202404
+Cause you're my star,1QJapkI35bvECV1UK7j164,['Apink'],"{'k-pop girl group', 'k-pop'}",False,2016-12-15,32,0.634,0.819,7,-4.751,1,0.118,0.06,0.0,0.314,0.827,160.932,191406
+Cause you're my star,1QJapkI35bvECV1UK7j164,['Apink'],"{'k-pop girl group', 'k-pop'}",False,2016-12-15,32,0.634,0.819,7,-4.751,1,0.118,0.06,0.0,0.314,0.827,160.932,191406
+FXXK IT,7uzib3dSSwgUwcD3z0k3bR,['BIGBANG'],"{'k-pop boy group', 'k-pop'}",False,2016-12-13,65,0.72,0.746,0,-3.143,0,0.107,0.152,0.0,0.276,0.587,90.026,231811
+Number 1,2GGzUBEJE1dN2PHrf7neS7,['LOONA'],"{'k-pop girl group', 'k-pop'}",False,2020-02-05,51,0.689,0.945,11,-3.346,1,0.0454,0.0844,0.0,0.412,0.774,103.982,202947
+BOOMBOOM,0pWxUlYb3EM2WkcTJfwBdP,['SEVENTEEN'],"{'k-pop boy group', 'k-pop'}",False,2016-12-05,59,0.853,0.814,8,-3.047,1,0.0766,0.0347,0.0,0.171,0.686,108.111,206227
+Hard Carry,2HZRtkGlLqXnwNcjNsgp9b,['TOO'],"{'k-pop boy group', 'k-pop'}",False,2020-06-05,46,0.806,0.912,1,-2.494,1,0.135,0.037,0.0,0.434,0.547,102.048,227813
+White Night,33txTXgQioQ5eaXc7yWd67,['NCT 127'],"{'k-pop boy group', 'k-pop'}",False,2020-03-06,50,0.56,0.568,7,-3.967,0,0.0288,0.203,0.0,0.13,0.214,70.978,243427
+Pit-a-Pat,5w3R1N8AV5Xa5wHuoQ2srY,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2016-10-24,42,0.663,0.882,7,-2.54,1,0.144,0.123,0.00013,0.318,0.612,178.03,207507
+Tell Me What To Do,082T4CgUFyV0tjPdzaq6ml,['SHINee'],"{'k-pop boy group', 'k-pop'}",False,2016-11-15,51,0.602,0.926,7,-1.78,1,0.177,0.102,0.0,0.317,0.288,125.107,246787
+TIAMO,3Kjwkqzy4utpm42t0R83jU,['T-ARA'],"{'k-pop girl group', 'k-pop'}",False,2016-11-09,38,0.639,0.835,5,-3.783,1,0.0688,0.0198,0.0,0.619,0.345,89.009,203491
+JJan! Koong! Kwang!,0mACEYbz42CQdqAPjIJHi6,['MOMOLAND'],"{'k-pop girl group', 'k-pop'}",False,2016-11-10,40,0.722,0.886,10,-3.028,1,0.0581,0.264,0.0,0.134,0.696,139.968,199781
+I'm Fine,0EQMrxdeiBhry9JCxskko3,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2018-08-24,71,0.51,0.842,11,-2.782,0,0.103,0.00852,0.0,0.346,0.302,87.605,240339
+Décalcomanie,472McvAuBRHKhKUA0jrBUK,['MAMAMOO'],"{'k-pop girl group', 'k-pop'}",False,2016-11-07,61,0.648,0.859,10,-2.384,1,0.0472,0.114,0.0,0.448,0.541,115.436,215998
+11:11,67QGnT1Vdfuuy4HkLTUVjj,['TAEYEON'],{'k-pop'},False,2017-04-05,63,0.445,0.528,10,-7.243,1,0.0744,0.677,0.0,0.155,0.511,203.155,223452
+PLAYING WITH FIRE,7e7VjLxO5xJINHvnRytrqi,['BLACKPINK'],"{'k-pop girl group', 'k-pop'}",False,2016-11-01,76,0.707,0.758,4,-4.511,0,0.0917,0.0399,0.0,0.141,0.674,97.037,197355
+Selfish & Beautiful Girl (From WELCOME 2 BASTARZ) - 이기적인 걸 (From WELCOME 2 BASTARZ),6E3znuDnrmmoJC7Cssdlqg,['Block B - BASTARZ'],"{'k-pop boy group', 'k-pop'}",False,2016-10-24,33,0.768,0.852,0,-3.831,1,0.0719,0.0519,0.0,0.0657,0.82,110.993,201421
+Very Very Very,2VmbUOcHetU78iuTfe5kKR,['I.O.I'],"{'k-pop girl group', 'k-pop'}",False,2016-10-17,64,0.744,0.963,7,-1.527,1,0.0623,0.139,2.46e-06,0.0822,0.781,102.986,203640
+Blood Sweat & Tears,5RGf8qn1TBWVplLyyKUsuV,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2016-10-10,74,0.583,0.885,0,-3.571,0,0.106,0.0244,0.0,0.357,0.601,92.959,217052
+ViViD,1P2oYaTIBRB4pYL28Ps5Mv,['LOONA'],"{'k-pop girl group', 'k-pop'}",False,2016-10-05,50,0.71,0.878,4,-3.67,0,0.151,0.261,0.0,0.465,0.747,105.966,201537
+FRI. SAT. SUN,24EZdr3QD9P2jbTtYJn2ux,['Dalshabet'],"{'k-pop girl group', 'k-pop'}",False,2016-09-29,33,0.619,0.809,7,-2.283,1,0.0679,0.173,0.0,0.31,0.748,149.947,182656
+Doo Doom Chit,0Z4wdqp3a9adnckqpqN1W8,['Crayon Pop'],"{'k-pop girl group', 'k-pop'}",False,2016-09-26,32,0.676,0.989,5,-0.168,0,0.161,0.262,7.25e-06,0.337,0.812,127.992,190459
+Bobby Doll,5DYCmUoQK9GKTY0AAnKkYV,['Song Ji Eun'],"{'korean pop', 'k-pop'}",False,2016-09-20,25,0.709,0.877,8,-2.505,1,0.0702,0.224,0.0,0.143,0.834,122.944,184517
+Mr. Potter,4qp44Z9rNQr9XTx3KloFdj,['DIA'],"{'k-pop girl group', 'k-pop'}",False,2016-09-13,39,0.501,0.959,7,-1.057,1,0.174,0.336,0.0,0.546,0.619,173.996,213937
+Promise (I'll be),3CkAvpdvSbHTX7DrdFhOno,['2PM'],"{'k-pop boy group', 'k-pop'}",False,2016-09-13,40,0.57,0.945,1,-1.72,0,0.0722,0.108,0.0,0.104,0.51,159.899,208573
+Russian Roulette,7puC9LjNg0ItpjTz28yeaY,['Red Velvet'],"{'k-pop girl group', 'k-pop'}",False,2018-07-04,62,0.706,0.902,7,-2.543,0,0.0352,0.00909,0.00137,0.17,0.964,130.024,211213
+Maria,0ZeGfEAL5Rl4pd5LZBGuEK,['Hwa Sa'],{'k-pop'},False,2020-06-29,84,0.658,0.749,9,-2.967,0,0.0634,0.238,2.03e-06,0.272,0.442,128.909,199027
+Galaxy 우주를 줄게,6T3Mlx5fr71sm0u1YDAb4R,['BOL4'],"{'korean pop', 'k-pop'}",False,2016-08-29,64,0.606,0.815,0,-2.407,1,0.132,0.681,0.0,0.0919,0.707,166.024,213853
+Love Paint (every afternoon),5ZmZnO37y2neKxn2KVhuLQ,"[""NU'EST""]","{'korean pop', 'k-pop boy group', 'k-pop'}",False,2016-08-29,42,0.619,0.949,4,-2.653,0,0.2,0.222,0.0,0.483,0.596,147.024,185518
+Shooting Love,5C9gJtpWt4OgYCi4DcTGmq,['LABOUM'],"{'k-pop girl group', 'k-pop'}",False,2016-08-23,33,0.653,0.988,11,-1.717,1,0.195,0.241,2.21e-06,0.0787,0.855,160.033,201718
+Still 24K,54wWoqaydioPQmKEFi8IC3,['24K'],"{'k-pop boy group', 'k-pop'}",False,2016-10-22,35,0.622,0.914,11,-1.365,0,0.163,0.0156,0.0,0.258,0.568,128.956,214894
+Whatta Man (Good man),754PhkDUWZUkHbM7zfiLKm,['I.O.I'],"{'k-pop girl group', 'k-pop'}",False,2016-08-09,55,0.559,0.936,6,-2.254,0,0.0931,0.0063,3.85e-05,0.457,0.696,150.065,193605
+BOOMBAYAH,3yHQKddM8SVCRnuPSo3HPN,['BLACKPINK'],"{'k-pop girl group', 'k-pop'}",False,2016-08-08,77,0.658,0.836,5,-3.282,0,0.0549,0.00264,1.02e-06,0.507,0.387,124.969,240849
+Lip 2 Lip,12VEtNuKVQLjWrbEH1ovQJ,['9MUSES'],"{'k-pop girl group', 'k-pop'}",False,2016-08-04,35,0.77,0.927,4,-1.525,0,0.0492,0.125,0.0,0.102,0.964,136.024,182203
+highfiVe,6pnn1CdUNjy2iEXr5wouyr,"['Dynamicduo', 'Primary', 'Boi B', 'Crush']","{'k-rap', 'k-indie', 'korean r&b', 'korean city pop', 'korean pop', 'k-pop'}",False,2016-07-22,19,0.624,0.86,2,-3.061,1,0.317,0.091,0.0,0.195,0.361,156.005,241587
+SHUBIRUBIRUB,0zcj7EGqDRKhJMj28TJsDa,['Gavy N.J'],{'k-pop'},False,2016-07-20,7,0.711,0.826,5,-3.313,1,0.0387,0.0588,0.0,0.25,0.521,114.985,204621
+That Summer (Second Story),6NQMnIkdIdcjEhQG7o2rDU,['INFINITE'],"{'k-pop boy group', 'k-pop'}",False,2016-07-08,28,0.589,0.686,8,-5.494,1,0.0338,0.0343,0.0,0.0804,0.564,91.977,218253
+VERY NICE,1Rrj7KyS2R6SP9CQMDJW1w,['SEVENTEEN'],"{'k-pop boy group', 'k-pop'}",False,2016-07-04,66,0.746,0.898,3,-2.818,0,0.0725,0.0526,0.0,0.0858,0.879,121.967,192093
+Shut Up & Groove (feat. DEAN) [From And July],1qz2bFE5ZtwZSd6DNed2RJ,"['HEIZE', 'Dean']","{'korean pop', 'korean r&b', 'k-pop'}",False,2016-06-02,50,0.655,0.665,7,-4.785,1,0.0358,0.0873,0.0,0.122,0.535,112.831,199281
+Why So Lonely,3mKK73NhylzXdHV4qZGxI4,['Wonder Girls'],"{'k-pop girl group', 'k-pop'}",False,2016-07-05,58,0.634,0.726,7,-5.086,1,0.133,0.111,0.0,0.111,0.809,155.161,206707
+I DO LOVE YOU,29cTSv9cOOka2NFLbQQiKg,['SONAMOO'],"{'k-pop girl group', 'k-pop'}",False,2016-06-29,10,0.725,0.705,1,-4.602,1,0.0467,0.0854,0.0,0.222,0.428,103.009,208497
+WONDERLAND,6k67RdkVjTZj79c1cRz7IQ,['ATEEZ'],"{'k-pop boy group', 'k-pop'}",False,2019-10-08,70,0.572,0.964,4,-1.949,0,0.123,0.0503,0.0,0.372,0.519,129.979,199013
+MIROH,4WuKHgxdCJsaOBIh7yndty,['Stray Kids'],"{'k-pop boy group', 'k-pop'}",False,2019-03-25,71,0.563,0.979,9,-3.104,1,0.104,0.00911,0.0,0.249,0.503,126.063,207617
+NAVILLERA,2Oi0IO8K4BEbhPUdWcjNmv,['GFRIEND'],"{'k-pop girl group', 'k-pop'}",False,2016-07-11,57,0.642,0.957,6,-0.944,0,0.05,0.0438,0.0,0.273,0.801,125.008,193580
+Lucky One,6F07dfBaUEcylJdL3gky7y,['EXO'],"{'k-pop boy group', 'k-pop'}",False,2016-06-09,57,0.731,0.787,1,-3.95,1,0.055,0.169,0.0,0.0892,0.799,120.951,227486
+L.I.E,4c1cUu1PFDX1YB6JDvG8vf,['EXID'],"{'k-pop girl group', 'k-pop'}",False,2016-06-01,51,0.682,0.921,1,-1.261,1,0.0707,0.0742,0.0,0.16,0.66,155.054,211100
+Free Somebody,2GYXeZioWBxUgsRZ30fvYt,['LUNA'],{'k-pop'},False,2016-05-31,48,0.676,0.797,11,-3.862,0,0.059,0.114,1.26e-06,0.344,0.546,114.988,199824
+No Oh Oh,1XQ41IX8bQjCQNjc4VQsXz,['CLC'],"{'k-pop girl group', 'k-pop', 'korean city pop'}",False,2016-05-30,38,0.754,0.869,5,-2.557,0,0.0457,0.0195,0.0,0.122,0.803,92.988,223453
+To My Bestfriend,4ssM27YO8d0VyTqPvr2QKr,['BOYFRIEND'],"{'k-pop boy group', 'j-pop boy group', 'k-pop'}",False,2016-05-26,21,0.626,0.802,1,-2.305,1,0.0522,0.162,0.0,0.08,0.6,102.042,220788
+uhgood,7hjWFO88DN3FroDMRIcehn,['RM'],"{'k-rap', 'k-pop'}",False,2018-10-22,60,0.536,0.559,0,-6.826,1,0.0501,0.00135,0.016,0.132,0.0964,85.971,194384
+RE-BYE,1VrUu8hMTMslRSjsDpSJKc,['AKMU'],"{'korean pop', 'k-pop'}",False,2016-05-04,51,0.801,0.608,2,-5.474,0,0.0663,0.476,0.0,0.13,0.922,127.958,188717
+How People Move,4A6yn8pvwwezoyQIySqvou,['AKMU'],"{'korean pop', 'k-pop'}",False,2016-05-04,44,0.812,0.833,9,-3.529,1,0.083,0.307,0.0,0.0511,0.846,121.923,202388
+Tinkerbell,3WSLv2WNgHE0BNMrHC0Jye,"[""Girls' Generation""]","{'j-idol', 'k-pop girl group', 'k-pop'}",False,2007-11-01,31,0.662,0.772,4,-3.222,1,0.0263,0.666,0.0,0.213,0.672,99.992,177187
+CHEER UP,4CeE0LU1SkHshwHeMfPwqk,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2016-04-25,68,0.548,0.885,6,-1.48,1,0.125,0.139,0.0,0.0716,0.509,172.946,208853
+Fight Day 싸운날,6vf5x16iT8hCzBvIQy3tDf,['BOL4'],"{'korean pop', 'k-pop'}",False,2016-08-29,47,0.649,0.658,8,-1.853,1,0.048,0.298,0.0,0.065,0.739,76.927,189188
+Epilogue: Young Forever,43hiD0QEeUysuWqDzd8GwA,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2016-05-02,66,0.606,0.815,5,-3.818,0,0.231,0.04,0.0,0.119,0.386,88.062,171803
+일곱 번째 감각 The 7th Sense,6BdchFAP4TUZUceAsAEb5U,"['NCT', 'NCT U']","{'k-pop boy group', 'k-pop'}",False,2018-03-14,60,0.682,0.502,2,-9.507,1,0.0713,0.0124,8.45e-06,0.107,0.218,108.08,214035
+A Few Years Later,2XBwLQkHIbn0xQYpVt39Va,['Block B'],"{'k-pop boy group', 'korean r&b', 'k-pop'}",False,2016-03-28,38,0.644,0.565,10,-6.174,1,0.35,0.487,0.0,0.103,0.501,95.024,227771
+Platonic Love,32uZjoJA2Mm7Xf6Yonsk3q,['SNUPER'],"{'k-pop boy group', 'k-pop'}",False,2016-03-08,35,0.65,0.934,0,-3.532,0,0.0382,0.000929,0.0,0.104,0.703,147.951,188845
+Galaxy 우주를 줄게,6T3Mlx5fr71sm0u1YDAb4R,['BOL4'],"{'korean pop', 'k-pop'}",False,2016-08-29,64,0.606,0.815,0,-2.407,1,0.132,0.681,0.0,0.0919,0.707,166.024,213853
+Severely,55IWnmlg29mY9EiLhH514C,['FTISLAND'],"{'korean pop', 'k-pop boy group', 'k-rock', 'k-pop'}",False,2012-01-31,47,0.557,0.812,4,-3.085,1,0.0286,0.0395,0.0,0.258,0.496,141.888,250645
+Press Your Number,1T7NW3LwpJZw381bfiPPBz,['TAEMIN'],{'k-pop'},False,2016-02-23,54,0.656,0.78,10,-3.609,0,0.058,0.186,0.0,0.209,0.613,120.021,226258
+Deepened,2csIvlGQz4Xfpk4e5a6ISo,['Brave Girls'],"{'k-pop girl group', 'k-pop'}",False,2016-02-16,37,0.771,0.855,5,-2.988,0,0.0425,0.215,0.0,0.336,0.548,122.967,193653
+I'm Jelly BABY,4xcbkTvjekjJ5qPhRF4N5g,['AOA CREAM'],"{'k-pop girl group', 'k-pop'}",False,2016-02-12,39,0.595,0.865,7,-1.539,1,0.0422,0.019,0.0,0.412,0.376,163.826,225680
+Taller than You,05d6pLPZ1DmRfgc5IfdPnx,['MAMAMOO'],"{'k-pop girl group', 'k-pop'}",False,2016-02-26,52,0.733,0.684,11,-3.99,0,0.416,0.0944,0.0,0.143,0.757,200.308,184362
+Monologue,5948rGOD7Spt8IALZLOuNr,['TAEMIN'],{'k-pop'},False,2019-02-11,43,0.556,0.261,8,-9.74,1,0.03,0.901,0.0,0.166,0.5,85.876,200530
+Someone Like U,5zbxw72g850H4fNMFEO7PC,['Dalshabet'],"{'k-pop girl group', 'k-pop'}",False,2016-01-05,43,0.742,0.971,6,-1.687,1,0.0671,0.3,0.0,0.04,0.964,121.005,200768
+DUMB & DUMBER,03DQmSDUFs2qItZQbWz2s4,['iKON'],"{'k-pop boy group', 'k-pop'}",False,2015-12-24,49,0.729,0.878,1,-4.402,1,0.085,0.108,0.0,0.049,0.438,129.96,241763
+Sing For You,7htOPFqaCfI6j5ssnz2cla,['EXO'],"{'k-pop boy group', 'k-pop'}",False,2015-12-10,56,0.341,0.288,8,-7.544,1,0.0335,0.852,0.0,0.363,0.443,170.202,235036
+Dear Santa - English Version,7GUbqy8Ldj5lh0c6lh9Iun,"[""Girls' Generation-TTS""]","{'k-pop girl group', 'k-pop'}",False,2015-12-04,30,0.549,0.669,1,-5.283,1,0.0367,0.426,1.22e-06,0.0943,0.288,132.222,238136
+Muah!,1h3IbJchqaJwWaz4v5WGDB,['APRIL'],"{'k-pop girl group', 'k-pop'}",False,2015-11-25,35,0.755,0.909,1,-1.98,1,0.0721,0.107,0.0,0.21,0.494,123.949,182073
+Hot Pink,3t1HegTbjLFXUaNAElhR7T,['EXID'],"{'k-pop girl group', 'k-pop'}",False,2015-12-11,51,0.769,0.962,1,-1.812,1,0.0691,0.357,2.32e-06,0.375,0.708,107.008,200729
+Shall We Dance,7xMBlV5OBTiHlUraGaHGqs,['Block B'],"{'k-pop boy group', 'korean r&b', 'k-pop'}",False,2018-01-09,53,0.854,0.721,2,-3.769,1,0.0776,0.0157,0.0,0.153,0.828,112.012,180807
+LIGHTSABER,0WgIKcomgCpfSvTHRT43aW,['EXO'],"{'k-pop boy group', 'k-pop'}",False,2015-11-11,51,0.649,0.832,5,-4.552,0,0.086,0.13,0.0,0.414,0.58,139.986,184935
+Chained Up,2JcQ5i13wsNdyyXs8Sqab0,['VIXX'],"{'k-pop boy group', 'k-pop'}",False,2015-11-10,52,0.728,0.941,9,-2.044,0,0.188,0.0955,0.0,0.328,0.924,92.065,192922
+Warm Hole,1Gm72OjVGoDOmyMSNskQd2,['Brown Eyed Girls'],"{'korean pop', 'k-pop girl group', 'k-pop'}",False,2015-11-05,30,0.615,0.991,5,-0.391,0,0.283,0.0695,0.0,0.285,0.695,159.965,192083
+Sing Your Song,3GfQN6MxgV536Ab6VVxT08,['SHINee'],"{'k-pop boy group', 'k-pop'}",False,2018-04-18,27,0.625,0.795,0,-3.937,1,0.0542,0.192,0.0,0.0718,0.801,75.04,244880
+Don't Touch my Girl,7nK4hyMZkGCOjEot2Tbz3p,['BOYFRIEND'],"{'k-pop boy group', 'j-pop boy group', 'k-pop'}",False,2011-10-06,40,0.544,0.926,1,-2.777,1,0.0594,0.0425,0.0,0.261,0.92,147.92,209972
+Like Ooh-Ahh,1Jk8M1iFFoTcL0IMuDHdsJ,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2015-10-20,67,0.72,0.876,6,-1.166,1,0.0776,0.241,0.000101,0.382,0.694,141.997,215080
+Way Back Home (feat. Conor Maynard) - Sam Feldt Edit,1ZLrDPgR7mvuTco3rQK8Pk,"['SHAUN', 'Conor Maynard', 'Sam Feldt']","{'viral pop', 'post-teen pop', 'tropical house', 'edm', 'pop', 'dance pop', 'pop edm', 'uk pop', 'k-pop'}",False,2018-12-21,76,0.737,0.747,10,-4.818,1,0.0323,0.269,0.0,0.219,0.447,105.943,192453
+Ah-Choo,4Kl017IgdJxdlvgnvrpYlE,['Lovelyz'],"{'korean pop', 'k-pop girl group', 'k-pop'}",False,2015-10-01,51,0.729,0.898,5,-1.029,1,0.0391,0.315,0.0,0.107,0.517,126.977,218475
+Super Fly,1PdQzu5XLJEwAYQqxwrkRL,['24K'],"{'k-pop boy group', 'k-pop'}",False,2015-10-01,43,0.658,0.958,11,-2.176,1,0.103,0.0508,0.0,0.37,0.626,96.51,191202
+RHYTHM TA,374WyJeaSR9Cmq4kuFzoqu,['iKON'],"{'k-pop boy group', 'k-pop'}",False,2015-12-24,56,0.764,0.819,2,-4.104,0,0.114,0.127,0.0,0.332,0.603,81.975,227056
+End of a day,0cAFqRrz8OqAoHdbiCM5OD,['JONGHYUN'],"{'korean pop', 'k-pop'}",False,2015-09-17,54,0.638,0.328,3,-7.686,1,0.0378,0.933,0.0,0.287,0.285,125.539,277224
+"SO, DANGEROUS",4YBd93JiF09t0NhcGVG5UJ,['UP10TION'],"{'k-pop boy group', 'k-pop'}",False,2015-09-11,39,0.742,0.921,2,-3.523,1,0.159,0.0288,0.0,0.0884,0.852,127.953,209825
+Mansae,5rIsrawNyPv1q8v11iwJsh,['SEVENTEEN'],"{'k-pop boy group', 'k-pop'}",False,2015-09-10,60,0.749,0.955,7,-1.767,1,0.0867,0.0547,0.0,0.112,0.761,111.96,186875
+Dumb Dumb,64iDjAuWDogVhuoWhKklF9,['Red Velvet'],"{'k-pop girl group', 'k-pop'}",False,2015-09-09,64,0.778,0.789,7,-4.297,0,0.0503,0.0334,2.05e-06,0.225,0.799,145.99,202543
+Laugh Laugh Laugh,7tOFn8o8PGQUFA8JHe3sft,['GOT7'],"{'k-pop boy group', 'k-pop'}",False,2014,25,0.757,0.861,4,-3.862,0,0.121,0.0229,0.0,0.461,0.561,96.022,211507
+Dream Candy,4h4O04FMZxSaZLtz8IGEzg,['APRIL'],"{'k-pop girl group', 'k-pop'}",False,2015-08-24,30,0.668,0.978,2,-4.41,1,0.161,0.185,0.0,0.352,0.542,129.978,216147
+Lion Heart,405SQUJdQut02dxtuQ0CZ3,"[""Girls' Generation""]","{'j-idol', 'k-pop girl group', 'k-pop'}",False,2015-08-19,61,0.754,0.788,2,-3.175,1,0.0322,0.129,0.00274,0.0775,0.961,124.992,224258
+ZUTTER (GD&T.O.P),3lYPk1b8Ai6R6zvayGyRbW,['BIGBANG'],"{'k-pop boy group', 'k-pop'}",False,2016-12-13,55,0.817,0.399,10,-5.482,0,0.076,0.11,0.0,0.122,0.3,90.015,194508
+Let's not fall in love,5QhE3ILw6KUR40fe0w35bb,['BIGBANG'],"{'k-pop boy group', 'k-pop'}",False,2015-08-05,48,0.685,0.843,0,-4.258,1,0.0499,0.121,0.0,0.126,0.637,125.029,211984
+Married To The Music,1ogT6eFnEuX5BDH8JoKjX8,['SHINee'],"{'k-pop boy group', 'k-pop'}",False,2015-08-03,50,0.729,0.869,10,-3.24,0,0.0994,0.107,0.0,0.0721,0.889,114.995,214689
+Gotta Go To Work,4XT9e16MRAv2fzgxCAbGHp,['Beast'],"{'k-pop boy group', 'k-pop'}",False,2015-07-27,31,0.716,0.737,2,-3.205,1,0.0837,0.438,0.0,0.124,0.903,94.962,199653
+Vibrato,22R5fogq6llYfzzpv12KyD,['Stellar'],"{'k-pop girl group', 'k-pop'}",False,2015-07-20,45,0.699,0.944,11,-2.907,0,0.167,0.112,0.0,0.735,0.855,115.961,182122
+I'm a HOTSHOT,1PuG9vhoeEGFRb6xIMDNVw,['HotShot'],"{'k-pop boy group', 'k-pop'}",False,2015-07-02,31,0.613,0.867,8,-4.128,1,0.0587,0.113,0.0,0.35,0.72,150.995,174013
+Um Oh Ah Yeh,42reErFmOTjPS2x8tbSw5N,['MAMAMOO'],"{'k-pop girl group', 'k-pop'}",False,2015-06-19,54,0.728,0.893,7,-1.896,1,0.0476,0.128,0.0,0.167,0.453,104.977,214088
+WE LIKE 2 PARTY,4mXEyvBmSPjS0SywQWWiwe,['BIGBANG'],"{'k-pop boy group', 'k-pop'}",False,2016-12-13,53,0.692,0.912,1,-3.323,0,0.297,0.0142,0.0,0.348,0.682,89.963,195579
+BANG BANG BANG,0QIRm9sUkGnezGznkWCqCo,['BIGBANG'],"{'k-pop boy group', 'k-pop'}",False,2016-12-13,69,0.694,0.832,5,-3.038,0,0.0598,0.0192,0.0,0.355,0.424,135.011,220238
+CALL ME BABY,6Rx0ORYPP3GH9rTvGS5Vy8,['EXO'],"{'k-pop boy group', 'k-pop'}",False,2015-03-30,67,0.692,0.886,1,-2.519,1,0.0519,0.284,0.0,0.341,0.879,100.03,211013
+Adore U,6wtgR5ZVbOZPHIeMNQwugp,['SEVENTEEN'],"{'k-pop boy group', 'k-pop'}",False,2015-05-29,60,0.533,0.851,7,-3.435,1,0.201,0.00281,1.57e-06,0.14,0.77,203.802,186650
+GOOD BAM,2iODlZgbroRzdfuxmFfPiH,['N.Flying'],"{'k-pop boy group', 'k-rock', 'k-pop'}",False,2019-10-15,50,0.741,0.898,7,-1.659,1,0.0672,0.279,0.0,0.156,0.8,108.021,210400
+Dope,4TiKZrN7gtc62SUiufpFCM,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2016-05-02,71,0.579,0.896,10,-2.781,0,0.224,0.0272,1.02e-06,0.352,0.678,153.991,240021
+Might Just Die,7lCjAGCmD3mSrmvahiG2fl,['HISTORY'],"{'k-pop boy group', 'k-pop'}",False,2015-05-21,38,0.475,0.922,1,-2.925,1,0.225,0.0228,0.0,0.0573,0.61,142.763,195240
+Trespass,0kRrmWLPSnOGQjoMEdW5RN,['Monsta X'],"{'k-pop boy group', 'k-pop'}",False,2015-05-14,50,0.596,0.763,2,-2.278,1,0.0615,0.00394,0.0,0.0672,0.162,99.923,205000
+Hello Bubble,14j8y6aQU0KdCe3GKagCSY,"[""Girl's Day""]","{'korean pop', 'k-pop girl group', 'k-pop'}",False,2015-07-07,31,0.737,0.911,7,-2.567,1,0.0441,0.28,0.0,0.126,0.806,106.972,203693
+BAE BAE,3CV5ak1oN85Vjx1NHiLK7H,['BIGBANG'],"{'k-pop boy group', 'k-pop'}",False,2016-12-13,60,0.687,0.63,0,-4.914,1,0.0401,0.0084,0.0,0.208,0.402,140.011,169482
+I Need U,7dlNGfd6Fq8xcFb4K6Glws,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2016-05-02,70,0.475,0.897,5,-2.383,0,0.0736,0.0184,0.0,0.296,0.642,78.918,210577
+Zero For Conduct,1bcux37fBrjXNoS11QQhCp,['Block B - BASTARZ'],"{'k-pop boy group', 'k-pop'}",False,2015-04-14,50,0.573,0.938,1,-3.136,1,0.207,0.0783,0.0,0.385,0.631,157.121,193692
+AH YEAH,2WDhYlm5gBepkMZHBk0LN7,['WINNER'],"{'k-pop boy group', 'k-pop'}",False,2019-05-15,56,0.797,0.722,7,-5.051,1,0.0388,0.356,0.0,0.177,0.878,128.01,176906
+One Spring Day,2KyaWbVO7zeClGfzxyWroj,['Urban Zakapa'],"{'korean pop', 'k-indie', 'k-pop'}",False,2011-05-17,28,0.466,0.307,5,-6.752,1,0.0358,0.846,0.0,0.101,0.307,139.226,269296
+Crayon,4CluCFFy6i1MUL1cYdoCif,['G-DRAGON'],"{'k-rap', 'k-pop'}",False,2013-11-06,52,0.718,0.934,11,-3.787,0,0.169,0.046,0.0,0.687,0.308,132.019,196920
+Ice Cream Cake,5vCuawHQ8Poch1odz9JDpB,['Red Velvet'],"{'k-pop girl group', 'k-pop'}",False,2015-03-17,60,0.58,0.935,9,-3.348,1,0.189,0.0318,0.0,0.0977,0.603,172.023,191440
+You’re Pitiful,6ssSzCx8vxqkYenaxJuObQ,['FIESTAR'],"{'k-pop girl group', 'k-pop'}",False,2015-03-04,43,0.786,0.851,4,-2.95,0,0.0457,0.324,0.0,0.0904,0.67,120.037,230123
+Love Equation,5bhyVuVfBsLBkQl2LCz9I5,['VIXX'],"{'k-pop boy group', 'k-pop'}",False,2015-02-24,31,0.713,0.969,10,-2.789,1,0.0433,0.291,0.0,0.374,0.846,132.012,209182
+Black Swan,24NuEDgyRIljwSyY0lsr7b,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2020-01-17,76,0.719,0.758,2,-5.167,0,0.0851,0.137,0.0,0.129,0.49,147.023,198261
+too very so MUCH,3bwldlnG87pSrAxBbwDXmb,['MYNAME'],"{'k-pop boy group', 'k-pop'}",False,2015-02-12,28,0.757,0.942,11,-2.645,0,0.12,0.172,0.0,0.0813,0.629,96.988,195657
+Stupid Liar,7c7h2a6rgCtVixxSzaAY49,['BIGBANG'],"{'k-pop boy group', 'k-pop'}",False,2011,47,0.624,0.81,0,-4.322,1,0.0337,0.0619,0.0,0.105,0.491,127.926,234787
+"Sorry, I'm Happy",7GRNhrpcXfrRql3NoLP03R,['Davichi'],"{'korean pop', 'k-pop'}",False,2015-01-21,24,0.629,0.747,10,-3.956,1,0.041,0.502,0.0,0.18,0.228,119.969,236446
+Shiroi Kiseki,2NfSHMTVjUoQDYS5DCyptU,['B1A4'],"{'k-pop boy group', 'k-pop'}",False,2018-02-21,9,0.592,0.625,1,-8.658,1,0.0328,0.177,2.09e-05,0.0684,0.422,119.954,244547
+Glass Bead,2rFRa1eJ8RqlINbJCZwdtt,['GFRIEND'],"{'k-pop girl group', 'k-pop'}",False,2015-01-15,54,0.695,0.87,6,-2.66,1,0.0359,0.2,0.0,0.0512,0.697,114.022,203482
+Crazy (Guilty Pleasure) [feat. IRON],4z1xOpkYXm1My9JwNMdtIF,['JONGHYUN'],"{'korean pop', 'k-pop'}",False,2015-01-12,41,0.447,0.882,1,-3.772,1,0.37,0.0697,0.0,0.0958,0.628,180.971,221183
+The Winter's Tale,2vB31lIPJPHBfjOkgW1CQr,['BTOB'],"{'k-pop boy group', 'k-pop'}",False,2014-12-22,32,0.681,0.783,11,-4.056,1,0.0361,0.159,0.0,0.285,0.662,115.013,259030
+Candy Jelly Love,0zeVK5QootqFfVKQQ5thFu,['Lovelyz'],"{'korean pop', 'k-pop girl group', 'k-pop'}",False,2014-11-17,34,0.783,0.896,7,-3.125,1,0.0562,0.395,0.0,0.11,0.902,119.984,224411
+하지하지마 Stop stop it,5DMJmSSOWD6Zx0Jg0TXEB6,['GOT7'],"{'k-pop boy group', 'k-pop'}",False,2014-11-28,53,0.577,0.612,7,-3.804,1,0.0459,0.00886,0.0,0.0524,0.686,178.314,196701
+Good Night Like Yesterday,1uaYyZVXhGU5PgyFl54fS0,['Lovelyz'],"{'korean pop', 'k-pop girl group', 'k-pop'}",False,2014-11-17,34,0.638,0.716,5,-4.893,1,0.0308,0.133,7.63e-05,0.0834,0.632,159.998,221267
+I'm not a boy not yet a man,7yu1ssNuY2P49jqxWatp5C,['CROSS GENE'],"{'k-pop boy group', 'k-pop'}",False,2015-04-13,21,0.689,0.935,0,-2.962,0,0.0799,0.427,0.0,0.144,0.76,101.936,231880
+나타나 주라 Over the Destiny,4P0jpleMuX0EGoHM0TD32w,['2AM'],"{'korean pop', 'k-pop'}",False,2014-10-30,27,0.522,0.444,4,-6.737,1,0.0296,0.696,1.89e-06,0.117,0.138,118.013,264848
+오늘따라 days like today,1laTW1bfgX6H1cEf35FqhZ,['2AM'],"{'korean pop', 'k-pop'}",False,2014-10-30,23,0.679,0.5,0,-6.698,1,0.03,0.671,1.66e-05,0.372,0.381,87.945,225006
+War of Hormone,3D26URfsMlCNaa51mj9jOt,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2014-08-20,64,0.612,0.993,9,-1.895,1,0.24,0.116,0.0,0.307,0.487,98.004,265602
+Born Hater,5U7tpgpGPatDwrpUn5MuZg,"['Epik High', 'Beenzino', 'Verbal Jint', 'B.I', 'MINO', 'Bobby']","{'korean pop', 'k-rap', 'k-indie', 'k-pop'}",False,2014-10-22,48,0.788,0.776,10,-5.516,0,0.315,0.0271,0.0,0.313,0.87,97.97,327127
+12:30,0uvl4TuFhdWZshHX9Hd6kI,['Beast'],"{'k-pop boy group', 'k-pop'}",False,2014-10-20,47,0.637,0.792,1,-2.932,1,0.033,0.346,0.0,0.0743,0.536,99.909,233848
+Be Natural,41qLzxymjkp0R5vl3REb1S,"['Red Velvet', 'TAEYONG']","{'k-pop girl group', 'k-pop'}",False,2014-10-13,49,0.58,0.868,10,-1.195,0,0.316,0.123,0.0,0.302,0.772,178.002,280451
+You're So Fly,5MYdcegiD7t4fgp8YEdyGD,['BTOB'],"{'k-pop boy group', 'k-pop'}",False,2014-09-29,35,0.818,0.889,11,-1.359,0,0.0793,0.102,0.0,0.366,0.963,115.976,206106
+I`m Fine Thank You,3M3qFIT3WOp9njyqj5LqZL,"[""LADIES' CODE""]","{'k-pop girl group', 'k-pop'}",False,2013-09-05,30,0.661,0.516,5,-4.868,0,0.029,0.265,0.0,0.0686,0.479,81.98,241294
+The Gangnam Avenue,0XY2NKMssAcuYluSmsNZeq,['Orange Caramel'],"{'k-pop girl group', 'k-pop'}",False,2014-08-18,29,0.567,0.998,4,-2.818,1,0.076,0.00993,6.52e-06,0.0625,0.25,140.095,196156
+Pit-a-Pat,5w3R1N8AV5Xa5wHuoQ2srY,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2016-10-24,42,0.663,0.882,7,-2.54,1,0.144,0.123,0.00013,0.318,0.612,178.03,207507
+My Copycat,37jsbSR1kLHfNWOjwFnTlD,['Orange Caramel'],"{'k-pop girl group', 'k-pop'}",False,2014-08-18,44,0.746,0.951,6,-1.506,1,0.1,0.0932,0.00061,0.0576,0.836,128.994,200160
+Color ring (4 ver.),20e7tNjJ1pcos8X5g8U1QV,['WINNER'],"{'k-pop boy group', 'k-pop'}",False,2020-04-09,40,0.571,0.761,2,-6.239,1,0.0633,0.484,0.0,0.0709,0.398,139.927,235152
+Go Your Way,5CKEQUucs3M5To1LqfC8Qq,['Stella Jang'],"{'korean pop', 'k-indie', 'k-pop', 'korean city pop'}",False,2020-04-07,30,0.918,0.115,10,-11.39,1,0.208,0.16,0.0,0.0745,0.479,96.003,116000
+어젯밤 이야기 [Eojetbam Iyagi] : Last night story,0EOWckhigz9Fd2qS5Foiqh,['IU'],{'k-pop'},False,2017-09-22,45,0.599,0.786,6,-4.795,0,0.0573,0.0904,0.000474,0.0247,0.631,170.855,233051
+Hot Baby,1sxsrTcoeJlLL7qbfM2bjX,['BESTie'],"{'k-pop girl group', 'k-pop'}",False,2014-07-28,28,0.757,0.871,7,-2.629,1,0.08,0.208,0.0,0.373,0.467,128.032,205389
+Touch my body,5crARIrvoMiMf2AdlD78WN,['SISTAR'],"{'korean pop', 'k-pop girl group', 'k-pop'}",False,2014-07-21,59,0.633,0.915,9,-2.347,1,0.106,0.0437,0.0,0.107,0.622,128.033,206500
+SOLO DAY,58wbNn4eEsvAqTz4JJxn9L,['B1A4'],"{'k-pop boy group', 'k-pop'}",False,2014-07-14,41,0.666,0.901,0,-4.018,1,0.102,0.116,0.0,0.271,0.593,119.945,199040
+Good Bye Bye,7pzSzXBmYzO7qTKODtFDeL,"[""NU'EST""]","{'korean pop', 'k-pop boy group', 'k-pop'}",False,2014-07-09,38,0.591,0.899,11,-2.974,0,0.109,0.0174,0.0,0.127,0.341,127.961,207891
+Amazing -Bad Lady-,5rXRiLBhVCjuCJ1B76DuTl,['CROSS GENE'],"{'k-pop boy group', 'k-pop'}",False,2015-04-13,30,0.562,0.871,10,-3.497,0,0.0678,0.00954,1.39e-06,0.119,0.777,156.104,167600
+U Beauty,5HOMZP6J1KtefNjhyExvbT,['100%'],"{'k-pop boy group', 'k-pop'}",False,2014-07-07,21,0.637,0.904,1,-3.019,0,0.0604,0.084,0.0,0.159,0.784,125.018,195272
+So Into U,183rP1cwTfACvHVl2pxy5L,['f(x)'],"{'k-pop girl group', 'k-pop'}",False,2011-04-20,23,0.537,0.702,7,-3.67,0,0.0323,0.326,0.0,0.332,0.413,77.513,215880
+Short Hair,05G51ez5Z73NRE0l2QtZfH,['AOA'],"{'k-pop girl group', 'k-pop'}",False,2014-06-19,48,0.743,0.883,11,-2.016,1,0.0374,0.307,0.0,0.304,0.881,109.979,214589
+Mr-Ambiguous,0j5vNjUquRktzFqZexjADt,['MAMAMOO'],"{'k-pop girl group', 'k-pop'}",False,2014-06-18,51,0.752,0.852,7,-3.451,1,0.0799,0.418,0.0,0.233,0.772,124.938,221489
+2 years apart,1GlFf1f1fkvAs0Ni3UCk64,['Eddy Kim'],"{'korean pop', 'k-pop'}",False,2014-04-11,32,0.791,0.383,11,-7.9,0,0.145,0.326,1.53e-06,0.106,0.724,104.959,231288
+Obsession,7fK0csBoqbcgUuWGV0cpoD,['EXO'],"{'k-pop boy group', 'k-pop'}",False,2019-11-27,71,0.704,0.729,7,-3.851,1,0.0624,0.0024,0.0,0.218,0.71,129.992,203520
+Last Romeo,4logEnZaIjQCGTJIxxGAZq,['INFINITE'],"{'k-pop boy group', 'k-pop'}",False,2014-05-21,43,0.601,0.972,11,-1.316,0,0.0575,0.0598,1.01e-06,0.269,0.757,122.083,196820
+Abing abing,5GvdqsZZlGJwhfFK0mZDGP,['Orange Caramel'],"{'k-pop girl group', 'k-pop'}",False,2014-05-20,33,0.759,0.968,5,-1.575,0,0.0475,0.0862,0.000396,0.0481,0.783,127.983,190480
+Good-night Kiss,5ZRSZ26QTuFi4AjOLy6Wcp,['Jun Hyo Seong'],{'k-pop'},False,2014-05-12,38,0.73,0.793,7,-4.605,1,0.0889,0.0676,0.0,0.393,0.716,132.987,205584
+Hate You - Live,1tzFYvChIplg3ZB4r93VHE,['2NE1'],"{'k-pop girl group', 'k-pop', 'dance pop'}",False,2012-12-04,14,0.699,0.819,11,-4.309,0,0.0492,0.00566,0.00301,0.924,0.626,125.099,199400
+Just One Day,4ZSLc2F15wKVPjyLt169tt,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2014-02-12,69,0.504,0.712,9,-4.705,1,0.379,0.175,0.0,0.377,0.307,189.577,239470
+UH-EE,5hgr14IyY776gLw3RCmcZz,['Crayon Pop'],"{'k-pop girl group', 'k-pop'}",False,2016-09-26,35,0.804,0.988,1,-2.998,1,0.0444,0.00218,0.0571,0.0671,0.836,145.041,193254
+Mr. Chu,6fT9eZYgSvhu9v8wzrZkdG,['Apink'],"{'k-pop girl group', 'k-pop'}",False,2014-03-31,51,0.769,0.837,2,-3.499,1,0.0631,0.359,0.0,0.238,0.584,120.005,214750
+Whatcha Doin' Today,4zPF7ERedaIZGDIxnE1KVH,['4Minute'],"{'k-pop girl group', 'k-pop'}",False,2014-03-17,48,0.817,0.95,11,-1.991,0,0.0458,0.185,0.0,0.337,0.97,133.041,206028
+Catallena,5fWKr5p15BTazjflJ6HX5j,['Orange Caramel'],"{'k-pop girl group', 'k-pop'}",False,2014-03-12,53,0.69,0.931,4,-2.061,0,0.0298,0.0325,4.37e-05,0.199,0.957,126.983,193154
+Come Back Home,4nwka1iX4tB0vykphXa9ae,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2017-07-04,60,0.648,0.881,11,-4.42,0,0.081,0.00155,1.11e-06,0.113,0.457,100.011,244588
+Thank u very much,54sCxok4RWSUX9v0kDnRWy,['BESTie'],"{'k-pop girl group', 'k-pop'}",False,2014-07-28,30,0.795,0.859,11,-2.83,1,0.0436,0.0572,0.0,0.352,0.761,107.013,192800
+Mr.Mr.,3JaMGQXJmtbAhvgl0nBPPN,"[""Girls' Generation""]","{'j-idol', 'k-pop girl group', 'k-pop'}",False,2014-02-24,59,0.701,0.964,4,-2.037,0,0.127,0.114,9.34e-06,0.153,0.484,113.058,235434
+Arario - K-Traditional Ver.,7L8jWgXjbDVSgybPHq7PrU,['ToppDogg'],"{'k-pop boy group', 'k-pop'}",False,2014-01-01,34,0.569,0.955,8,-1.224,1,0.191,0.0289,0.0,0.253,0.558,172.111,192885
+Boy in Luv,0i0hqOQdyFFd4cR5s32w8x,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2014-05-14,68,0.491,0.947,0,-2.252,1,0.306,0.00262,0.0,0.34,0.473,166.247,230778
+1004 - Angel,3BBOgNp88aV5wV6hJjyS01,['B.A.P'],"{'k-pop boy group', 'k-pop'}",False,2018-11-28,21,0.615,0.874,11,-3.646,0,0.0381,0.278,0.0,0.183,0.767,126.98,207333
+Miniskirt,6Yj8kVuVR3UPxx9r5eFEoV,['AOA'],"{'k-pop girl group', 'k-pop'}",False,2014-01-16,58,0.758,0.858,5,-2.502,1,0.0464,0.43,0.0,0.201,0.963,119.992,179808
+Don't be happy,3Q5oL2Zyq0QV5U78f8D1kR,"['MAMAMOO', 'BUMKEY']","{'korean pop', 'k-pop girl group', 'k-pop'}",False,2013-01-09,44,0.769,0.666,11,-4.109,0,0.086,0.444,0.0,0.3,0.602,102.003,216999
+Thank You for My Love,3m0M4vCI5W4R95ZOX2Q3uF,['VIXX'],"{'k-pop boy group', 'k-pop'}",False,2013-11-25,24,0.567,0.659,2,-5.298,1,0.0334,0.268,0.0,0.109,0.297,81.993,256772
+MORE & MORE,3omvXShuRPM3zbDpWYqf5g,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2020-06-01,81,0.739,0.841,5,-4.162,1,0.06,0.0312,0.0,0.173,0.562,106.99,199653
+Zzang Christmas (feat.Yoo Sae Yoon),1maULN53nxXtDP6MKqP17H,['BESTie'],"{'k-pop girl group', 'k-pop'}",False,2013-12-17,5,0.627,0.878,6,-2.462,1,0.0574,0.475,0.0,0.298,0.695,148.022,202031
+Miracles in December - Chinese Version,7E6DGBjglm97F16qvdJYbX,['EXO'],"{'k-pop boy group', 'k-pop'}",False,2013-12-09,35,0.597,0.305,8,-7.88,1,0.0328,0.686,0.0,0.165,0.232,119.789,273288
+Three Dopeboyz,6TWlfF0NDu8fJoBIgZCr0w,"['Dynamicduo', 'Zion.T']","{'k-rap', 'k-indie', 'korean r&b', 'korean pop', 'k-pop'}",False,2013-07-01,39,0.677,0.757,7,-5.847,1,0.258,0.0776,0.0,0.311,0.633,101.297,254400
+Love Options,1FakZVUIMvQfLzUlYfmSAz,['BESTie'],"{'k-pop girl group', 'k-pop'}",False,2014-07-28,37,0.756,0.899,7,-3.184,0,0.031,0.0627,0.0,0.118,0.914,122.98,192070
+"Girls, why? (Feat. OKDAL)",25s0Y2mn5ZnWmCAJdK2BOl,"['VIXX', 'OKDAL']","{'korean pop', 'k-pop boy group', 'k-indie', 'k-pop'}",False,2013-10-11,22,0.717,0.756,11,-4.733,1,0.0422,0.282,0.0,0.0916,0.568,120.047,213063
+Very Good,51tTndblt6ycaAonSkrmov,['Block B'],"{'k-pop boy group', 'korean r&b', 'k-pop'}",False,2013-10-02,46,0.651,0.911,8,-1.887,1,0.0563,0.0116,0.0,0.229,0.788,135.992,200000
+Dancing Queen 2.0,3XSVvAahOSahEU2Ngxd4OF,['Crayon Pop'],"{'k-pop girl group', 'k-pop'}",False,2016-09-26,27,0.742,0.953,5,-2.085,1,0.0516,0.0295,0.186,0.325,0.904,129.957,200594
+Pretty Pretty,4toxxD0D1tAAZPqbA8zsCX,['PENTAGON'],"{'k-pop boy group', 'k-pop'}",False,2016-12-07,37,0.715,0.92,7,-4.998,1,0.146,0.123,0.0,0.121,0.707,105.034,189042
+Damaged Lady,1X1Z8YnSOYkgzWBEYGoF2M,['KARA'],"{'j-idol', 'k-pop girl group', 'k-pop'}",False,2013-09-02,40,0.591,0.938,6,-2.799,0,0.0764,0.0539,3.13e-05,0.0579,0.762,92.98,186070
+Boys Meet U,13SBKaDcDhmVkYKDUocBFN,['SHINee'],"{'k-pop boy group', 'k-pop'}",False,2018-04-18,29,0.805,0.735,11,-3.0,0,0.0576,0.132,0.0,0.212,0.965,117.954,166827
+Growl,23SzJlDeMlVbUNicQ7V2o7,['EXO'],"{'k-pop boy group', 'k-pop'}",False,2013-08-05,43,0.664,0.774,11,-2.601,0,0.0573,0.12,0.0,0.229,0.846,89.996,207053
+U R SO CUTE,57hlnC1NdwWakuNCaXFRK2,['24K'],"{'k-pop boy group', 'k-pop'}",False,2013-08-01,20,0.647,0.816,7,-2.568,1,0.0814,0.137,0.0,0.127,0.85,131.964,193578
+MOYA,6glpcXkXExtumL9zGeK2uM,['AOA'],"{'k-pop girl group', 'k-pop'}",False,2013-07-26,41,0.902,0.77,1,-3.706,1,0.0516,0.252,0.0,0.0654,0.894,122.993,220356
+첫 사랑니 (Rum Pum Pum Pum),22sIPXiQzcPydCC6skPPPq,['f(x)'],"{'k-pop girl group', 'k-pop'}",False,2013-07-29,52,0.774,0.819,11,-2.976,1,0.0383,0.509,1.72e-05,0.239,0.543,119.984,197672
+We Are Bulletproof Pt.2,2Kspa0jD2MSkaEdonf4Cnb,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2013-06-12,67,0.754,0.952,8,-5.11,0,0.153,0.00945,6.27e-06,0.189,0.868,144.051,225360
+PITAPAT (DKDK),30x5JeY6aI3nIJF6S97Jqp,['fromis_9'],"{'k-pop girl group', 'k-pop'}",False,2018-06-05,50,0.642,0.886,5,-3.471,1,0.154,0.155,0.0,0.0971,0.781,159.918,183377
+N.O,1hehPTlSVIhHEvCkVoe4HX,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2013-09-11,63,0.594,0.914,11,-3.764,0,0.167,0.0389,0.0,0.457,0.571,146.885,209752
+NoNoNo,5SusX17QvBBkH7WfMbTU0j,['Apink'],"{'k-pop girl group', 'k-pop'}",False,2013-07-05,57,0.74,0.908,4,-2.668,0,0.0327,0.106,0.0,0.0637,0.745,105.996,220099
+"Sexy, Free & Single",0NXA8T0dRJGaj4jJ9TfZdD,['SUPER JUNIOR'],"{'k-pop boy group', 'k-pop'}",False,2012-07-01,48,0.75,0.919,1,-3.323,1,0.0327,0.000984,0.0,0.456,0.718,114.944,223882
+G.R.8.U,4vaA5d0w2PQ4ciEM5VMvLb,['VIXX'],"{'k-pop boy group', 'k-pop'}",False,2013-07-31,32,0.63,0.894,8,-1.878,0,0.0532,0.109,0.0,0.0753,0.827,115.988,209425
+Is It Poppin'?,6Yp2NcLYo4JbwQs4EQ2pO7,['4Minute'],"{'k-pop girl group', 'k-pop'}",False,2013-06-28,38,0.779,0.906,11,-4.074,1,0.0441,0.407,1.74e-06,0.081,0.907,124.953,190198
+Bar Bar Bar,4gdCLKxDflDweye4bsfNnW,['Crayon Pop'],"{'k-pop girl group', 'k-pop'}",False,2016-09-26,45,0.931,0.818,2,-2.964,1,0.0445,0.0131,0.697,0.0765,0.856,134.015,180532
+Be Ambitious!,65lk7l5kY4qlwn9EF0e5P8,['BVNDIT'],"{'k-pop girl group', 'k-pop'}",False,2019-04-10,24,0.591,0.735,4,-5.229,1,0.0474,0.00285,0.0582,0.186,0.289,118.078,67927
+No More Dream,4frlkLwlnm58ejpNwWjxyl,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2013-06-12,68,0.436,0.869,2,-5.174,1,0.472,0.0124,1.6e-06,0.494,0.612,167.766,221593
+Black Tinkerbell,4DXPGxI5wGCmypQNcuhmwE,['Chocolat'],"{'shibuya-kei', 'k-pop'}",False,2014-08-13,26,0.771,0.692,4,-3.448,0,0.0325,0.0882,0.0,0.232,0.906,116.988,206341
+Smoky Girl,3Gr66dKQP9bH83V9UoCQSb,['MBLAQ'],"{'k-pop boy group', 'k-pop'}",False,2013-08-12,40,0.807,0.599,9,-6.664,0,0.107,0.0483,0.0,0.0759,0.472,129.958,210875
+MaMa Beat,1U4riB29aZlHIgFwuP3OKN,"['LC9', 'Gain']",{'k-pop'},False,2013-05-09,20,0.76,0.9,1,-3.845,1,0.18,0.00775,0.0,0.0579,0.774,110.009,197878
+YooHoo,16t8Ao3DlWXJZspLvRL9Yo,['Secret'],"{'k-pop girl group', 'k-pop'}",False,2013-04-30,33,0.758,0.892,2,-2.414,1,0.0672,0.11,0.0,0.0463,0.902,151.092,204696
+Dreamer (Narr. IU),5iQ8ecI4MBljHL8fDgEDc3,['HISTORY'],"{'k-pop boy group', 'k-pop'}",False,2013-04-26,23,0.719,0.829,0,-5.115,1,0.0347,0.168,0.0,0.155,0.468,111.985,247197
+Shaking Heart,3OytMsfKSusJJqJgRUiIYy,['C-CLOWN'],"{'k-pop boy group', 'k-pop'}",False,2013-04-18,32,0.798,0.786,9,-3.308,0,0.0364,0.34,0.0,0.149,0.965,120.039,211801
+Man In Love,4CLZtVqnJTaTMiPEiwpO0E,['INFINITE'],"{'k-pop boy group', 'k-pop'}",False,2013-03-21,44,0.605,0.95,6,-2.935,0,0.0784,0.0433,0.0,0.37,0.863,121.986,197213
+Bye Bye Happy Days!,6sFlAa9a5x2VFcvSnIXc4r,['KARA'],"{'j-idol', 'k-pop girl group', 'k-pop'}",False,2014-08-28,26,0.649,0.976,4,-3.618,1,0.0524,0.0398,8.22e-05,0.189,0.784,133.004,276506
+One Spring Day,2KyaWbVO7zeClGfzxyWroj,['Urban Zakapa'],"{'korean pop', 'k-indie', 'k-pop'}",False,2011-05-17,28,0.466,0.307,5,-6.752,1,0.0358,0.846,0.0,0.101,0.307,139.226,269296
+Miss Right,6WAKgjqoVT0nwPkfL04HBl,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2014-05-14,58,0.721,0.835,1,-4.926,1,0.211,0.371,0.0,0.0765,0.855,92.97,241375
+Love Recipe,7BEJvbEEJqd7jQEQ1w110U,['Ailee'],"{'korean pop', 'k-pop'}",False,2015-09-30,23,0.652,0.902,1,-2.882,1,0.0393,0.362,4.22e-06,0.0793,0.93,126.985,205400
+Gone not around any longer,4TAENzBN2lYuXBF9ZNauwJ,['SISTAR19'],"{'k-pop girl group', 'k-pop'}",False,2013-01-31,46,0.652,0.805,8,-4.399,1,0.0301,0.172,0.0,0.094,0.713,145.977,211096
+Just that little thing,4f7p9zqSRiyfcIlYY5MDp5,['MYNAME'],"{'k-pop boy group', 'k-pop'}",False,2013-01-25,21,0.678,0.964,0,-1.632,0,0.0949,0.0494,0.0,0.323,0.763,129.958,221100
+I-Yah,3ZY3X2iHuoAEJTB4mKTggj,['WJSN'],"{'k-pop girl group', 'k-pop'}",False,2018-09-19,36,0.617,0.86,7,-2.553,1,0.0469,0.0569,0.0,0.0745,0.537,124.056,227840
+I GOT A BOY,2WkPfNd237yc0l5KewCDpp,"[""Girls' Generation""]","{'j-idol', 'k-pop girl group', 'k-pop'}",False,2013-01-01,56,0.502,0.863,4,-1.273,0,0.272,0.0342,0.0,0.538,0.527,97.911,271326
+Dazzling Girl,17Q2KNoI6tiK7zQMbGlr2h,['SHINee'],"{'k-pop boy group', 'k-pop'}",False,2013-06-21,19,0.688,0.914,11,-2.798,1,0.0371,0.0983,0.0,0.703,0.776,129.996,210627
+What are you doing today?!,4WN2fmsWaeArBGmHPKYsyi,['HA SUNG WOON'],{'k-pop'},False,2019-07-08,28,0.804,0.685,0,-4.945,0,0.0422,0.0178,0.0,0.196,0.759,111.967,201347
+Polar Star,2BlWIxX8IJGuCqA3ES2e1J,['FTISLAND'],"{'korean pop', 'k-pop boy group', 'k-rock', 'k-pop'}",False,2020-05-20,17,0.385,0.965,6,-2.921,1,0.128,0.00611,0.0,0.389,0.418,151.965,242639
+White Night,33txTXgQioQ5eaXc7yWd67,['NCT 127'],"{'k-pop boy group', 'k-pop'}",False,2020-03-06,50,0.56,0.568,7,-3.967,0,0.0288,0.203,0.0,0.13,0.214,70.978,243427
+Humanoids,2tpUPxgw7wmJeLjgaOeG1s,['TVXQ!'],"{'korean pop', 'k-pop boy group', 'k-pop'}",False,2014-05-22,32,0.735,0.933,1,-4.745,1,0.0732,0.0034,0.000133,0.922,0.447,119.971,226992
+Far away… Young love,3sm4Y7jIMFIFsviVYo9xXr,['C-CLOWN'],"{'k-pop boy group', 'k-pop'}",False,2012-11-15,39,0.637,0.803,7,-3.481,1,0.112,0.139,0.0,0.585,0.737,183.96,224549
+Tried to walk,2EZN8NPWyihMDMZ6l3vKZI,['B1A4'],"{'k-pop boy group', 'k-pop'}",False,2012-11-12,45,0.661,0.771,0,-6.054,1,0.0647,0.11,0.0,0.204,0.662,132.95,216805
+JANUS,2TnisrTHhBfZTlfPQa2M6v,['BOYFRIEND'],"{'k-pop boy group', 'j-pop boy group', 'k-pop'}",False,2012-11-08,43,0.517,0.948,6,-3.402,0,0.0761,0.0139,0.0,0.131,0.701,94.005,208274
+Nillili Mambo,4fZYGHiRcKxwVSnF498uaE,['Block B'],"{'k-pop boy group', 'korean r&b', 'k-pop'}",False,2012-10-17,51,0.755,0.839,9,-2.693,0,0.0538,0.0119,0.0,0.0905,0.512,109.938,205322
+Hurry UP (Palliwow),2JisWglHD5qVsLMlLuz99L,['24K'],"{'k-pop boy group', 'k-pop'}",False,2012-09-06,15,0.618,0.959,6,-2.275,1,0.154,0.0888,0.0,0.36,0.717,114.049,218880
+Rock Ur Body,6umGsF6dYcjfZhZZDVL7wk,['VIXX'],"{'k-pop boy group', 'k-pop'}",False,2012-08-14,32,0.693,0.864,0,-1.301,1,0.0608,0.00874,0.0,0.102,0.852,130.031,222249
+Be ma girl,2YcEIRw6dhdtAwg1E1dNky,['TEEN TOP'],"{'korean pop', 'k-pop boy group', 'k-pop'}",False,2012-08-03,36,0.704,0.857,9,-2.558,1,0.0398,0.0235,0.0,0.0658,0.833,130.018,198818
+Friday (T.G.I.Friday`s Brand Song),1nvleAzfTcivKS7aj2UnPe,['CNBLUE'],"{'k-pop boy group', 'k-pop'}",False,2012-07-31,17,0.603,0.941,4,-3.285,0,0.0688,0.00698,0.0,0.352,0.818,143.944,200255
+Bing Bing,0tHkBl71ZHXaFdc0sNGQHz,['Red Velvet'],"{'k-pop girl group', 'k-pop'}",False,2019-12-23,47,0.774,0.888,10,-3.689,1,0.0641,0.106,3.84e-05,0.432,0.45,114.035,202404
+SOLO,2wVDWtLKXunswWecARNILj,['JENNIE'],{'k-pop'},False,2018-11-12,74,0.751,0.642,3,-5.165,0,0.087,0.0861,0.0,0.0953,0.388,95.045,169567
+Loving U,65w0pdINTiQjWBaE4Rws9Y,['SISTAR'],"{'korean pop', 'k-pop girl group', 'k-pop'}",False,2012-06-28,50,0.69,0.85,9,-2.057,1,0.0793,0.191,0.0,0.291,0.891,124.945,217992
+Love Style,2Yfa0T7tevc8tWqlIaq5eK,['BOYFRIEND'],"{'k-pop boy group', 'j-pop boy group', 'k-pop'}",False,2012-06-14,26,0.65,0.979,8,-2.223,1,0.094,0.0424,0.0,0.0401,0.702,122.922,191086
+Electric Shock,7tMN6iGJMulMFpSCeU7pmU,['f(x)'],"{'k-pop girl group', 'k-pop'}",False,2012-06-10,55,0.757,0.898,5,-1.632,0,0.0327,0.0927,7.85e-06,0.493,0.537,125.029,196947
+OMG (Oh My God),5EuXi5p1tkKi19v4exT7B4,"[""Girls' Generation-TTS""]","{'k-pop girl group', 'k-pop'}",False,2012-04-30,28,0.73,0.948,7,-1.027,1,0.18,0.0888,1.54e-05,0.392,0.78,137.839,204437
+Baby Good Night,2oGmdVqkbq4qT973lkQMnL,['GD&TOP'],"{'k-rap', 'k-pop'}",False,2010,44,0.667,0.679,0,-5.994,1,0.0887,0.435,0.0,0.104,0.323,90.03,210477
+Irresistible Lips,5tU0cI0qG1YCxnl0GIVMzk,['BTOB'],"{'k-pop boy group', 'k-pop'}",False,2012-05-23,38,0.586,0.874,10,-4.606,1,0.0586,0.00358,0.0,0.0946,0.188,133.051,228362
+The Chaser,6fzJaYb6xprozFzFdqfI9s,['INFINITE'],"{'k-pop boy group', 'k-pop'}",False,2012-05-15,50,0.549,0.977,1,-1.443,0,0.115,0.00735,0.0,0.0399,0.582,127.006,202520
+Volume Up,2RKgRT8O8K3DXfsGfnbNWx,['4Minute'],"{'k-pop girl group', 'k-pop'}",False,2012-04-09,47,0.641,0.877,3,-2.726,0,0.0337,0.014,0.000131,0.0792,0.454,130.045,230008
+Sherlock (Clue + Note),2sVtrcj32v3fR8mLjqWziv,['SHINee'],"{'k-pop boy group', 'k-pop'}",False,2012-03-21,55,0.64,0.937,1,-2.112,1,0.0839,0.0069,0.0,0.393,0.316,107.013,239187
+Papillon,7EFmA3zysrOPJNRqhYCOVd,"['Jackson Wang', 'boytoy']","{'k-pop', 'hong kong hip hop'}",False,2017-12-01,56,0.815,0.684,4,-2.535,0,0.24,0.0103,0.0,0.0994,0.519,170.091,195057
+너도 나처럼 I Wonder If You Hurt Like Me,2NDEW4uf4rvM5FytTtBrbZ,['2AM'],"{'korean pop', 'k-pop'}",False,2012-03-12,39,0.59,0.48,6,-6.599,1,0.0305,0.76,0.0,0.125,0.14,127.919,228454
+Fantastic Baby,7bB3eTpZ7ecuN7C7dTQomt,['BIGBANG'],"{'k-pop boy group', 'k-pop'}",False,2013-11-06,58,0.726,0.841,2,-3.924,1,0.0545,0.002,0.0,0.0649,0.582,130.012,230573
+WHOZ THAT GIRL,5wzdAEtPFXYmtXncGpJfAs,['EXID'],"{'k-pop girl group', 'k-pop'}",False,2012-02-16,35,0.739,0.874,1,-2.333,1,0.101,0.0117,0.0,0.0319,0.787,127.894,210077
+Russian Roulette,7puC9LjNg0ItpjTz28yeaY,['Red Velvet'],"{'k-pop girl group', 'k-pop'}",False,2018-07-04,62,0.706,0.902,7,-2.543,0,0.0352,0.00909,0.00137,0.17,0.964,130.024,211213
+NalinA,7dgO6H1BxXeXfxDkiDN8E9,['Block B'],"{'k-pop boy group', 'korean r&b', 'k-pop'}",False,2012-02-02,50,0.775,0.962,8,-3.709,1,0.0849,0.0556,0.0,0.0667,0.922,115.012,202632
+Severely,55IWnmlg29mY9EiLhH514C,['FTISLAND'],"{'korean pop', 'k-pop boy group', 'k-rock', 'k-pop'}",False,2012-01-31,47,0.557,0.812,4,-3.085,1,0.0286,0.0395,0.0,0.258,0.496,141.888,250645
+What is Love,1IX47gefluXmKX4PrTBCRM,['TWICE'],"{'k-pop girl group', 'k-pop'}",False,2018-07-09,73,0.574,0.909,8,-1.572,1,0.0655,0.0988,0.0,0.264,0.565,169.964,208240
+Hi High,0RqzUS7AkBhQDrBxcGFeDv,['LOONA'],"{'k-pop girl group', 'k-pop'}",False,2018-08-20,61,0.67,0.916,9,-2.261,0,0.0731,0.0363,5.35e-06,0.221,0.532,97.004,196864
+The DJ is Mine,5pNFSJZlN54s12G7fbXFzi,['Wonder Girls'],"{'k-pop girl group', 'k-pop'}",False,2012-06-03,29,0.686,0.922,4,-3.679,0,0.301,0.253,0.0,0.574,0.576,135.974,240278
+Funny Hunny - Origin,0BPImVWnFjCOg2hczuFJ00,['Orange Caramel'],"{'k-pop girl group', 'k-pop'}",False,2012-06-20,23,0.69,0.901,5,-3.725,0,0.0378,0.0717,5.66e-05,0.0776,0.832,130.036,188547
+Trouble Maker,0RP3Qjp1QhIjhtG7gYoBqn,['Trouble Maker'],{'k-pop'},False,2011-12-01,58,0.838,0.805,10,-2.723,0,0.0541,0.0826,3.77e-06,0.0778,0.952,115.026,219638
+One Spring Day,2KyaWbVO7zeClGfzxyWroj,['Urban Zakapa'],"{'korean pop', 'k-indie', 'k-pop'}",False,2011-05-17,28,0.466,0.307,5,-6.752,1,0.0358,0.846,0.0,0.101,0.307,139.226,269296
+So today...,2QoKxbMAkapVu82CQrSFUp,['FTISLAND'],"{'korean pop', 'k-pop boy group', 'k-rock', 'k-pop'}",False,2020-05-20,18,0.337,0.698,5,-1.545,1,0.0354,0.00651,0.0,0.125,0.537,156.135,242212
+Love Is Move,1CpaOwx6drokgCsQV13Ylg,['Secret'],"{'k-pop girl group', 'k-pop'}",False,2011-10-18,34,0.695,0.961,9,-2.516,1,0.117,0.036,2.79e-05,0.0116,0.963,160.915,202109
+Shanghai Romance,4YRTsmrGk2Y8uVkTuGbdJj,['Orange Caramel'],"{'k-pop girl group', 'k-pop'}",False,2012-09-12,39,0.589,0.911,4,-3.699,0,0.0461,0.0396,4.22e-06,0.124,0.483,148.959,226194
+Like Birds,400PMwuEiGjtUFvM9kjS3T,['FTISLAND'],"{'korean pop', 'k-pop boy group', 'k-rock', 'k-pop'}",False,2011-10-10,30,0.487,0.929,5,-2.903,1,0.196,0.211,0.0,0.288,0.334,145.978,208640
+Don't Touch my Girl,7nK4hyMZkGCOjEot2Tbz3p,['BOYFRIEND'],"{'k-pop boy group', 'j-pop boy group', 'k-pop'}",False,2011-10-06,40,0.544,0.926,1,-2.777,1,0.0594,0.0425,0.0,0.261,0.92,147.92,209972
+Sixth Sense,1wwuD36K0lZ9RDJPnGUXnT,['Brown Eyed Girls'],"{'korean pop', 'k-pop girl group', 'k-pop'}",False,2011-09-16,45,0.673,0.933,5,-1.414,0,0.169,0.0279,0.0,0.357,0.662,127.905,227866
+Don't Flirt!,09jo9jJX8PCfFa53M1SGfO,"[""Girl's Day""]","{'korean pop', 'k-pop girl group', 'k-pop'}",False,2012-03-08,24,0.643,0.976,6,-2.265,1,0.128,0.0267,2.82e-05,0.0984,0.885,147.91,186371
+Mr. Simple,6QTBYKLlV2PQniwAWrBV2z,['SUPER JUNIOR'],"{'k-pop boy group', 'k-pop'}",False,2011-08-02,58,0.913,0.745,1,-2.837,1,0.0506,0.000219,0.00208,0.0622,0.795,127.996,241827
+No more perfume on you,3UFnHBPaPkZhe04IqqlUcn,['TEEN TOP'],"{'korean pop', 'k-pop boy group', 'k-pop'}",False,2011-07-26,44,0.591,0.872,8,-3.427,0,0.0411,0.00507,0.0,0.108,0.768,130.018,210678
+Good-bye Baby,3zsqNf5Qm06qOiO8E0IxQU,['miss A'],"{'k-pop girl group', 'k-pop'}",False,2011-07-18,49,0.77,0.817,8,-4.088,0,0.0431,0.0485,5.22e-05,0.0699,0.729,138.054,225574
+Beautiful Target,6sECoPPkNmP6RIzYXEhvxA,['B1A4'],"{'k-pop boy group', 'k-pop'}",False,2011-09-16,42,0.737,0.935,8,-3.292,1,0.0325,0.112,0.0,0.434,0.661,129.987,197468
+Roly-Poly,36r4cTfmjVo5JYqNBIcjk6,['T-ARA'],"{'k-pop girl group', 'k-pop'}",False,2011-06-29,54,0.831,0.849,7,-7.407,1,0.0542,0.092,2.96e-05,0.0458,0.902,130.005,214427
+I Am The Best,26EM9sZnQkLLQxixGd88KE,['2NE1'],"{'k-pop girl group', 'k-pop', 'dance pop'}",False,2014-12-09,66,0.819,0.844,0,-3.739,1,0.038,0.00767,0.00834,0.056,0.687,127.997,208731
+Starlight MoonLight,7KdvEspeuMRqs5TyTscD7j,['Secret'],"{'k-pop girl group', 'k-pop'}",False,2011-06-01,38,0.804,0.773,0,-4.281,1,0.0487,0.356,0.0,0.166,0.832,130.048,233862
+Shall We Dance,7xMBlV5OBTiHlUraGaHGqs,['Block B'],"{'k-pop boy group', 'korean r&b', 'k-pop'}",False,2018-01-09,53,0.854,0.721,2,-3.769,1,0.0776,0.0157,0.0,0.153,0.828,112.012,180807
+Play Ur Love,667GbVQ6E6Y9PLBlwp4ot1,['After School'],"{'k-pop girl group', 'k-pop'}",False,2011-04-28,23,0.593,0.741,5,-5.107,1,0.061,0.178,2.49e-06,0.108,0.53,155.844,227527
+Ma Boy,1CkTEh21SLHbiAj2qy8wc1,['SISTAR19'],"{'k-pop girl group', 'k-pop'}",False,2011-05-03,56,0.746,0.758,7,-4.745,0,0.0651,0.325,4e-06,0.247,0.689,89.96,196728
+Let’s Step Up,7v5HC3acn4vEzH5m30BUFe,['After School'],"{'k-pop girl group', 'k-pop'}",False,2011-04-28,20,0.734,0.592,10,-9.557,0,0.0549,3.21e-05,0.0653,0.0345,0.451,125.054,104960
+MR. TAXI (Original Title : Mr. Taxi),6BaZmJzvAtXx72MjSHSlbf,"[""Girls' Generation""]","{'j-idol', 'k-pop girl group', 'k-pop'}",False,2011-01-01,43,0.86,0.938,10,-2.596,0,0.0943,0.0286,0.0,0.0856,0.884,122.022,212733
+Pinocchio (Danger),0fUDzNEPCbjLVyC1OOs5B5,['f(x)'],"{'k-pop girl group', 'k-pop'}",False,2011-04-20,45,0.844,0.888,11,-1.369,0,0.12,0.117,0.0,0.328,0.879,118.023,191640
+Pink Rocket,6Bpe0JymXViEiYUkMSNjlu,['Dalshabet'],"{'k-pop girl group', 'k-pop'}",False,2011-04-11,18,0.747,0.925,11,-2.568,1,0.0973,0.0304,7.11e-05,0.309,0.562,125.957,204561
+Dr. Feel Good,23QWj2CyhiUU6KLnmR6yul,['Rania'],"{'k-pop girl group', 'k-pop'}",False,2012-09-18,39,0.876,0.728,1,-7.354,1,0.0634,0.000658,0.0,0.0925,0.499,124.04,234815
+You Are My Everything,4s80CRYk3rRPZE56NvmFi7,['Gummy'],"{'korean pop', 'k-pop'}",False,2016-03-10,65,0.339,0.498,6,-5.121,1,0.0386,0.663,0.0,0.119,0.104,132.999,240590
+Baby Good Night,2oGmdVqkbq4qT973lkQMnL,['GD&TOP'],"{'k-rap', 'k-pop'}",False,2010,44,0.667,0.679,0,-5.994,1,0.0887,0.435,0.0,0.104,0.323,90.03,210477
+Supa Luv,16rn4UsqU9Gwy4nYOYgJtQ,['TEEN TOP'],"{'korean pop', 'k-pop boy group', 'k-pop'}",False,2011-01-13,42,0.703,0.845,2,-3.82,0,0.0456,0.00166,0.0,0.16,0.606,116.028,201456
+BTD (Before The Dawn),1IoCgKZwRgvMZzha9c52jM,['INFINITE'],"{'k-pop boy group', 'k-pop'}",False,2011-01-06,40,0.399,0.964,10,-2.412,0,0.137,0.0222,0.0,0.154,0.757,204.118,184453
+Shady Girl,7rWRuFyvRqMlUh8rUTuWqb,['SISTAR'],"{'korean pop', 'k-pop girl group', 'k-pop'}",False,2010-08-25,38,0.79,0.891,6,-4.054,0,0.0437,0.0654,0.000929,0.0661,0.889,124.974,194351
+Bad Girl Good Girl,7kTKAdVVlDxve6Qr7Hm7Qc,['miss A'],"{'k-pop girl group', 'k-pop'}",False,2011-07-18,56,0.793,0.805,10,-4.224,1,0.0438,0.1,9.03e-05,0.0641,0.507,135.987,217560
+Victory Korea,7FrSESXuHix9bHDOqdJ1yc,['SUPER JUNIOR'],"{'k-pop boy group', 'k-pop'}",False,2010-05-20,21,0.742,0.979,9,-3.821,0,0.146,0.0346,0.0,0.331,0.622,130.004,198818
+2 Different Tears,6iMkucHKeoIT5AWWMMZVy2,['Wonder Girls'],"{'k-pop girl group', 'k-pop'}",False,2010-05-15,30,0.796,0.697,8,-6.363,0,0.0402,0.0969,3.83e-05,0.0914,0.745,124.025,204080
+2 Different Tears,6iMkucHKeoIT5AWWMMZVy2,['Wonder Girls'],"{'k-pop girl group', 'k-pop'}",False,2010-05-15,30,0.796,0.697,8,-6.363,0,0.0402,0.0969,3.83e-05,0.0914,0.745,124.025,204080
+미인아 Bonamana,2cRTwcRq1idIR9NrcYKb63,['SUPER JUNIOR'],"{'k-pop boy group', 'k-pop'}",False,2010-05-13,54,0.79,0.911,11,-1.756,0,0.074,0.000444,0.0145,0.101,0.876,125.012,239187
+NU ABO,1NcsCToPRUh9AI6ua83jAm,['f(x)'],"{'k-pop girl group', 'k-pop'}",False,2010-05-04,46,0.703,0.773,10,-3.529,0,0.0629,0.0186,0.0,0.279,0.392,95.007,224333
+We're With You,4jEOgntchVnO1j40sgUA9f,['KARA'],"{'j-idol', 'k-pop girl group', 'k-pop'}",False,2010-05-03,25,0.513,0.923,2,-3.735,1,0.155,0.0199,0.0,0.208,0.764,158.943,204400
+seoul (prod. HONNE),73ipE4lfZ53pvBbJPXkiEK,['RM'],"{'k-rap', 'k-pop'}",False,2018-10-22,69,0.587,0.664,0,-8.63,1,0.0645,0.344,2.47e-05,0.324,0.453,99.8,275955
+Apple Is A,28Dcm3OeHniOlg7baQ8UIu,['T-ARA'],"{'k-pop girl group', 'k-pop'}",False,2009-11-27,34,0.713,0.92,2,-3.66,1,0.0325,0.176,0.0,0.312,0.719,135.952,189507
+Bo Peep Bo Peep,72d7SM72TZcTSekEX5UoeE,['T-ARA'],"{'k-pop girl group', 'k-pop'}",False,2009-11-27,49,0.824,0.95,5,-4.163,0,0.0308,0.00974,0.000117,0.199,0.97,128.031,225040
+Blue Orangeade,7C31PdvTuSvEFqn2sKISsX,['TOMORROW X TOGETHER'],{'k-pop'},False,2019-03-04,61,0.758,0.848,0,-3.601,1,0.0572,0.00611,0.0,0.143,0.42,111.015,185520
+KOE WO KIKASETE - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL,3IBZcTeLOvt18WzVOjLj5G,['BIGBANG'],"{'k-pop boy group', 'k-pop'}",False,2018-08-17,33,0.52,0.869,6,-5.203,1,0.0447,0.0116,0.0,0.862,0.328,119.957,253800
+Ring Ding Dong,4vLqN0bIxIQjlet2mIMBnx,['SHINee'],"{'k-pop boy group', 'k-pop'}",False,2009-10-19,58,0.835,0.934,1,-1.258,1,0.0431,0.125,0.000501,0.222,0.811,124.98,233280
+TTL Listen.2,2olr7AoagJQviFJxesHZl2,['T-ARA'],"{'k-pop girl group', 'k-pop'}",False,2009-11-27,37,0.701,0.881,10,-3.093,1,0.0794,0.0222,0.0,0.191,0.711,120.041,211773
+T.T.L Time To Love,4bovnAJ0d6LggfIiv4hIkj,['T-ARA'],"{'k-pop girl group', 'k-pop'}",False,2009-11-27,46,0.647,0.915,2,-2.752,0,0.177,0.211,0.0,0.119,0.711,105.027,218773
+LA chA TA,4vfyrKuMEL6tAo65jMALsy,['f(x)'],"{'k-pop girl group', 'k-pop'}",False,2011-06-14,45,0.828,0.898,0,-2.429,1,0.042,0.0633,0.0,0.0758,0.914,113.948,194040
+Are You A Good Girl,2FqVdmQZWdj8DhpQEcg7BA,['TVXQ!'],"{'korean pop', 'k-pop boy group', 'k-pop'}",False,2008-09-19,23,0.808,0.92,1,-0.809,0,0.0578,0.0512,0.00467,0.128,0.783,130.036,251053
+Gara Gara Go!!,5hFugfSDVfW2ClT3tXlBfe,['BIGBANG'],"{'k-pop boy group', 'k-pop'}",False,2018-10-27,33,0.823,0.733,11,-6.151,0,0.0428,0.00242,1.24e-06,0.0234,0.839,119.987,198912
+Hot Issue,1QqaaKVZxu9ExhYjKGgI4N,['4Minute'],"{'k-pop girl group', 'k-pop'}",False,2009-06-15,49,0.854,0.833,1,-2.787,1,0.043,0.00136,0.0703,0.0466,0.364,128.008,208773
+Hahaha Song - Live,4xCtA8koApxmmgpg0EhNQZ,"[""Girls' Generation""]","{'j-idol', 'k-pop girl group', 'k-pop'}",False,2013-11-04,22,0.692,0.891,2,-4.62,1,0.148,0.374,0.0,0.818,0.718,151.966,196973
+I'm in Trouble,30iB3Vk6T4gAUfZ0OvmwxY,"[""NU'EST""]","{'korean pop', 'k-pop boy group', 'k-pop'}",False,2020-05-11,60,0.829,0.627,8,-4.533,0,0.0814,0.153,0.0,0.0702,0.733,100.047,184200
+"Map the Soul (Worldwide Version) [feat. Tablo, MYK & Kero One]",5D1vzchjH805WYLLVpeUjr,"['Epik High', 'Kero One', 'Myk', 'Tablo']","{'k-rap', 'k-indie', 'jazz boom bap', 'ambeat', 'jazz rap', 'korean r&b', 'asian american hip hop', 'korean pop', 'k-pop'}",False,2009-03-27,33,0.838,0.642,4,-7.486,0,0.122,0.228,3.7e-06,0.11,0.627,98.02,273147
+I'm in Trouble,30iB3Vk6T4gAUfZ0OvmwxY,"[""NU'EST""]","{'korean pop', 'k-pop boy group', 'k-pop'}",False,2020-05-11,60,0.829,0.627,8,-4.533,0,0.0814,0.153,0.0,0.0702,0.733,100.047,184200
+8282,0a0M1XuLAN2CSlUWryj903,['Davichi'],"{'korean pop', 'k-pop'}",False,2009-02-27,47,0.566,0.676,2,-5.6,1,0.0789,0.0806,0.0,0.095,0.279,143.077,219160
+U R Man,4EKS4BdlS8yL7iMbE8G35Z,['SS501'],"{'k-pop boy group', 'k-pop'}",False,2008-11-21,46,0.81,0.905,11,-7.415,0,0.0342,0.058,3.17e-06,0.149,0.908,117.011,203678
+Number 1,2GGzUBEJE1dN2PHrf7neS7,['LOONA'],"{'k-pop girl group', 'k-pop'}",False,2020-02-05,51,0.689,0.945,11,-3.346,1,0.0454,0.0844,0.0,0.412,0.774,103.982,202947
+"1분 1초 One Minute One Second, A Little Memory (feat. 타루 Taru)",0OVzTNggAu9chKnBlyDm44,"['Epik High', '타루 Taru']","{'korean pop', 'k-rap', 'k-indie', 'k-pop'}",False,2009-07-22,23,0.682,0.498,7,-8.913,1,0.0352,0.258,0.0,0.0861,0.658,155.089,226667
+MIROTIC,4BZhUnXvXYRQJPClr0hhIC,['TVXQ!'],"{'korean pop', 'k-pop boy group', 'k-pop'}",False,2008-09-19,48,0.722,0.784,1,-2.411,0,0.0408,0.049,0.0,0.0895,0.705,99.985,208467
+Love Like Oxygen,0B7QAF2ByMFCp1Ls5ov6R7,['SHINee'],"{'k-pop boy group', 'k-pop'}",False,2008-08-28,42,0.565,0.783,0,-2.348,1,0.256,0.0138,0.0,0.434,0.832,196.565,182893
+SOLO,2wVDWtLKXunswWecARNILj,['JENNIE'],{'k-pop'},False,2018-11-12,74,0.751,0.642,3,-5.165,0,0.087,0.0861,0.0,0.0953,0.388,95.045,169567
+Haru Haru,0qQBuGsT79rKtmmfC0V38x,['BIGBANG'],"{'k-pop boy group', 'k-pop'}",False,2008-08-08,62,0.687,0.914,6,-5.02,1,0.0437,0.166,0.0,0.0858,0.675,126.001,256360
+"Even though I hate you, I love you (Special Track)",2yoTyFjOAOYCRDBzWfSFq4,['Davichi'],"{'korean pop', 'k-pop'}",False,2018-01-26,34,0.336,0.288,6,-9.552,1,0.0423,0.763,0.0,0.0982,0.277,90.467,325151
+Last Farewell,4AwiJcTliO5VUsBNp5NZgP,['BIGBANG'],"{'k-pop boy group', 'k-pop'}",False,2007-11-22,49,0.703,0.934,6,-2.92,0,0.166,0.0459,0.0,0.116,0.822,135.02,231800
+Marry U,5gy62OiW2cri7dyir11hsL,['SUPER JUNIOR'],"{'k-pop boy group', 'k-pop'}",False,2007-09-20,41,0.661,0.622,8,-5.875,1,0.0396,0.569,0.0,0.133,0.603,95.002,199147
+Lion Heart,405SQUJdQut02dxtuQ0CZ3,"[""Girls' Generation""]","{'j-idol', 'k-pop girl group', 'k-pop'}",False,2015-08-19,61,0.754,0.788,2,-3.175,1,0.0322,0.129,0.00274,0.0775,0.961,124.992,224258
+A Man's First Love Follows Him to the Grave,2HjsQbzYlJuZlYW8BfFe3m,['FTISLAND'],"{'korean pop', 'k-pop boy group', 'k-rock', 'k-pop'}",False,2007-06-08,25,0.809,0.63,7,-6.212,0,0.0761,0.25,0.0,0.172,0.646,89.0,236920
+Into the New World,24Gy6lVtCd8nOL2vzZiFyV,"[""Girls' Generation""]","{'j-idol', 'k-pop girl group', 'k-pop'}",False,2007-08-02,55,0.699,0.908,7,-2.108,1,0.0334,0.0531,0.0,0.116,0.6,108.023,267320
+You're My Miracle,1LGtdWqFtQPPs904scXNKq,['TVXQ!'],"{'korean pop', 'k-pop boy group', 'k-pop'}",False,2006-09-29,23,0.632,0.876,11,-3.125,1,0.0397,0.355,0.0,0.251,0.739,123.935,239280
+Unlock It (feat. Kim Petras and Jay Park),3qGHAKgjQruzj6doKkyEb5,"['Charli XCX', 'Kim Petras', 'Jay Park']","{'electropop', 'k-rap', 'transpop', 'metropopolis', 'post-teen pop', 'korean r&b', 'art pop', 'k-pop', 'candy pop', 'dance pop', 'pop', 'escape room', 'uk pop', 'indie poptimism'}",True,2017-12-15,57,0.504,0.711,9,-5.864,1,0.0452,0.0585,1.83e-05,0.382,0.5,134.824,232933
+A Fool Of Tears,2cODfIZHSvVoOIMonmICuI,['BIGBANG'],"{'k-pop boy group', 'k-pop'}",False,2006-12-22,34,0.706,0.629,0,-6.333,1,0.0385,0.0452,0.0,0.126,0.584,124.037,242747
+Holding Back The Tears,5r9DA7ciY71VEgcjkiZXDC,['TVXQ!'],"{'korean pop', 'k-pop boy group', 'k-pop'}",False,2006-07-28,25,0.503,0.475,2,-7.121,1,0.0253,0.0961,0.0,0.0883,0.263,75.996,229867
+Twins (Knock Out),0C4NNrGcJJ21Kc5FwrFCY3,['SUPER JUNIOR'],"{'k-pop boy group', 'k-pop'}",False,2005-12-05,36,0.632,0.913,7,-1.118,1,0.171,0.0284,0.0,0.34,0.839,171.891,201080
+Hi Ya Ya 여름날,5lC4gziKMPSihnedZbwAEn,['TVXQ!'],"{'korean pop', 'k-pop boy group', 'k-pop'}",False,2005-06-20,28,0.711,0.909,10,-2.431,1,0.0411,0.0128,0.0,0.108,0.698,126.013,211400
+TRI-ANGLE - Extended Version,4Wkw62rPTP1v37vdwUJ1Yg,['TVXQ!'],"{'korean pop', 'k-pop boy group', 'k-pop'}",False,2004-10-01,28,0.536,0.856,7,-4.428,0,0.0911,0.024,0.0,0.297,0.454,90.069,274040
+I-Yah,3ZY3X2iHuoAEJTB4mKTggj,['WJSN'],"{'k-pop girl group', 'k-pop'}",False,2018-09-19,36,0.617,0.86,7,-2.553,1,0.0469,0.0569,0.0,0.0745,0.537,124.056,227840
+Come Back Home,4nwka1iX4tB0vykphXa9ae,['BTS'],"{'k-pop boy group', 'k-pop'}",False,2017-07-04,60,0.648,0.881,11,-4.42,0,0.081,0.00155,1.11e-06,0.113,0.457,100.011,244588
